@@ -54,7 +54,7 @@
         deck-id  (extract-deck-download-id html)]
     (if deck-id
       (let [deck-txt (fetch-page (str base-url "/deck/download/" deck-id))
-            path     (str "decks/" fmt "/" prefix "-" name ".txt")]
+            path     (str "decks/" fmt "/" prefix "-" name ".dck")]
         (spit path deck-txt)
         (println (str "    -> saved " path)))
       (println (str "    !! no download link found for " name)))))
