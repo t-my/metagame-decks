@@ -1,6 +1,8 @@
 # Metagame Decks
 
-Downloads top metagame decklists from [MTG Goldfish](https://www.mtggoldfish.com) across all major formats.
+[![Download latest](https://img.shields.io/github/v/release/t-my/metagame-decks?label=download&sort=date)](https://github.com/t-my/metagame-decks/releases/latest/download/metagame-decks.zip)
+
+Top metagame decklists from [MTG Goldfish](https://www.mtggoldfish.com) across all major formats.
 
 ## Formats
 
