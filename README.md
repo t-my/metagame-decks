@@ -15,10 +15,6 @@ Standard, Modern, Pioneer, Historic, Explorer, Timeless, Alchemy, Pauper, Legacy
 ```bash
 # Download a single format (top 30 decks)
 bb download.clj legacy
-
-Decks are saved to `decks/<format>/`, e.g.:
-
-```
 decks/
 ├── legacy/
 │   ├── 01-dimir-tempo.txt

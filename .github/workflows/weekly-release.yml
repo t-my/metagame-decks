@@ -15,9 +15,9 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Install Babashka
-        uses: tuyafeng/setup-babashka@v1
+        uses: DeLaGuardo/setup-clojure@13.4
         with:
-          version: '1.12.196'
+          bb: latest
 
       - name: Download all formats
         run: |
