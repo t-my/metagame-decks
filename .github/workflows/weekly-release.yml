@@ -1,0 +1,40 @@
+name: Weekly Metagame Decks
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'  # Every Monday at 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  download-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Babashka
+        uses: tuyafeng/setup-babashka@v1
+        with:
+          version: '1.12.196'
+
+      - name: Download all formats
+        run: |
+          for fmt in standard modern pioneer historic explorer timeless alchemy pauper legacy vintage penny_dreadful premodern duel_commander commander brawl; do
+            bb download.clj "$fmt" &
+          done
+          wait
+
+      - name: Create zip
+        run: zip -r metagame-decks.zip decks/
+
+      - name: Create release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG=$(date +%Y-%m-%d)
+          gh release create "$TAG" \
+            --title "$TAG" \
+            --notes "Weekly metagame deck snapshot for $TAG" \
+            metagame-decks.zip
