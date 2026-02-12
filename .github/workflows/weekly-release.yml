@@ -19,12 +19,26 @@ jobs:
         with:
           bb: latest
 
-      - name: Download all formats
-        run: |
-          for fmt in standard modern pioneer historic explorer timeless alchemy pauper legacy vintage penny_dreadful premodern duel_commander commander brawl; do
-            bb download.clj "$fmt" &
-          done
-          wait
+      - name: Download legacy
+        run: bb download.clj legacy
+
+      - name: Download premodern
+        run: bb download.clj premodern
+
+      - name: Download modern
+        run: bb download.clj modern
+
+      - name: Download pauper
+        run: bb download.clj pauper
+
+      - name: Download vintage
+        run: bb download.clj vintage
+
+      - name: Download duel_commander
+        run: bb download.clj duel_commander
+
+      - name: Download commander
+        run: bb download.clj commander
 
       - name: Commit updated card cache
         run: |
