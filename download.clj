@@ -1,10 +1,14 @@
 #!/usr/bin/env bb
 
 (require '[babashka.http-client :as http]
+         '[cheshire.core :as json]
+         '[clojure.edn :as edn]
          '[clojure.string :as str])
 
 (def base-url "https://www.mtggoldfish.com")
+(def scryfall-api "https://api.scryfall.com")
 (def max-decks 30)
+(def cache-file "card-cache.edn")
 
 (def formats
   ["standard"
@@ -23,19 +27,80 @@
    "commander"
    "brawl"])
 
+;; Card cache: {"Card Name" "SET:number", ...}
+(def card-cache (atom {}))
+
+(defn load-cache! []
+  (when (.exists (java.io.File. cache-file))
+    (reset! card-cache (edn/read-string (slurp cache-file)))))
+
+(defn save-cache! []
+  (let [sorted (into (sorted-map) @card-cache)]
+    (spit cache-file
+          (str "{\n"
+               (str/join "\n" (map (fn [[k v]] (str " " (pr-str k) " " (pr-str v))) sorted))
+               "\n}\n"))))
+
 (defn fetch-page [url]
   (-> (http/get url {:headers {"User-Agent" "Mozilla/5.0"}})
       :body))
 
+(defn scryfall-lookup [card-name]
+  (Thread/sleep 100)
+  (try
+    (let [q    (str "!\"" card-name "\" new:language")
+          url  (str scryfall-api "/cards/search?q=" (java.net.URLEncoder/encode q "UTF-8"))
+          resp (http/get url {:headers {"User-Agent" "Mozilla/5.0"
+                                        "Accept"     "application/json"}})
+          data (json/parse-string (:body resp))
+          card (first (get data "data"))]
+      (when card
+        (str (str/upper-case (get card "set")) ":" (get card "collector_number"))))
+    (catch Exception e
+      (println (str "      !! scryfall lookup failed for: " card-name " (" (.getMessage e) ")"))
+      nil)))
+
+(defn resolve-card [card-name]
+  (if-let [cached (get @card-cache card-name)]
+    cached
+    (when-let [result (scryfall-lookup card-name)]
+      (swap! card-cache assoc card-name result)
+      (save-cache!)
+      result)))
+
+(defn parse-deck-line [line]
+  (when-let [[_ qty name] (re-matches #"(\d+)\s+(.+)" line)]
+    {:qty (Integer/parseInt qty) :name name}))
+
+(defn format-xmage-line [{:keys [qty name]} card-info]
+  (if card-info
+    (str qty " [" card-info "] " name)
+    (str qty " " name)))
+
+(defn convert-deck! [path]
+  (let [lines     (str/split-lines (slurp path))
+        sideboard (atom false)
+        converted (mapv (fn [line]
+                          (if (str/blank? line)
+                            (do (reset! sideboard true) nil)
+                            (when-let [parsed (parse-deck-line line)]
+                              (let [info   (resolve-card (:name parsed))
+                                    formatted (format-xmage-line parsed info)]
+                                (if @sideboard
+                                  (str "SB: " formatted)
+                                  formatted)))))
+                        lines)]
+    (spit path (str/join "\n" (remove nil? converted)))))
+
+;; MTG Goldfish scraping
+
 (defn extract-archetype-slugs
-  "Parse the metagame page HTML to find unique /archetype/{format}-* links."
   [fmt html]
   (->> (re-seq (re-pattern (str "href=\"(/archetype/" fmt "-[^\"#]+)")) html)
        (map second)
        distinct))
 
 (defn extract-deck-download-id
-  "Parse an archetype page to find the /deck/download/{id} link."
   [html]
   (some->> (re-find #"href=\"/deck/download/(\d+)\"" html)
            second))
@@ -56,6 +121,8 @@
       (let [deck-txt (fetch-page (str base-url "/deck/download/" deck-id))
             path     (str "decks/" fmt "/" prefix "-" name ".dck")]
         (spit path deck-txt)
+        (println (str "    -> converting to xmage format"))
+        (convert-deck! path)
         (println (str "    -> saved " path)))
       (println (str "    !! no download link found for " name)))))
 
@@ -73,6 +140,8 @@
         (Thread/sleep 1000)))))
 
 (defn -main [& args]
+  (load-cache!)
+  (println (str "Card cache: " (count @card-cache) " entries"))
   (let [fmt (first args)]
     (if fmt
       (if (some #{fmt} formats)
@@ -81,7 +150,7 @@
         (do (println (str "Unknown format: " fmt))
             (println (str "Available: " (str/join ", " formats)))
             (System/exit 1)))
-      (do (println "Usage: bb download_legacy.clj <format>")
+      (do (println "Usage: bb download.clj <format>")
           (println (str "Available: " (str/join ", " formats)))
           (System/exit 1)))))
 

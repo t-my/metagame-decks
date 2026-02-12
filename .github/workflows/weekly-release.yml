@@ -26,6 +26,13 @@ jobs:
           done
           wait
 
+      - name: Commit updated card cache
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add card-cache.edn
+          git diff --cached --quiet || git commit -m "Update card cache" && git push
+
       - name: Create zip
         run: zip -r metagame-decks.zip decks/
 
