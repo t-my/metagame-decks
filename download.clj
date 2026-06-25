@@ -7,7 +7,7 @@
 
 (def base-url "https://www.mtggoldfish.com")
 (def scryfall-api "https://api.scryfall.com")
-(def max-decks 30)
+(def max-decks 25)
 (def cache-file "card-cache.edn")
 
 (def formats
@@ -41,12 +41,39 @@
                (str/join "\n" (map (fn [[k v]] (str " " (pr-str k) " " (pr-str v))) sorted))
                "\n}\n"))))
 
+(def max-retries 5)
+
+(defn- retry-after-ms
+  "Parse a Retry-After header (delta-seconds) into millis, defaulting to backoff."
+  [resp default-ms]
+  (if-let [hdr (get-in resp [:headers "retry-after"])]
+    (try (* 1000 (Long/parseLong (str/trim hdr)))
+         (catch Exception _ default-ms))
+    default-ms))
+
 (defn fetch-page [url]
-  (-> (http/get url {:headers {"User-Agent" "Mozilla/5.0"}})
-      :body))
+  (loop [attempt 0]
+    (let [resp (http/get url {:headers          {"User-Agent" "Mozilla/5.0"}
+                              :throw            false})]
+      (cond
+        (= 200 (:status resp))
+        (:body resp)
+
+        (and (#{429 500 502 503 504} (:status resp)) (< attempt max-retries))
+        (let [backoff (* 1000 (long (Math/pow 2 attempt)))   ; 1s,2s,4s,8s,16s
+              wait    (retry-after-ms resp backoff)]
+          (println (str "    !! HTTP " (:status resp) " from " url
+                        " — retrying in " (long (/ wait 1000)) "s (attempt "
+                        (inc attempt) "/" max-retries ")"))
+          (Thread/sleep wait)
+          (recur (inc attempt)))
+
+        :else
+        (throw (ex-info (str "HTTP " (:status resp) " fetching " url)
+                        {:status (:status resp) :url url}))))))
 
 (defn scryfall-lookup [card-name]
-  (Thread/sleep 100)
+  (Thread/sleep 50)
   (try
     (let [q    (str "!\"" card-name "\" new:language")
           url  (str scryfall-api "/cards/search?q=" (java.net.URLEncoder/encode q "UTF-8"))
@@ -137,7 +164,7 @@
       (println (str "Found " (count slugs) " archetypes (capped at " max-decks ")"))
       (doseq [[idx slug] (map-indexed #(vector (inc %1) %2) slugs)]
         (download-deck! fmt idx slug)
-        (Thread/sleep 1000)))))
+        (Thread/sleep 250)))))
 
 (defn -main [& args]
   (load-cache!)
