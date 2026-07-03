@@ -72,9 +72,10 @@
 1 Machinist's Arsenal
 1 Dancer's Chakrams
 1 Bespoke Bo
-1 The Mighty Thor, Jane Foster
 1 Glacial Fortress
 1 Celestial Armor
 1 Assassin Gauntlet
 1 Teleportation Circle
 1 We Say Thee Nay!
+
+1 The Mighty Thor, Jane Foster

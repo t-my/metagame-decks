@@ -1,5 +1,4 @@
 1 Spider-Man, Peter Parker
-1 Captain America, Team Leader
 1 The Wasp, Winsome Avenger
 1 Ant-Man, Elusive Avenger
 1 Bastion Protector
@@ -95,3 +94,5 @@
 1 Rescue, Pepper Potts
 1 Swords to Plowshares
 1 Thor, God of Thunder
+
+1 Captain America, Team Leader

@@ -89,6 +89,7 @@
 1 Urborg, Tomb of Yawgmoth
 1 Vault of Champions
 1 Yavimaya, Cradle of Growth
-1 Jodah, the Unifier
 1 War of the Last Alliance
 1 Minsc & Boo, Timeless Heroes
+
+1 Jodah, the Unifier

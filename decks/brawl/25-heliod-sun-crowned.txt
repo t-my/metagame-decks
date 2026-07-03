@@ -1,4 +1,3 @@
-1 Heliod, Sun-Crowned
 1 Ajani, Strength of the Pride
 1 Aerith Gainsborough
 1 Ajani's Pridemate
@@ -83,3 +82,5 @@
 1 Victory's Envoy
 1 Idyllic Grange
 1 Abandoned Air Temple
+
+1 Heliod, Sun-Crowned

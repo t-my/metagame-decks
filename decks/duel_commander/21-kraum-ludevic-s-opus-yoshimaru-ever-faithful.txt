@@ -92,5 +92,6 @@
 1 Witch Enchanter
 1 Abstergo Entertainment
 1 Ash, Party Crasher
-1 Yoshimaru, Ever Faithful
+
 1 Kraum, Ludevic's Opus
+1 Yoshimaru, Ever Faithful

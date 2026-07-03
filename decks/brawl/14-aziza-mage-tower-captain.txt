@@ -73,4 +73,5 @@
 1 Needleverge Pathway
 1 Primal Amulet
 1 Command Tower
+
 1 Aziza, Mage Tower Captain

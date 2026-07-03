@@ -1,4 +1,3 @@
-1 Caesar, Legion's Emperor
 1 Abraded Bluffs
 1 Adeline, Resplendent Cathar
 1 Ainok Strike Leader
@@ -78,3 +77,5 @@
 1 Zurgo Stormrender
 1 Zurgo's Vanguard
 1 Zurgo, Thunder's Decree
+
+1 Caesar, Legion's Emperor

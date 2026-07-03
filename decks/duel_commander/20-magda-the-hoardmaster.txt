@@ -74,4 +74,5 @@
 1 Wooded Foothills
 1 Winter Moon
 1 Scalding Tarn
+
 1 Magda, the Hoardmaster

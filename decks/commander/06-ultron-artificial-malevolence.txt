@@ -56,7 +56,6 @@
 1 Triplicate Titan
 1 Ugin, the Ineffable
 1 Ultima, Origin of Oblivion
-1 Ultron, Artificial Malevolence
 1 Ur-Golem's Eye
 1 Urza's Mine
 1 Urza's Power Plant
@@ -96,3 +95,5 @@
 1 Spine of Ish Sah
 1 Ash Barrens
 1 Planar Bridge
+
+1 Ultron, Artificial Malevolence

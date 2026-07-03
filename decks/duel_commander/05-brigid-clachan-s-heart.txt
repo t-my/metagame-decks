@@ -1,6 +1,5 @@
 1 Delighted Halfling
 1 Birds of Paradise
-1 Brigid, Clachan's Heart
 1 Dryad Arbor
 1 Llanowar Elves
 1 Avacyn's Pilgrim
@@ -92,3 +91,5 @@
 1 Lush Portico
 4 Forest
 4 Plains
+
+1 Brigid, Clachan's Heart

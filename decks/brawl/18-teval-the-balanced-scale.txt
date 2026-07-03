@@ -1,4 +1,3 @@
-1 Teval, the Balanced Scale
 1 Forest
 1 Island
 1 Swamp
@@ -98,3 +97,5 @@
 1 Cauldron of Essence
 1 Emeritus of Abundance
 1 Vastlands Scavenger
+
+1 Teval, the Balanced Scale

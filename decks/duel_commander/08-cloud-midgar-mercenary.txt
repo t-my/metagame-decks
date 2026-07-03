@@ -67,4 +67,5 @@
 1 Urza's Saga
 1 Voice of Victory
 1 Witch Enchanter
+
 1 Cloud, Midgar Mercenary

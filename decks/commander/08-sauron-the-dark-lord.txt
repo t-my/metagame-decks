@@ -1,7 +1,6 @@
 1 Nazgul
 1 Orcish Siegemaster
 1 Arcane Signet
-1 Sauron, the Dark Lord
 1 Sulfurous Springs
 1 Isildur's Fateful Strike
 1 Gothmog, Morgul Lieutenant
@@ -84,3 +83,5 @@
 1 Sunken Hollow
 1 Dragonskull Summit
 1 Shire Scarecrow
+
+1 Sauron, the Dark Lord

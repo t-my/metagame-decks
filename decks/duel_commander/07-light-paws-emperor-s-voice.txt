@@ -69,4 +69,5 @@
 1 Solitude
 1 Brigone, Soldier of Meletis
 1 Retrofitter Foundry
+
 1 Light-Paws, Emperor's Voice

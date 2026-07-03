@@ -75,4 +75,5 @@
 1 Baral's Expertise
 1 Swiftfoot Boots
 1 Lightning Greaves
+
 1 Alquist Proft, Master Sleuth

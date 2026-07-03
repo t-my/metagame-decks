@@ -6,7 +6,6 @@
 1 Rankle, Master of Pranks
 1 Tinybones, Bauble Burglar
 1 Kefka, Dancing Mad
-1 Kefka, Court Mage
 1 Ragavan, Nimble Pilferer
 1 Thief of Sanity
 1 Dauthi Voidwalker
@@ -87,3 +86,5 @@
 1 Gonti, Lord of Luxury
 1 Phyrexian Arena
 1 Tinybones, Trinket Thief
+
+1 Kefka, Court Mage

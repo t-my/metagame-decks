@@ -74,7 +74,8 @@
 11 Island
 11 Plains
 1 Propaganda
-1 Hope Estheim
 1 Suture Priest
 1 Gogo, Master of Mimicry
 1 Wall of Reverence
+
+1 Hope Estheim

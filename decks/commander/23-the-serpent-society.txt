@@ -30,7 +30,6 @@
 11 Forest
 9 Swamp
 1 Skullwinder
-1 The Serpent Society
 1 Arcane Signet
 1 Golgari Signet
 1 Talisman of Resilience
@@ -80,3 +79,5 @@
 1 Shared Roots
 1 Worst Fears
 1 Viscera Seer
+
+1 The Serpent Society

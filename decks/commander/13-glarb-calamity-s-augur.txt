@@ -38,7 +38,6 @@
 1 Foreboding Landscape
 10 Forest
 1 Germination Practicum
-1 Glarb, Calamity's Augur
 1 Greensleeves, Maro-Sorcerer
 1 Growth Spiral
 1 Icetill Explorer
@@ -78,3 +77,5 @@
 1 Watery Grave
 1 Wrenn and Seven
 1 Zendikar Resurgent
+
+1 Glarb, Calamity's Augur

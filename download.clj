@@ -7,6 +7,11 @@
 (def base-url "https://www.mtggoldfish.com")
 (def max-decks 25)
 
+;; Singleton formats where the "archetype" is the commander. For these we lift the commander
+;; card(s) out of the main list into a sideboard section, so the file reads as a valid commander
+;; list (99 + commander) — the consumer just reads the sideboard to know who the commander is.
+(def commander-formats #{"commander" "duel_commander" "brawl"})
+
 (def formats
   ["standard"
    "modern"
@@ -94,6 +99,48 @@
       str/trim
       (str "\n")))
 
+;; MTGGoldfish's embedded commander lists don't separate the commander — it's just another line in
+;; the 100. But the archetype slug *is* the commander name (e.g. "doctor-doom-king-of-latveria", or
+;; a partner pair "dargo-the-shipwrecker-silas-renn-seeker-adept"). We slugify each card the same way
+;; the site does — strip [SET]/(F)/<showcase> annotations, lowercase, all punctuation -> dash — then
+;; greedily decompose the archetype slug into the 1-2 card slugs present in the list.
+(defn- card-slug [name]
+  (-> name
+      (str/replace #"\s*[\[(<][^\])>]*[\])>]\s*" " ")   ; drop [SET] (F) <showcase> annotations
+      str/lower-case
+      (str/replace #"[^a-z0-9]+" "-")
+      (str/replace #"^-|-$" "")))
+
+(defn find-commanders
+  "Decompose `arch-slug` into the 1-2 commander card lines present in `lines`.
+   Returns the matching original lines (with qty prefix), or nil if it can't fully resolve."
+  [arch-slug lines]
+  (let [by-slug (into {} (keep (fn [l]
+                                 (when-let [nm (second (re-find #"^\d+\s+(.*\S)\s*$" l))]
+                                   [(card-slug nm) l]))
+                               lines))]
+    (loop [rem arch-slug, acc []]
+      (cond
+        (str/blank? rem) (mapv by-slug acc)
+        :else
+        (if-let [hit (->> (keys by-slug)
+                          (filter #(or (= rem %) (str/starts-with? rem (str % "-"))))
+                          (sort-by count >) first)]   ; longest card slug first
+          (recur (str/replace (subs rem (count hit)) #"^-(?:and-)?" "") (conj acc hit))
+          nil)))))
+
+;; Move the commander(s) out of the main list into a sideboard section (blank-line separated).
+;; If the commander can't be resolved, leave the list untouched and warn.
+(defn commanderize [arch-slug name txt]
+  (let [lines (str/split-lines txt)
+        cmd   (find-commanders arch-slug lines)]
+    (if (seq cmd)
+      (let [cmd-set (set cmd)
+            main    (remove cmd-set lines)]
+        (str (str/join "\n" main) "\n\n" (str/join "\n" cmd) "\n"))
+      (do (println (str "    !! could not resolve commander for " name " — left as-is"))
+          txt))))
+
 (defn download-deck! [fmt idx slug]
   (let [name     (slug->name fmt slug)
         prefix   (format "%02d" idx)
@@ -103,8 +150,10 @@
         deck-id  (extract-deck-download-id html)
         deck-txt (some->> deck-id (#(extract-embedded-deck % html)))]
     (if (and deck-txt (re-find #"\S" deck-txt))
-      (let [path (str "decks/" fmt "/" prefix "-" name ".txt")]
-        (spit path (normalize-txt deck-txt))
+      (let [path (str "decks/" fmt "/" prefix "-" name ".txt")
+            txt  (normalize-txt deck-txt)
+            txt  (if (commander-formats fmt) (commanderize name name txt) txt)]
+        (spit path txt)
         (println (str "    -> " path)))
       (println (str "    !! no embedded decklist found for " name)))))
 

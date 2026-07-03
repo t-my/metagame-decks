@@ -1,4 +1,3 @@
-1 Esika, God of the Tree
 1 Dovin, Hand of Control
 1 Narset Transcendent
 1 Teferi, Hero of Dominaria
@@ -94,3 +93,5 @@
 1 Karn Liberated
 1 Nicol Bolas, Dragon-God
 1 Jace, Memory Adept
+
+1 Esika, God of the Tree

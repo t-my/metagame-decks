@@ -97,4 +97,5 @@
 1 Windswept Heath
 1 Wooded Foothills
 1 Wrath of the Skies
+
 1 Aragorn, King of Gondor

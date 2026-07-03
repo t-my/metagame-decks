@@ -4,7 +4,6 @@
 1 Unable to Scream [DSK] (F)
 1 Tithe [VI]
 1 Avatar's Wrath <extended> [TLA] (F)
-1 Aang, Swift Savior <showcase> [TLA]
 1 Seam Rip [EOE]
 1 Reverent Mantra [MM]
 1 Swift Reconfiguration [NEC]
@@ -91,3 +90,5 @@
 4 Plains <189> [SPM] (F)
 5 Island <190> [SPM] (F)
 1 Lose Focus [MH2]
+
+1 Aang, Swift Savior <showcase> [TLA]

@@ -1,4 +1,3 @@
-1 Tidus, Yuna's Guardian [FIC]
 1 Yuna, Grand Summoner [FIC]
 1 Auron, Venerated Guardian [FIC]
 1 Chocobo Knights [FIC]
@@ -92,3 +91,5 @@
 3 Island
 3 Forest
 3 Plains
+
+1 Tidus, Yuna's Guardian [FIC]
