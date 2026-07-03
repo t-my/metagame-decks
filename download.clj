@@ -4,30 +4,29 @@
          '[cheshire.core :as json]
          '[clojure.string :as str])
 
-(def base-url "https://www.mtggoldfish.com")
+(def base-url "https://www.mtgtop8.com")
 (def max-decks 25)
 
-;; Singleton formats where the "archetype" is the commander. For these we lift the commander
-;; card(s) out of the main list into a sideboard section, so the file reads as a valid commander
-;; list (99 + commander) — the consumer just reads the sideboard to know who the commander is.
-(def commander-formats #{"commander" "duel_commander" "brawl"})
-
+;; Formats we publish, mapped to their MTGTop8 format code. Constructed formats use the
+;; archetype-metagame path (format page lists archetypes + %); commander formats have no archetype
+;; structure on MTGTop8 (event-only), so they use an event-based path — see commander-decks.
+;; MTGTop8 has no Timeless / Penny Dreadful / Brawl, so those are dropped. "commander" maps to cEDH.
 (def formats
-  ["standard"
-   "modern"
-   "pioneer"
-   "historic"
-   "explorer"
-   "timeless"
-   "alchemy"
-   "pauper"
-   "legacy"
-   "vintage"
-   "penny_dreadful"
-   "premodern"
-   "duel_commander"
-   "commander"
-   "brawl"])
+  [{:id "standard"       :code "ST"}
+   {:id "modern"         :code "MO"}
+   {:id "pioneer"        :code "PI"}
+   {:id "historic"       :code "HI"}
+   {:id "explorer"       :code "EXP"}
+   {:id "alchemy"        :code "ALCH"}
+   {:id "pauper"         :code "PAU"}
+   {:id "legacy"         :code "LE"}
+   {:id "vintage"        :code "VI"}
+   {:id "premodern"      :code "PREM"}
+   {:id "duel_commander" :code "EDH"  :commander true}
+   {:id "commander"      :code "cEDH" :commander true}])
+
+(def format-ids (mapv :id formats))
+(def format-by-id (into {} (map (juxt :id identity)) formats))
 
 (def max-retries 5)
 
@@ -60,102 +59,116 @@
         (throw (ex-info (str "HTTP " (:status resp) " fetching " url)
                         {:status (:status resp) :url url}))))))
 
-;; --- MTG Goldfish scraping ---
+;; --- MTGTop8 scraping ---
 
-(defn extract-archetype-slugs [fmt html]
-  (->> (re-seq (re-pattern (str "href=\"(/archetype/" fmt "-[^\"#]+)")) html)
-       (map second)
-       distinct))
+(def ^:private polite-ms 250)   ; pause between requests
 
-(defn extract-deck-download-id [html]
-  (some->> (re-find #"href=\"/deck/download/(\d+)\"" html)
-           second))
+;; Decode the handful of HTML entities MTGTop8 puts in archetype/deck display names. Card names in the
+;; mtgo export are plain text, so this is only for labels.
+(defn- html-unescape [s]
+  (-> s
+      (str/replace "&amp;" "&")
+      (str/replace #"&#0?39;" "'")
+      (str/replace "&apos;" "'")
+      (str/replace "&quot;" "\"")
+      (str/replace "&rarr;" "")
+      (str/replace #"&[a-zA-Z]+;" " ")))
 
-;; The /deck/download/<id> endpoint is now behind a Cloudflare interactive challenge (HTTP 403 to a
-;; plain HTTP client), but the archetype page itself is open and embeds the full list URL-encoded in a
-;; JS call: Components('<uuid>', '<deck-id>', "<qty%20Card%0A…sideboard%0A…>"). We pull that string
-;; out and decode it — no second (blocked) request needed.
-(defn extract-embedded-deck [deck-id html]
-  (some-> (re-find (re-pattern (str "'" deck-id "', ?\"([^\"]*)\"")) html)
-          second
-          (java.net.URLDecoder/decode "UTF-8")
-          ;; the embedded list uses a literal "sideboard" line; MTGO text uses a blank line instead
-          (str/replace #"(?im)^sideboard[ \t]*$" "")))
+(defn- clean-name [s]
+  (-> (str/replace s #"<[^>]+>" "") html-unescape str/trim))
 
-(defn slug->name [fmt slug]
-  (-> slug
-      (str/replace (re-pattern (str "^/archetype/" fmt "-")) "")
-      (str/replace #"-[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$" "")))
-
-;; The embedded list is already the community-standard MTGO plain-text format — "<qty> <card name>"
-;; per line, a blank line before the sideboard. We store it verbatim (only collapsing the blank-line
-;; runs left by dropping the "sideboard" marker, and normalizing line endings). No XMage `.dck`
-;; conversion, no Scryfall printing lookups: MTGO/MTGA text is the interoperable standard, and the
-;; consumer resolves cards by name.
+;; Tidy a decklist: normalize line endings, collapse blank-line runs (e.g. left by dropping the
+;; "Sideboard" marker) to a single separator, trim, and end with one newline.
 (defn normalize-txt [s]
   (-> s
       (str/replace "\r\n" "\n") (str/replace "\r" "\n")
-      (str/replace #"\n{3,}" "\n\n")   ; collapse extra blanks (e.g. a trailing marker) to one
+      (str/replace #"\n{3,}" "\n\n")
       str/trim
       (str "\n")))
 
-;; MTGGoldfish's embedded commander lists don't separate the commander — it's just another line in
-;; the 100. But the archetype slug *is* the commander name (e.g. "doctor-doom-king-of-latveria", or
-;; a partner pair "dargo-the-shipwrecker-silas-renn-seeker-adept"). We slugify each card the same way
-;; the site does — strip [SET]/(F)/<showcase> annotations, lowercase, all punctuation -> dash — then
-;; greedily decompose the archetype slug into the 1-2 card slugs present in the list.
-(defn- card-slug [name]
-  (-> name
-      (str/replace #"\s*[\[(<][^\])>]*[\])>]\s*" " ")   ; drop [SET] (F) <showcase> annotations
-      str/lower-case
-      (str/replace #"[^a-z0-9]+" "-")
-      (str/replace #"^-|-$" "")))
+;; MTGTop8's mtgo export is community-standard MTGO text ("<qty> <card name>" per line) but uses a
+;; literal "Sideboard" line where MTGO text uses a blank line — so swap it, then normalize. For
+;; commander decks the export already isolates the commander in that Sideboard section, so the result
+;; is a valid commander list (main + blank + commander) with no extra work.
+(defn fetch-deck-txt [deck-id]
+  (-> (fetch-page (str base-url "/mtgo?d=" deck-id))
+      (str/replace #"(?im)^sideboard[ \t]*$" "")
+      normalize-txt))
 
-(defn find-commanders
-  "Decompose `arch-slug` into the 1-2 commander card lines present in `lines`.
-   Returns the matching original lines (with qty prefix), or nil if it can't fully resolve."
-  [arch-slug lines]
-  (let [by-slug (into {} (keep (fn [l]
-                                 (when-let [nm (second (re-find #"^\d+\s+(.*\S)\s*$" l))]
-                                   [(card-slug nm) l]))
-                               lines))]
-    (loop [rem arch-slug, acc []]
-      (cond
-        (str/blank? rem) (mapv by-slug acc)
-        :else
-        (if-let [hit (->> (keys by-slug)
-                          (filter #(or (= rem %) (str/starts-with? rem (str % "-"))))
-                          (sort-by count >) first)]   ; longest card slug first
-          (recur (str/replace (subs rem (count hit)) #"^-(?:and-)?" "") (conj acc hit))
-          nil)))))
+;; --- constructed formats: archetype + metagame % ---
 
-;; Move the commander(s) out of the main list into a sideboard section (blank-line separated).
-;; If the commander can't be resolved, leave the list untouched and warn.
-(defn commanderize [arch-slug name txt]
-  (let [lines (str/split-lines txt)
-        cmd   (find-commanders arch-slug lines)]
-    (if (seq cmd)
-      (let [cmd-set (set cmd)
-            main    (remove cmd-set lines)]
-        (str (str/join "\n" main) "\n\n" (str/join "\n" cmd) "\n"))
-      (do (println (str "    !! could not resolve commander for " name " — left as-is"))
-          txt))))
+;; The format page lists each metagame archetype as `<a href=archetype?a=ID&meta=M&f=CODE>NAME</a>`
+;; followed by its share `class=S14>NN %`. The page groups archetypes by macro-category (Aggro /
+;; Control / …), not by overall %, so we sort by % ourselves. "Other - …" catch-alls are dropped.
+(defn parse-archetypes [code html]
+  (let [pat (re-pattern (str "<a href=archetype\\?a=(\\d+)&meta=\\d+&f=" code ">(.*?)</a>[\\s\\S]{0,240}?class=S14>([\\d.]+) ?%"))]
+    (->> (re-seq pat html)
+         (map (fn [[_ a nm pct]] {:a a :name (clean-name nm) :pct (Double/parseDouble pct)}))
+         (remove #(re-find #"(?i)^other\b" (:name %)))
+         (distinct)
+         (sort-by :pct >))))
 
-(defn download-deck! [fmt idx slug]
-  (let [name     (slug->name fmt slug)
-        prefix   (format "%02d" idx)
-        url      (str base-url slug "#paper")
-        _        (println (str "  [" prefix "] " name))
-        html     (fetch-page url)
-        deck-id  (extract-deck-download-id html)
-        deck-txt (some->> deck-id (#(extract-embedded-deck % html)))]
-    (if (and deck-txt (re-find #"\S" deck-txt))
-      (let [path (str "decks/" fmt "/" prefix "-" name ".txt")
-            txt  (normalize-txt deck-txt)
-            txt  (if (commander-formats fmt) (commanderize name name txt) txt)]
-        (spit path txt)
-        (println (str "    -> " path)))
-      (println (str "    !! no embedded decklist found for " name)))))
+;; First (most recent) deck listed on an archetype page.
+(defn archetype-first-deck [code a]
+  (let [html (fetch-page (str base-url "/archetype?a=" a "&f=" code))]
+    (second (re-find (re-pattern (str "&(?:amp;)?d=(\\d+)&(?:amp;)?f=" code)) html))))
+
+(defn constructed-decks
+  "Seq of {:name :txt} for the top `n` archetypes of a constructed format, by metagame share."
+  [code n]
+  (let [html  (fetch-page (str base-url "/format?f=" code))
+        archs (take n (parse-archetypes code html))]
+    (println (str "Found " (count (parse-archetypes code html)) " archetypes (using top " (count archs) ")"))
+    (keep (fn [{:keys [a name]}]
+            (Thread/sleep polite-ms)
+            (println (str "  " name))
+            (if-let [did (archetype-first-deck code a)]
+              (do (Thread/sleep polite-ms)
+                  (let [txt (fetch-deck-txt did)]
+                    (if (re-find #"\S" txt) {:name name :txt txt}
+                        (do (println (str "    !! empty decklist for " name)) nil))))
+              (do (println (str "    !! no deck found for " name)) nil)))
+          archs)))
+
+;; --- commander formats: event-based (no archetype/% structure on MTGTop8) ---
+
+;; The commander name(s) of a fetched list: the sideboard section (after the blank line) holds the
+;; commander (and partner, if any), one per line. Joined with " / " for a display label.
+(defn- commander-name [txt]
+  (let [parts (str/split txt #"\n\n" 2)
+        side  (when (> (count parts) 1) (str/split-lines (str/trim (second parts))))
+        names (keep #(second (re-find #"^\d+\s+(.*\S)\s*$" %)) side)]
+    (when (seq names) (str/join " / " names))))
+
+(defn commander-decks
+  "Seq of {:name :txt} for commander formats: walk the format page's recent events, take their decks
+   in placement order, dedupe by commander for variety, until `n` are collected."
+  [code n]
+  (let [fmt-html (fetch-page (str base-url "/format?f=" code))
+        events   (distinct (map second (re-seq (re-pattern (str "event\\?e=(\\d+)&f=" code)) fmt-html)))]
+    (loop [evs events, acc [], seen #{}]
+      (if (or (>= (count acc) n) (empty? evs))
+        (take n acc)
+        (let [e       (first evs)
+              ev-html (fetch-page (str base-url "/event?e=" e "&f=" code))
+              dids    (distinct (map second (re-seq (re-pattern (str "&(?:amp;)?d=(\\d+)&(?:amp;)?f=" code)) ev-html)))]
+          (Thread/sleep polite-ms)
+          (let [[acc' seen']
+                (reduce (fn [[a s] did]
+                          (if (>= (count a) n)
+                            (reduced [a s])
+                            (do (Thread/sleep polite-ms)
+                                (let [txt (fetch-deck-txt did)
+                                      nm  (commander-name txt)]
+                                  (if (and nm (re-find #"\S" txt) (not (s nm)))
+                                    (do (println (str "  " nm)) [(conj a {:name nm :txt txt}) (conj s nm)])
+                                    [a s])))))
+                        [acc seen] dids)]
+            (recur (rest evs) acc' seen')))))))
+
+;; Filesystem-safe slug for a deck filename: lowercase, punctuation -> dash.
+(defn- slugify [name]
+  (-> name str/lower-case (str/replace #"[^a-z0-9]+" "-") (str/replace #"^-|-$" "")))
 
 (defn clear-dir! [dir]
   (let [d (java.io.File. dir)]
@@ -163,17 +176,16 @@
       (doseq [f (.listFiles d)] (.delete f)))
     (.mkdirs d)))
 
-(defn download-format! [fmt]
-  (let [dir (str "decks/" fmt)]
+(defn download-format! [id]
+  (let [{:keys [code commander]} (format-by-id id)
+        dir (str "decks/" id)]
     (clear-dir! dir) ; drop archetypes that fell out of the metagame this week
-    (println (str "\n=== " (str/upper-case fmt) " ==="))
-    (let [url   (str base-url "/metagame/" fmt "/full#paper")
-          html  (fetch-page url)
-          slugs (take max-decks (extract-archetype-slugs fmt html))]
-      (println (str "Found " (count slugs) " archetypes (capped at " max-decks ")"))
-      (doseq [[idx slug] (map-indexed #(vector (inc %1) %2) slugs)]
-        (download-deck! fmt idx slug)
-        (Thread/sleep 250)))))
+    (println (str "\n=== " (str/upper-case id) " (mtgtop8 " code ") ==="))
+    (let [decks (if commander (commander-decks code max-decks) (constructed-decks code max-decks))]
+      (doseq [[idx {:keys [name txt]}] (map-indexed #(vector (inc %1) %2) decks)]
+        (let [path (str dir "/" (format "%02d" idx) "-" (slugify name) ".txt")]
+          (spit path txt)
+          (println (str "    -> " path)))))))
 
 ;; --- manifest ---
 
@@ -215,25 +227,25 @@
     (cond
       (nil? cmd)
       (do (println "Usage: bb download.clj <format>|all|manifest")
-          (println (str "Formats: " (str/join ", " formats)))
+          (println (str "Formats: " (str/join ", " format-ids)))
           (System/exit 1))
 
       (= cmd "manifest")           ; regenerate manifest.json from whatever's on disk
       (build-manifest!)
 
       (= cmd "all")
-      (do (doseq [f formats] (download-format! f))
+      (do (doseq [id format-ids] (download-format! id))
           (build-manifest!)
           (println "Done."))
 
-      (some #{cmd} formats)
+      (some #{cmd} format-ids)
       (do (download-format! cmd)
           (build-manifest!)
           (println "Done."))
 
       :else
       (do (println (str "Unknown format: " cmd))
-          (println (str "Formats: " (str/join ", " formats)))
+          (println (str "Formats: " (str/join ", " format-ids)))
           (System/exit 1)))))
 
 (apply -main *command-line-args*)
