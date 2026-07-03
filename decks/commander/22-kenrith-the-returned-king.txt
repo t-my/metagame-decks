@@ -1,0 +1,86 @@
+1 Birds of Paradise
+1 Blinding Angel
+1 Cathar Commando
+1 Clone
+1 Colossal Dreadmaw
+1 Deathrite Shaman
+1 Elvish Piper
+1 Hunted Wumpus
+1 Intrepid Hero
+1 Kitchen Finks
+1 Lavinia, Azorius Renegade
+1 Llanowar Elves
+1 Mardu Outrider
+1 Master Decoy
+1 Royal Assassin
+1 Sakura-Tribe Elder
+1 Serra Angel
+1 Soul of Theros
+1 Soul Warden
+1 Sphinx of the Steel Wind
+1 Spiketail Hatchling
+1 Transcendent Master
+1 Utopia Tree
+1 Verdant Force
+1 Veteran Explorer
+1 Vine Trellis
+1 Fellwar Stone
+1 Howling Mine
+1 Sol Ring
+1 Star Compass
+1 Terrarion
+1 Thought Vessel
+1 Ur-Golem's Eye
+1 Wayfarer's Bauble
+1 Abrupt Decay
+1 Ancient Grudge
+1 Brainstorm
+1 Dark Ritual
+1 Evacuation
+1 Lightning Bolt
+1 Nature's Claim
+1 Once Upon a Time
+1 Path to Exile
+1 Rewind
+1 Day of Judgment
+1 Environmental Sciences
+1 Rampant Growth
+1 Temporary Truce
+1 Thieves' Auction
+1 Throes of Chaos
+1 Treasure Cruise
+1 Worst Fears
+1 Wrath of God
+1 Fertile Ground
+1 Leyline of the Void
+1 Phyrexian Arena
+1 Serra's Blessing
+1 Jace Beleren
+1 Adarkar Wastes
+1 Battlefield Forge
+1 Bojuka Bog
+1 Brushland
+1 Caves of Koilos
+1 City of Brass
+1 Coastal Tower
+1 Darksteel Citadel
+1 Elfhame Palace
+4 Forest
+4 Island
+1 Karplusan Forest
+1 Llanowar Wastes
+4 Mountain
+4 Plains
+1 Quicksand
+1 Reliquary Tower
+1 Salt Marsh
+1 Shivan Oasis
+1 Shivan Reef
+1 Sulfurous Springs
+4 Swamp
+1 Tarnished Citadel
+1 Underground River
+1 Urborg Volcano
+1 Yavimaya Coast
+
+1 Kenrith, the Returned King

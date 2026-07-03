@@ -1,0 +1,101 @@
+1 Abrupt Decay
+1 Agna Qel'a
+1 Archmage's Charm
+1 Bayou
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Botanical Sanctum
+1 Brainstorm
+1 Brainsurge
+1 Breeding Pool
+1 Cactus Preserve
+1 Cling to Dust
+1 Command Tower
+1 Consult the Star Charts
+1 Counterspell
+1 Creeping Tar Pit
+1 Cremate
+1 Cryptic Command
+1 Cut Down
+1 Darkslick Shores
+1 Daze
+1 Demonic Consultation
+1 Demonic Tutor
+1 Dismember
+1 Drown in the Loch
+1 Drowned Catacomb
+1 Fatal Push
+1 Fire Nation Occupation
+1 Flooded Strand
+1 Force of Negation
+1 Force Spike
+1 Gitaxian Probe
+1 Gloomlake Verge
+1 Go for the Throat
+1 Hedge Maze
+1 Heritage Reclamation
+1 Hinterland Harbor
+1 Hullbreaker Horror
+1 Island
+1 Jace, Wielder of Mysteries
+1 Languish
+1 Long Goodbye
+1 Lorien Revealed
+1 Lose Focus
+1 Mana Leak
+1 Marsh Flats
+1 Memory Lapse
+1 Mental Misstep
+1 Mental Note
+1 Mistrise Village
+1 Misty Rainforest
+1 Mystic Confluence
+1 Mystic Sanctuary
+1 Neoform
+1 Oko, Thief of Crowns
+1 Otawara, Soaring City
+1 Pernicious Deed
+1 Polluted Delta
+1 Ponder
+1 Preordain
+1 Prismatic Vista
+1 Psychic Frog
+1 Quandrix Charm
+1 Rakshasa's Bargain
+1 Reflecting Pool
+1 Remand
+1 Requiting Hex
+1 Sauron's Ransom
+1 Scalding Tarn
+1 Sheoldred's Edict
+1 Shipwreck Marsh
+1 Snow-Covered Island
+1 Spell Snare
+1 Stern Scolding
+1 Stock Up
+1 Subtlety
+1 Swamp
+1 Tainted Pact
+1 Takenuma, Abandoned Mire
+1 Tale's End
+1 Tamiyo, Inquisitive Student
+1 Thought Scour
+1 Thoughtseize
+1 Toxic Deluge
+1 Tropical Island
+1 Undercity Sewers
+1 Underground Mortuary
+1 Underground River
+1 Underground Sea
+1 Verdant Catacombs
+1 Vicious Rivalry
+1 Wan Shi Tong, Librarian
+1 Wash Away
+1 Waterlogged Teachings
+1 Watery Grave
+1 Wilderness Reclamation
+1 Willowrush Verge
+1 Windswept Heath
+1 Wooded Foothills
+
+1 Tasigur, the Golden Fang

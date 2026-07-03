@@ -1,0 +1,33 @@
+4 Balustrade Spy
+4 Boggart Trawler
+4 Chancellor of the Annex
+1 Hydroelectric Specimen
+4 Narcomoeba
+1 Thassa's Oracle
+4 Undercity Informer
+1 Black Lotus
+1 Bridge from Below
+2 Cabal Therapy
+4 Chrome Mox
+4 Dark Ritual
+1 Demonic Tutor
+1 Dread Return
+3 Fell the Profane
+4 Force of Will
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Vault
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+4 Pact of Negation
+4 Sink into Stupor
+1 Sol Ring
+
+2 Hydroelectric Specimen
+3 Thassa's Oracle
+3 Chain of Vapor
+4 Into the Flood Maw
+3 Mindbreak Trap

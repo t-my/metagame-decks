@@ -1,0 +1,29 @@
+1 Coastal Tower
+4 Counterspell
+3 Decree of Justice
+2 Disenchant
+1 Dust Bowl
+1 Exalted Angel
+3 Fact or Fiction
+1 Faerie Conclave
+4 Flooded Strand
+4 Impulse
+6 Island
+3 Mana Leak
+4 Mishra's Factory
+2 Phyrexian Furnace
+5 Plains
+1 Prohibit
+1 Seal of Cleansing
+3 Standstill
+4 Swords to Plowshares
+2 Wrath of God
+4 Adarkar Wastes
+1 Powder Keg
+
+1 Exalted Angel
+1 Phyrexian Furnace
+3 Annul
+4 Blue Elemental Blast
+2 Chill
+4 Meddling Mage

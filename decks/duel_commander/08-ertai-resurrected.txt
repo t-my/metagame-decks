@@ -1,0 +1,93 @@
+1 Archmage's Charm
+1 Barrowgoyf
+1 Bloodstained Mire
+1 Brainstorm
+1 Brainsurge
+1 Brazen Borrower
+1 Castle Vantress
+1 Clearwater Pathway
+1 Cling to Dust
+1 Command Tower
+1 Consult the Star Charts
+1 Counterspell
+1 Creeping Tar Pit
+1 Cryptic Command
+1 Cut Down
+1 Damnation
+1 Darkslick Shores
+1 Daze
+1 Demonic Consultation
+1 Demonic Tutor
+1 Dismember
+1 Disruptor Flute
+1 Drown in the Loch
+1 Drowned Catacomb
+1 Fatal Push
+1 Fire Nation Occupation
+1 Flooded Strand
+1 Flow State
+1 Force of Negation
+1 Force Spike
+1 Gitaxian Probe
+1 Gloomlake Verge
+1 Hall of Storm Giants
+1 Harbinger of the Seas
+1 Hullbreacher
+1 Inquisition of Kozilek
+1 Intuition
+8 Island
+1 Jace, Wielder of Mysteries
+1 Long Goodbye
+1 Lorien Revealed
+1 Lose Focus
+1 Mana Leak
+1 Marsh Flats
+1 Memory Deluge
+1 Memory Lapse
+1 Mental Misstep
+1 Mistrise Village
+1 Misty Rainforest
+1 Murktide Regent
+1 Mystic Sanctuary
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Otawara, Soaring City
+1 Parallax Nexus
+1 Parallax Tide
+1 Polluted Delta
+1 Ponder
+1 Power Word Kill
+1 Preordain
+1 Prismatic Vista
+1 Profane Tutor
+1 Remand
+1 Riptide Laboratory
+1 River of Tears
+1 Sauron's Ransom
+1 Scalding Tarn
+1 Sheoldred's Edict
+1 Shipwreck Marsh
+1 Sink into Stupor
+1 Snapcaster Mage
+1 Spell Snare
+1 Stern Scolding
+1 Stifle
+1 Stock Up
+1 Subtlety
+1 Sunken Hollow
+1 Sunken Ruins
+2 Swamp
+1 Tale's End
+1 Thoughtseize
+1 Tishana's Tidebinder
+1 Toxic Deluge
+1 Undercity Sewers
+1 Underground Sea
+1 Vedalken Shackles
+1 Vendilion Clique
+1 Verdant Catacombs
+1 Wash Away
+1 Waterlogged Teachings
+1 Watery Grave
+
+1 Ertai Resurrected

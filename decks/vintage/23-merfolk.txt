@@ -1,0 +1,34 @@
+6 Island
+1 Mental Misstep
+3 True-Name Nemesis
+4 Force of Will
+1 Ancestral Recall
+1 Time Walk
+1 Black Lotus
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Strip Mine
+4 Wasteland
+4 Tishana's Tidebinder
+4 Thieving Skydiver
+2 Void Mirror
+1 Urza's Saga
+2 Hullbreacher
+1 Otawara, Soaring City
+4 Vodalian Hexcatcher
+2 Force of Negation
+1 Vexing Bauble
+4 Sink into Stupor
+4 Floodpits Drowner
+4 Cavern of Souls
+
+1 Pithing Needle
+2 Grafdigger's Cage
+2 Null Rod
+2 The Tabernacle at Pendrell Vale
+2 Utter Insignificance
+2 Harbinger of the Seas
+4 Leyline of the Void

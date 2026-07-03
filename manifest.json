@@ -1,914 +1,937 @@
 {
-  "updated" : "2026-07-03",
+  "updated" : "2026-07-04",
   "formats" : [ {
-    "id" : "brawl",
-    "name" : "Brawl",
+    "id" : "alchemy",
+    "name" : "Alchemy",
     "decks" : [ {
-      "file" : "01-anina-natural-parallelist.txt",
-      "name" : "Anina Natural Parallelist"
+      "file" : "01-rakdos-aggro.txt",
+      "name" : "Rakdos Aggro"
     }, {
-      "file" : "02-katara-waterbending-master.txt",
-      "name" : "Katara Waterbending Master"
+      "file" : "02-weenie-white.txt",
+      "name" : "Weenie White"
     }, {
-      "file" : "03-tasigur-the-golden-fang.txt",
-      "name" : "Tasigur The Golden Fang"
+      "file" : "03-naya-aggro.txt",
+      "name" : "Naya Aggro"
     }, {
-      "file" : "04-prismari-the-inspiration.txt",
-      "name" : "Prismari The Inspiration"
+      "file" : "04-gruul-aggro.txt",
+      "name" : "Gruul Aggro"
     }, {
-      "file" : "05-vv-viza-orbital-overseer.txt",
-      "name" : "Vv Viza Orbital Overseer"
+      "file" : "05-esper-aggro.txt",
+      "name" : "Esper Aggro"
     }, {
-      "file" : "06-samut-vizier-of-naktamun.txt",
-      "name" : "Samut Vizier Of Naktamun"
+      "file" : "06-dragons.txt",
+      "name" : "Dragons"
     }, {
-      "file" : "07-valki-god-of-lies.txt",
-      "name" : "Valki God Of Lies"
+      "file" : "07-orzhov-control.txt",
+      "name" : "Orzhov Control"
     }, {
-      "file" : "08-obyra-dreaming-duelist.txt",
-      "name" : "Obyra Dreaming Duelist"
+      "file" : "08-mono-green-aggro.txt",
+      "name" : "Mono Green Aggro"
     }, {
-      "file" : "09-karn-living-legacy.txt",
-      "name" : "Karn Living Legacy"
+      "file" : "09-orzhov-aggro.txt",
+      "name" : "Orzhov Aggro"
     }, {
-      "file" : "10-alquist-proft-master-sleuth.txt",
-      "name" : "Alquist Proft Master Sleuth"
+      "file" : "10-izzet-control.txt",
+      "name" : "Izzet Control"
     }, {
-      "file" : "11-moseo-vein-s-new-dean.txt",
-      "name" : "Moseo Vein S New Dean"
+      "file" : "11-mono-black-control.txt",
+      "name" : "Mono Black Control"
     }, {
-      "file" : "12-blech-loafing-pest.txt",
-      "name" : "Blech Loafing Pest"
+      "file" : "12-red-deck-wins.txt",
+      "name" : "Red Deck Wins"
     }, {
-      "file" : "13-professor-dellian-fel.txt",
-      "name" : "Professor Dellian Fel"
+      "file" : "13-mardu-aggro.txt",
+      "name" : "Mardu Aggro"
     }, {
-      "file" : "14-aziza-mage-tower-captain.txt",
-      "name" : "Aziza Mage Tower Captain"
+      "file" : "14-uw-control.txt",
+      "name" : "Uw Control"
     }, {
-      "file" : "15-gorma-the-gullet.txt",
-      "name" : "Gorma The Gullet"
+      "file" : "15-esper-control.txt",
+      "name" : "Esper Control"
     }, {
-      "file" : "16-the-grand-goatnapper.txt",
-      "name" : "The Grand Goatnapper"
+      "file" : "16-jund.txt",
+      "name" : "Jund"
     }, {
-      "file" : "17-jadzi-steward-of-fate.txt",
-      "name" : "Jadzi Steward Of Fate"
+      "file" : "17-rakdos-control.txt",
+      "name" : "Rakdos Control"
     }, {
-      "file" : "18-teval-the-balanced-scale.txt",
-      "name" : "Teval The Balanced Scale"
+      "file" : "18-jeskai-control.txt",
+      "name" : "Jeskai Control"
     }, {
-      "file" : "19-moon-girl-and-devil-dinosaur.txt",
-      "name" : "Moon Girl And Devil Dinosaur"
+      "file" : "19-grixis-control.txt",
+      "name" : "Grixis Control"
     }, {
-      "file" : "20-the-astonishing-ant-man.txt",
-      "name" : "The Astonishing Ant Man"
+      "file" : "20-grixis-aggro.txt",
+      "name" : "Grixis Aggro"
     }, {
-      "file" : "21-super-skrull.txt",
-      "name" : "Super Skrull"
+      "file" : "21-golgari-aggro.txt",
+      "name" : "Golgari Aggro"
     }, {
-      "file" : "22-ms-marvel-kamala-khan.txt",
-      "name" : "Ms Marvel Kamala Khan"
+      "file" : "22-4-5c-control.txt",
+      "name" : "4 5c Control"
     }, {
-      "file" : "23-ultron-artificial-malevolence.txt",
-      "name" : "Ultron Artificial Malevolence"
+      "file" : "23-selesnya-aggro.txt",
+      "name" : "Selesnya Aggro"
     }, {
-      "file" : "24-baron-helmut-zemo.txt",
-      "name" : "Baron Helmut Zemo"
+      "file" : "24-bant-aggro.txt",
+      "name" : "Bant Aggro"
     }, {
-      "file" : "25-heliod-sun-crowned.txt",
-      "name" : "Heliod Sun Crowned"
+      "file" : "25-boros-aggro.txt",
+      "name" : "Boros Aggro"
     } ]
   }, {
     "id" : "commander",
     "name" : "Commander",
     "decks" : [ {
-      "file" : "01-doctor-doom-king-of-latveria.txt",
-      "name" : "Doctor Doom King Of Latveria"
+      "file" : "01-brigid-clachan-s-heart.txt",
+      "name" : "Brigid Clachan S Heart"
     }, {
-      "file" : "02-the-astonishing-ant-man.txt",
-      "name" : "The Astonishing Ant Man"
+      "file" : "02-arcum-dagsson.txt",
+      "name" : "Arcum Dagsson"
     }, {
-      "file" : "03-the-unbeatable-squirrel-girl.txt",
-      "name" : "The Unbeatable Squirrel Girl"
+      "file" : "03-ishai-ojutai-dragonspeaker-rograkh-son-of-rohgahh.txt",
+      "name" : "Ishai Ojutai Dragonspeaker Rograkh Son Of Rohgahh"
     }, {
-      "file" : "04-tony-stark.txt",
-      "name" : "Tony Stark"
+      "file" : "04-narset-enlightened-master.txt",
+      "name" : "Narset Enlightened Master"
     }, {
-      "file" : "05-esika-god-of-the-tree.txt",
-      "name" : "Esika God Of The Tree"
+      "file" : "05-sisay-weatherlight-captain.txt",
+      "name" : "Sisay Weatherlight Captain"
     }, {
-      "file" : "06-ultron-artificial-malevolence.txt",
-      "name" : "Ultron Artificial Malevolence"
+      "file" : "06-terra-magical-adept.txt",
+      "name" : "Terra Magical Adept"
     }, {
-      "file" : "07-captain-america-team-leader.txt",
-      "name" : "Captain America Team Leader"
+      "file" : "07-kraum-ludevic-s-opus-tymna-the-weaver.txt",
+      "name" : "Kraum Ludevic S Opus Tymna The Weaver"
     }, {
-      "file" : "08-sauron-the-dark-lord.txt",
-      "name" : "Sauron The Dark Lord"
+      "file" : "08-nick-fury-agent-of-s-h-i-e-l-d.txt",
+      "name" : "Nick Fury Agent Of S H I E L D"
     }, {
-      "file" : "09-tidus-yuna-s-guardian.txt",
-      "name" : "Tidus Yuna S Guardian"
+      "file" : "09-kinnan-bonder-prodigy.txt",
+      "name" : "Kinnan Bonder Prodigy"
     }, {
-      "file" : "10-jodah-the-unifier.txt",
-      "name" : "Jodah The Unifier"
+      "file" : "10-thrasios-triton-hero-vial-smasher-the-fierce.txt",
+      "name" : "Thrasios Triton Hero Vial Smasher The Fierce"
     }, {
-      "file" : "11-bruce-banner.txt",
-      "name" : "Bruce Banner"
+      "file" : "11-rograkh-son-of-rohgahh-thrasios-triton-hero.txt",
+      "name" : "Rograkh Son Of Rohgahh Thrasios Triton Hero"
     }, {
-      "file" : "12-ares-god-of-war.txt",
-      "name" : "Ares God Of War"
+      "file" : "12-the-cabbage-merchant.txt",
+      "name" : "The Cabbage Merchant"
     }, {
-      "file" : "13-glarb-calamity-s-augur.txt",
-      "name" : "Glarb Calamity S Augur"
+      "file" : "13-inalla-archmage-ritualist.txt",
+      "name" : "Inalla Archmage Ritualist"
     }, {
-      "file" : "14-y-shtola-night-s-blessed.txt",
-      "name" : "Y Shtola Night S Blessed"
+      "file" : "14-zur-the-enchanter.txt",
+      "name" : "Zur The Enchanter"
     }, {
-      "file" : "15-kefka-court-mage.txt",
-      "name" : "Kefka Court Mage"
+      "file" : "15-emry-lurker-of-the-loch.txt",
+      "name" : "Emry Lurker Of The Loch"
     }, {
-      "file" : "16-kilo-apogee-mind.txt",
-      "name" : "Kilo Apogee Mind"
+      "file" : "16-the-wandering-minstrel.txt",
+      "name" : "The Wandering Minstrel"
     }, {
-      "file" : "17-the-mighty-thor-jane-foster.txt",
-      "name" : "The Mighty Thor Jane Foster"
+      "file" : "17-thrasios-triton-hero-tymna-the-weaver.txt",
+      "name" : "Thrasios Triton Hero Tymna The Weaver"
     }, {
-      "file" : "18-shelob-child-of-ungoliant.txt",
-      "name" : "Shelob Child Of Ungoliant"
+      "file" : "18-elsha-of-the-infinite.txt",
+      "name" : "Elsha Of The Infinite"
     }, {
-      "file" : "19-zhulodok-void-gorger.txt",
-      "name" : "Zhulodok Void Gorger"
+      "file" : "19-vivi-ornitier.txt",
+      "name" : "Vivi Ornitier"
     }, {
-      "file" : "20-teval-the-balanced-scale.txt",
-      "name" : "Teval The Balanced Scale"
+      "file" : "20-crystal-inhuman-princess.txt",
+      "name" : "Crystal Inhuman Princess"
     }, {
-      "file" : "21-hope-estheim.txt",
-      "name" : "Hope Estheim"
+      "file" : "21-etali-primal-conqueror.txt",
+      "name" : "Etali Primal Conqueror"
     }, {
-      "file" : "22-ragost-deft-gastronaut.txt",
-      "name" : "Ragost Deft Gastronaut"
+      "file" : "22-kenrith-the-returned-king.txt",
+      "name" : "Kenrith The Returned King"
     }, {
-      "file" : "23-the-serpent-society.txt",
-      "name" : "The Serpent Society"
+      "file" : "23-maelstrom-wanderer-saheeli-radiant-creator.txt",
+      "name" : "Maelstrom Wanderer Saheeli Radiant Creator"
     }, {
-      "file" : "24-baron-helmut-zemo.txt",
-      "name" : "Baron Helmut Zemo"
+      "file" : "24-fire-lord-azula.txt",
+      "name" : "Fire Lord Azula"
     }, {
-      "file" : "25-caesar-legion-s-emperor.txt",
-      "name" : "Caesar Legion S Emperor"
+      "file" : "25-the-scarab-god.txt",
+      "name" : "The Scarab God"
     } ]
   }, {
     "id" : "duel_commander",
     "name" : "Duel Commander",
     "decks" : [ {
-      "file" : "01-phelia-exuberant-shepherd.txt",
-      "name" : "Phelia Exuberant Shepherd"
-    }, {
-      "file" : "02-the-fantasticar.txt",
-      "name" : "The Fantasticar"
-    }, {
-      "file" : "03-spider-man-2099.txt",
+      "file" : "01-spider-man-2099.txt",
       "name" : "Spider Man 2099"
     }, {
-      "file" : "04-aminatou-the-fateshifter.txt",
-      "name" : "Aminatou The Fateshifter"
+      "file" : "02-emry-lurker-of-the-loch.txt",
+      "name" : "Emry Lurker Of The Loch"
     }, {
-      "file" : "05-brigid-clachan-s-heart.txt",
-      "name" : "Brigid Clachan S Heart"
-    }, {
-      "file" : "06-glarb-calamity-s-augur.txt",
-      "name" : "Glarb Calamity S Augur"
-    }, {
-      "file" : "07-light-paws-emperor-s-voice.txt",
-      "name" : "Light Paws Emperor S Voice"
-    }, {
-      "file" : "08-cloud-midgar-mercenary.txt",
-      "name" : "Cloud Midgar Mercenary"
-    }, {
-      "file" : "09-slimefoot-and-squee.txt",
-      "name" : "Slimefoot And Squee"
-    }, {
-      "file" : "10-nick-fury-agent-of-s-h-i-e-l-d.txt",
-      "name" : "Nick Fury Agent Of S H I E L D"
-    }, {
-      "file" : "11-lumra-bellow-of-the-woods.txt",
+      "file" : "03-lumra-bellow-of-the-woods.txt",
       "name" : "Lumra Bellow Of The Woods"
     }, {
-      "file" : "12-vivi-ornitier.txt",
-      "name" : "Vivi Ornitier"
+      "file" : "04-prossh-skyraider-of-kher.txt",
+      "name" : "Prossh Skyraider Of Kher"
     }, {
-      "file" : "13-tifa-lockhart.txt",
-      "name" : "Tifa Lockhart"
+      "file" : "05-aragorn-king-of-gondor.txt",
+      "name" : "Aragorn King Of Gondor"
+    }, {
+      "file" : "06-atraxa-grand-unifier.txt",
+      "name" : "Atraxa Grand Unifier"
+    }, {
+      "file" : "07-deadpool-trading-card.txt",
+      "name" : "Deadpool Trading Card"
+    }, {
+      "file" : "08-ertai-resurrected.txt",
+      "name" : "Ertai Resurrected"
+    }, {
+      "file" : "09-light-paws-emperor-s-voice.txt",
+      "name" : "Light Paws Emperor S Voice"
+    }, {
+      "file" : "10-quintorius-history-chaser.txt",
+      "name" : "Quintorius History Chaser"
+    }, {
+      "file" : "11-toph-greatest-earthbender.txt",
+      "name" : "Toph Greatest Earthbender"
+    }, {
+      "file" : "12-tana-the-bloodsower-yoshimaru-ever-faithful.txt",
+      "name" : "Tana The Bloodsower Yoshimaru Ever Faithful"
+    }, {
+      "file" : "13-willie-lumpkin-postman.txt",
+      "name" : "Willie Lumpkin Postman"
     }, {
       "file" : "14-aang-swift-savior.txt",
       "name" : "Aang Swift Savior"
     }, {
-      "file" : "15-dargo-the-shipwrecker-silas-renn-seeker-adept.txt",
-      "name" : "Dargo The Shipwrecker Silas Renn Seeker Adept"
+      "file" : "15-cloud-midgar-mercenary.txt",
+      "name" : "Cloud Midgar Mercenary"
     }, {
-      "file" : "16-atraxa-grand-unifier.txt",
-      "name" : "Atraxa Grand Unifier"
+      "file" : "16-acererak-the-archlich.txt",
+      "name" : "Acererak The Archlich"
     }, {
-      "file" : "17-aragorn-king-of-gondor.txt",
-      "name" : "Aragorn King Of Gondor"
+      "file" : "17-tifa-lockhart.txt",
+      "name" : "Tifa Lockhart"
     }, {
-      "file" : "18-vohar-vodalian-desecrator.txt",
-      "name" : "Vohar Vodalian Desecrator"
+      "file" : "18-tasigur-the-golden-fang.txt",
+      "name" : "Tasigur The Golden Fang"
     }, {
-      "file" : "19-lier-disciple-of-the-drowned.txt",
-      "name" : "Lier Disciple Of The Drowned"
-    }, {
-      "file" : "20-magda-the-hoardmaster.txt",
-      "name" : "Magda The Hoardmaster"
-    }, {
-      "file" : "21-kraum-ludevic-s-opus-yoshimaru-ever-faithful.txt",
-      "name" : "Kraum Ludevic S Opus Yoshimaru Ever Faithful"
-    }, {
-      "file" : "22-ellivere-of-the-wild-court.txt",
-      "name" : "Ellivere Of The Wild Court"
-    }, {
-      "file" : "23-hidetsugu-and-kairi.txt",
-      "name" : "Hidetsugu And Kairi"
-    }, {
-      "file" : "24-krang-master-mind.txt",
-      "name" : "Krang Master Mind"
-    }, {
-      "file" : "25-raph-mikey-troublemakers.txt",
+      "file" : "19-raph-mikey-troublemakers.txt",
       "name" : "Raph Mikey Troublemakers"
+    }, {
+      "file" : "20-breya-etherium-shaper.txt",
+      "name" : "Breya Etherium Shaper"
+    }, {
+      "file" : "21-winota-joiner-of-forces.txt",
+      "name" : "Winota Joiner Of Forces"
+    }, {
+      "file" : "22-aminatou-the-fateshifter.txt",
+      "name" : "Aminatou The Fateshifter"
+    }, {
+      "file" : "23-zurgo-bellstriker.txt",
+      "name" : "Zurgo Bellstriker"
+    }, {
+      "file" : "24-phelia-exuberant-shepherd.txt",
+      "name" : "Phelia Exuberant Shepherd"
+    }, {
+      "file" : "25-ral-monsoon-mage.txt",
+      "name" : "Ral Monsoon Mage"
+    } ]
+  }, {
+    "id" : "explorer",
+    "name" : "Explorer",
+    "decks" : [ {
+      "file" : "01-rakdos-aggro.txt",
+      "name" : "Rakdos Aggro"
+    }, {
+      "file" : "02-mono-green-aggro.txt",
+      "name" : "Mono Green Aggro"
+    }, {
+      "file" : "03-angels.txt",
+      "name" : "Angels"
+    }, {
+      "file" : "04-uw-control.txt",
+      "name" : "Uw Control"
+    }, {
+      "file" : "05-greasefang.txt",
+      "name" : "Greasefang"
+    }, {
+      "file" : "06-red-deck-wins.txt",
+      "name" : "Red Deck Wins"
+    }, {
+      "file" : "07-rakdos-sacrifice.txt",
+      "name" : "Rakdos Sacrifice"
+    }, {
+      "file" : "08-fires-of-invention.txt",
+      "name" : "Fires Of Invention"
+    }, {
+      "file" : "09-weenie-white.txt",
+      "name" : "Weenie White"
+    }, {
+      "file" : "10-gruul-aggro.txt",
+      "name" : "Gruul Aggro"
+    }, {
+      "file" : "11-boros-aggro.txt",
+      "name" : "Boros Aggro"
+    }, {
+      "file" : "12-creativity.txt",
+      "name" : "Creativity"
+    }, {
+      "file" : "13-mono-blue-aggro.txt",
+      "name" : "Mono Blue Aggro"
+    }, {
+      "file" : "14-spirit-aggro.txt",
+      "name" : "Spirit Aggro"
+    }, {
+      "file" : "15-transmogrify.txt",
+      "name" : "Transmogrify"
+    }, {
+      "file" : "16-auras.txt",
+      "name" : "Auras"
+    }, {
+      "file" : "17-jund.txt",
+      "name" : "Jund"
+    }, {
+      "file" : "18-selesnya-aggro.txt",
+      "name" : "Selesnya Aggro"
+    }, {
+      "file" : "19-dimir-control.txt",
+      "name" : "Dimir Control"
+    }, {
+      "file" : "20-humans.txt",
+      "name" : "Humans"
+    }, {
+      "file" : "21-golgari-aggro.txt",
+      "name" : "Golgari Aggro"
+    }, {
+      "file" : "22-arclight-phoenix.txt",
+      "name" : "Arclight Phoenix"
+    }, {
+      "file" : "23-metamorphic-alteration.txt",
+      "name" : "Metamorphic Alteration"
+    }, {
+      "file" : "24-elves.txt",
+      "name" : "Elves"
     } ]
   }, {
     "id" : "historic",
     "name" : "Historic",
     "decks" : [ {
-      "file" : "01-abzan-midrange.txt",
-      "name" : "Abzan Midrange"
+      "file" : "01-jund.txt",
+      "name" : "Jund"
     }, {
-      "file" : "02-rakdos-sacrifice-lurrus.txt",
-      "name" : "Rakdos Sacrifice Lurrus"
+      "file" : "02-arclight-phoenix.txt",
+      "name" : "Arclight Phoenix"
+    }, {
+      "file" : "03-sultai-control.txt",
+      "name" : "Sultai Control"
+    }, {
+      "file" : "04-rakdos-aggro.txt",
+      "name" : "Rakdos Aggro"
+    }, {
+      "file" : "05-goblins.txt",
+      "name" : "Goblins"
+    }, {
+      "file" : "06-auras.txt",
+      "name" : "Auras"
+    }, {
+      "file" : "07-gruul-aggro.txt",
+      "name" : "Gruul Aggro"
+    }, {
+      "file" : "08-selesnya-aggro.txt",
+      "name" : "Selesnya Aggro"
+    }, {
+      "file" : "09-red-deck-wins.txt",
+      "name" : "Red Deck Wins"
+    }, {
+      "file" : "10-jeskai-control.txt",
+      "name" : "Jeskai Control"
+    }, {
+      "file" : "11-uw-control.txt",
+      "name" : "Uw Control"
+    }, {
+      "file" : "12-4c-control.txt",
+      "name" : "4c Control"
+    }, {
+      "file" : "13-golgari-aggro.txt",
+      "name" : "Golgari Aggro"
+    }, {
+      "file" : "14-mono-black-aggro.txt",
+      "name" : "Mono Black Aggro"
+    }, {
+      "file" : "15-dimir-control.txt",
+      "name" : "Dimir Control"
+    }, {
+      "file" : "16-bant-control.txt",
+      "name" : "Bant Control"
+    }, {
+      "file" : "17-mono-green-aggro.txt",
+      "name" : "Mono Green Aggro"
+    }, {
+      "file" : "18-bant-aggro.txt",
+      "name" : "Bant Aggro"
+    }, {
+      "file" : "19-affinity.txt",
+      "name" : "Affinity"
+    }, {
+      "file" : "20-mono-blue-aggro.txt",
+      "name" : "Mono Blue Aggro"
+    }, {
+      "file" : "21-tainted-oracle.txt",
+      "name" : "Tainted Oracle"
+    }, {
+      "file" : "22-kinnan-emry.txt",
+      "name" : "Kinnan Emry"
+    }, {
+      "file" : "23-creativity.txt",
+      "name" : "Creativity"
+    }, {
+      "file" : "24-ur-aggro.txt",
+      "name" : "Ur Aggro"
+    }, {
+      "file" : "25-boros-aggro.txt",
+      "name" : "Boros Aggro"
     } ]
   }, {
     "id" : "legacy",
     "name" : "Legacy",
     "decks" : [ {
-      "file" : "01-rakdos-reanimator.txt",
-      "name" : "Rakdos Reanimator"
+      "file" : "01-ur-tempo.txt",
+      "name" : "Ur Tempo"
     }, {
-      "file" : "02-lands.txt",
+      "file" : "02-reanimator.txt",
+      "name" : "Reanimator"
+    }, {
+      "file" : "03-uwx-control.txt",
+      "name" : "Uwx Control"
+    }, {
+      "file" : "04-show-and-tell.txt",
+      "name" : "Show And Tell"
+    }, {
+      "file" : "05-dimir-tempo.txt",
+      "name" : "Dimir Tempo"
+    }, {
+      "file" : "06-artifacts-prison.txt",
+      "name" : "Artifacts Prison"
+    }, {
+      "file" : "07-lands.txt",
       "name" : "Lands"
     }, {
-      "file" : "03-eldrazi.txt",
-      "name" : "Eldrazi"
+      "file" : "08-doomsday.txt",
+      "name" : "Doomsday"
     }, {
-      "file" : "04-mardu-energy.txt",
-      "name" : "Mardu Energy"
+      "file" : "09-storm.txt",
+      "name" : "Storm"
     }, {
-      "file" : "05-the-epic-storm.txt",
-      "name" : "The Epic Storm"
+      "file" : "10-eldrazi-aggro.txt",
+      "name" : "Eldrazi Aggro"
     }, {
-      "file" : "06-death-and-taxes-yorion-mono-white.txt",
-      "name" : "Death And Taxes Yorion Mono White"
+      "file" : "11-death-taxes.txt",
+      "name" : "Death Taxes"
     }, {
-      "file" : "07-boros-energy.txt",
-      "name" : "Boros Energy"
+      "file" : "12-boros-aggro.txt",
+      "name" : "Boros Aggro"
     }, {
-      "file" : "08-cradle-control.txt",
+      "file" : "13-artifacts-blue.txt",
+      "name" : "Artifacts Blue"
+    }, {
+      "file" : "14-stoneblade.txt",
+      "name" : "Stoneblade"
+    }, {
+      "file" : "15-cloudpost-tron-ramp.txt",
+      "name" : "Cloudpost Tron Ramp"
+    }, {
+      "file" : "16-cradle-control.txt",
       "name" : "Cradle Control"
     }, {
-      "file" : "09-death-and-taxes-yorion-black-white.txt",
-      "name" : "Death And Taxes Yorion Black White"
+      "file" : "17-mardu-aggro.txt",
+      "name" : "Mardu Aggro"
     }, {
-      "file" : "10-painter.txt",
-      "name" : "Painter"
-    }, {
-      "file" : "11-led-dredge.txt",
-      "name" : "Led Dredge"
-    }, {
-      "file" : "12-saga-storm.txt",
-      "name" : "Saga Storm"
-    }, {
-      "file" : "13-oops-all-spells.txt",
-      "name" : "Oops All Spells"
-    }, {
-      "file" : "14-nic-fit.txt",
+      "file" : "18-nic-fit.txt",
       "name" : "Nic Fit"
     }, {
-      "file" : "15-blue-artifacts.txt",
-      "name" : "Blue Artifacts"
+      "file" : "19-painter.txt",
+      "name" : "Painter"
     }, {
-      "file" : "16-necrodominance-combo.txt",
-      "name" : "Necrodominance Combo"
+      "file" : "20-mystic-forge.txt",
+      "name" : "Mystic Forge"
     }, {
-      "file" : "17-creative-technique.txt",
-      "name" : "Creative Technique"
+      "file" : "21-aluren.txt",
+      "name" : "Aluren"
     }, {
-      "file" : "18-jund.txt",
-      "name" : "Jund"
+      "file" : "22-dredge.txt",
+      "name" : "Dredge"
     }, {
-      "file" : "19-red-stompy.txt",
-      "name" : "Red Stompy"
+      "file" : "23-cephalid-breakfast.txt",
+      "name" : "Cephalid Breakfast"
     }, {
-      "file" : "20-death-and-taxes-60-card.txt",
-      "name" : "Death And Taxes 60 Card"
+      "file" : "24-cascade-crash.txt",
+      "name" : "Cascade Crash"
     }, {
-      "file" : "21-maverick.txt",
-      "name" : "Maverick"
-    }, {
-      "file" : "22-boros-initiative.txt",
-      "name" : "Boros Initiative"
-    }, {
-      "file" : "23-sultai-depths.txt",
-      "name" : "Sultai Depths"
-    }, {
-      "file" : "24-mono-black-pox.txt",
-      "name" : "Mono Black Pox"
-    }, {
-      "file" : "25-green-cloudpost.txt",
-      "name" : "Green Cloudpost"
+      "file" : "25-oops-all-spells.txt",
+      "name" : "Oops All Spells"
     } ]
   }, {
     "id" : "modern",
     "name" : "Modern",
     "decks" : [ {
-      "file" : "01-boros-energy.txt",
-      "name" : "Boros Energy"
-    }, {
-      "file" : "02-affinity.txt",
+      "file" : "01-affinity.txt",
       "name" : "Affinity"
     }, {
-      "file" : "03-goryo-s-vengeance.txt",
-      "name" : "Goryo S Vengeance"
+      "file" : "02-boros-aggro.txt",
+      "name" : "Boros Aggro"
     }, {
-      "file" : "04-izzet-prowess.txt",
-      "name" : "Izzet Prowess"
+      "file" : "03-ur-aggro.txt",
+      "name" : "Ur Aggro"
     }, {
-      "file" : "05-grixis-reanimator.txt",
-      "name" : "Grixis Reanimator"
+      "file" : "04-urzatron.txt",
+      "name" : "Urzatron"
     }, {
-      "file" : "06-ruby-storm.txt",
+      "file" : "05-instant-reanimator.txt",
+      "name" : "Instant Reanimator"
+    }, {
+      "file" : "06-broodscale-bloodchief.txt",
+      "name" : "Broodscale Bloodchief"
+    }, {
+      "file" : "07-uw-control.txt",
+      "name" : "Uw Control"
+    }, {
+      "file" : "08-blink.txt",
+      "name" : "Blink"
+    }, {
+      "file" : "09-boros-ponza.txt",
+      "name" : "Boros Ponza"
+    }, {
+      "file" : "10-ruby-storm.txt",
       "name" : "Ruby Storm"
     }, {
-      "file" : "07-living-end.txt",
+      "file" : "11-reanimator.txt",
+      "name" : "Reanimator"
+    }, {
+      "file" : "12-living-end.txt",
       "name" : "Living End"
     }, {
-      "file" : "08-esper-genericblink.txt",
-      "name" : "Esper Genericblink"
+      "file" : "13-creatures-toolbox.txt",
+      "name" : "Creatures Toolbox"
     }, {
-      "file" : "09-eldrazi.txt",
-      "name" : "Eldrazi"
+      "file" : "14-amulet-titan.txt",
+      "name" : "Amulet Titan"
     }, {
-      "file" : "10-yawgmoth.txt",
-      "name" : "Yawgmoth"
+      "file" : "15-4-5c-aggro.txt",
+      "name" : "4 5c Aggro"
     }, {
-      "file" : "11-domain-zoo.txt",
-      "name" : "Domain Zoo"
+      "file" : "16-dimir-control.txt",
+      "name" : "Dimir Control"
     }, {
-      "file" : "12-gruul-basking-broodscale-combo.txt",
-      "name" : "Gruul Basking Broodscale Combo"
-    }, {
-      "file" : "13-azorius-genericblink.txt",
-      "name" : "Azorius Genericblink"
-    }, {
-      "file" : "14-belcher.txt",
-      "name" : "Belcher"
-    }, {
-      "file" : "15-eldrazi-ramp.txt",
+      "file" : "17-eldrazi-ramp.txt",
       "name" : "Eldrazi Ramp"
     }, {
-      "file" : "16-dimir-midrange.txt",
-      "name" : "Dimir Midrange"
+      "file" : "18-landless.txt",
+      "name" : "Landless"
     }, {
-      "file" : "17-mardu-energy.txt",
-      "name" : "Mardu Energy"
+      "file" : "19-red-deck-wins.txt",
+      "name" : "Red Deck Wins"
     }, {
-      "file" : "18-mono-black-midrange.txt",
-      "name" : "Mono Black Midrange"
+      "file" : "20-jeskai-aggro.txt",
+      "name" : "Jeskai Aggro"
     }, {
-      "file" : "19-mono-green-basking-broodscale-combo.txt",
-      "name" : "Mono Green Basking Broodscale Combo"
+      "file" : "21-mardu-aggro.txt",
+      "name" : "Mardu Aggro"
     }, {
-      "file" : "20-devoted-combo.txt",
-      "name" : "Devoted Combo"
+      "file" : "22-simic-birthing-ritual.txt",
+      "name" : "Simic Birthing Ritual"
     }, {
-      "file" : "21-jeskai-energy.txt",
-      "name" : "Jeskai Energy"
+      "file" : "23-allosaurus-combo.txt",
+      "name" : "Allosaurus Combo"
     }, {
-      "file" : "22-mill.txt",
-      "name" : "Mill"
+      "file" : "24-merfolk.txt",
+      "name" : "Merfolk"
     }, {
-      "file" : "23-sultai-midrange.txt",
-      "name" : "Sultai Midrange"
-    }, {
-      "file" : "24-izzet-steel-cutter.txt",
-      "name" : "Izzet Steel Cutter"
-    }, {
-      "file" : "25-boros-burn.txt",
-      "name" : "Boros Burn"
+      "file" : "25-mono-black-aggro.txt",
+      "name" : "Mono Black Aggro"
     } ]
   }, {
     "id" : "pauper",
     "name" : "Pauper",
     "decks" : [ {
-      "file" : "01-mono-red-madness.txt",
-      "name" : "Mono Red Madness"
+      "file" : "01-affinity.txt",
+      "name" : "Affinity"
     }, {
-      "file" : "02-grixis-affinity.txt",
-      "name" : "Grixis Affinity"
+      "file" : "02-burn.txt",
+      "name" : "Burn"
     }, {
-      "file" : "03-blue-terror.txt",
-      "name" : "Blue Terror"
+      "file" : "03-gates.txt",
+      "name" : "Gates"
     }, {
-      "file" : "04-jund-wildfire.txt",
-      "name" : "Jund Wildfire"
+      "file" : "04-mono-blue-aggro.txt",
+      "name" : "Mono Blue Aggro"
     }, {
-      "file" : "05-mono-red-rally.txt",
-      "name" : "Mono Red Rally"
+      "file" : "05-dimir-control.txt",
+      "name" : "Dimir Control"
     }, {
-      "file" : "06-dimir-faeries.txt",
-      "name" : "Dimir Faeries"
+      "file" : "06-jund.txt",
+      "name" : "Jund"
     }, {
-      "file" : "07-white-aggro.txt",
-      "name" : "White Aggro"
+      "file" : "07-gruul-aggro.txt",
+      "name" : "Gruul Aggro"
     }, {
-      "file" : "08-rakdos-madness.txt",
-      "name" : "Rakdos Madness"
+      "file" : "08-red-deck-wins.txt",
+      "name" : "Red Deck Wins"
     }, {
-      "file" : "09-jeskai-ephemerate.txt",
-      "name" : "Jeskai Ephemerate"
+      "file" : "09-urzatron.txt",
+      "name" : "Urzatron"
     }, {
-      "file" : "10-spy-combo.txt",
-      "name" : "Spy Combo"
+      "file" : "10-ephemerate.txt",
+      "name" : "Ephemerate"
     }, {
-      "file" : "11-familiars.txt",
-      "name" : "Familiars"
+      "file" : "11-golgari-jund-garden.txt",
+      "name" : "Golgari Jund Garden"
     }, {
-      "file" : "12-golgari-gardens.txt",
-      "name" : "Golgari Gardens"
+      "file" : "12-rakdos-aggro.txt",
+      "name" : "Rakdos Aggro"
     }, {
-      "file" : "13-mono-blue-faeries.txt",
-      "name" : "Mono Blue Faeries"
+      "file" : "13-balustrade-spy.txt",
+      "name" : "Balustrade Spy"
     }, {
-      "file" : "14-dimir-terror.txt",
-      "name" : "Dimir Terror"
+      "file" : "14-weenie-white.txt",
+      "name" : "Weenie White"
     }, {
-      "file" : "15-gruul-ponza.txt",
-      "name" : "Gruul Ponza"
+      "file" : "15-elves.txt",
+      "name" : "Elves"
     }, {
-      "file" : "16-ruby-storm.txt",
-      "name" : "Ruby Storm"
+      "file" : "16-aura-aggro.txt",
+      "name" : "Aura Aggro"
     }, {
-      "file" : "17-turbo-fog.txt",
+      "file" : "17-mono-blue-terror.txt",
+      "name" : "Mono Blue Terror"
+    }, {
+      "file" : "18-rg-ruby-storm.txt",
+      "name" : "Rg Ruby Storm"
+    }, {
+      "file" : "19-mono-black-aggro.txt",
+      "name" : "Mono Black Aggro"
+    }, {
+      "file" : "20-boros-aggro.txt",
+      "name" : "Boros Aggro"
+    }, {
+      "file" : "21-ur-control.txt",
+      "name" : "Ur Control"
+    }, {
+      "file" : "22-turbo-fog.txt",
       "name" : "Turbo Fog"
     }, {
-      "file" : "18-black-sacrifice.txt",
-      "name" : "Black Sacrifice"
+      "file" : "23-tireless-tribe.txt",
+      "name" : "Tireless Tribe"
     }, {
-      "file" : "19-inside-out-combo.txt",
-      "name" : "Inside Out Combo"
+      "file" : "24-orzhov-aggro.txt",
+      "name" : "Orzhov Aggro"
     }, {
-      "file" : "20-caw-gates.txt",
-      "name" : "Caw Gates"
-    }, {
-      "file" : "21-glintblade.txt",
-      "name" : "Glintblade"
-    }, {
-      "file" : "22-food-gardens.txt",
-      "name" : "Food Gardens"
-    }, {
-      "file" : "23-ephemerate-tron.txt",
-      "name" : "Ephemerate Tron"
-    }, {
-      "file" : "24-gruul-ramp.txt",
-      "name" : "Gruul Ramp"
-    }, {
-      "file" : "25-izzet-terror.txt",
-      "name" : "Izzet Terror"
-    } ]
-  }, {
-    "id" : "penny_dreadful",
-    "name" : "Penny Dreadful",
-    "decks" : [ {
-      "file" : "01-red-deck-wins-s36.txt",
-      "name" : "Red Deck Wins S36"
-    }, {
-      "file" : "02-mono-white-humans-s36.txt",
-      "name" : "Mono White Humans S36"
-    }, {
-      "file" : "03-izzet-twin-s36.txt",
-      "name" : "Izzet Twin S36"
-    }, {
-      "file" : "04-enchantress-s36.txt",
-      "name" : "Enchantress S36"
-    }, {
-      "file" : "05-bant-nadu-s36.txt",
-      "name" : "Bant Nadu S36"
-    }, {
-      "file" : "06-dredge-s36.txt",
-      "name" : "Dredge S36"
-    }, {
-      "file" : "07-ad-nauseam-s36.txt",
-      "name" : "Ad Nauseam S36"
-    }, {
-      "file" : "08-shadow-crimes-s36.txt",
-      "name" : "Shadow Crimes S36"
-    }, {
-      "file" : "09-dubious-challenge-s36.txt",
-      "name" : "Dubious Challenge S36"
-    }, {
-      "file" : "10-wizards-s36.txt",
-      "name" : "Wizards S36"
-    }, {
-      "file" : "11-dimir-control-s36.txt",
-      "name" : "Dimir Control S36"
-    }, {
-      "file" : "12-jund-s36.txt",
-      "name" : "Jund S36"
-    }, {
-      "file" : "13-mono-black-midrange-s36.txt",
-      "name" : "Mono Black Midrange S36"
-    }, {
-      "file" : "14-boros-legends-aggro-s36.txt",
-      "name" : "Boros Legends Aggro S36"
-    }, {
-      "file" : "15-azorius-control-s36.txt",
-      "name" : "Azorius Control S36"
-    }, {
-      "file" : "16-mono-black-aristocrats-s36.txt",
-      "name" : "Mono Black Aristocrats S36"
-    }, {
-      "file" : "17-azorius-tempo-s36.txt",
-      "name" : "Azorius Tempo S36"
-    }, {
-      "file" : "18-flare-deck-wins-s36.txt",
-      "name" : "Flare Deck Wins S36"
-    }, {
-      "file" : "19-blazing-shoal-combo-s36.txt",
-      "name" : "Blazing Shoal Combo S36"
-    }, {
-      "file" : "20-dimir-h-k-s36.txt",
-      "name" : "Dimir H K S36"
-    }, {
-      "file" : "21-simic-nadu-s36.txt",
-      "name" : "Simic Nadu S36"
-    }, {
-      "file" : "22-boros-heroic-s36.txt",
-      "name" : "Boros Heroic S36"
-    }, {
-      "file" : "23-necrotic-ooze-combo-s36.txt",
-      "name" : "Necrotic Ooze Combo S36"
-    }, {
-      "file" : "24-bant-control-s36.txt",
-      "name" : "Bant Control S36"
-    }, {
-      "file" : "25-goblins-s36.txt",
-      "name" : "Goblins S36"
+      "file" : "25-mardu-aggro.txt",
+      "name" : "Mardu Aggro"
     } ]
   }, {
     "id" : "pioneer",
     "name" : "Pioneer",
     "decks" : [ {
-      "file" : "01-mono-red-prowess.txt",
-      "name" : "Mono Red Prowess"
+      "file" : "01-greasefang-parhelion.txt",
+      "name" : "Greasefang Parhelion"
     }, {
-      "file" : "02-golgari-midrange.txt",
-      "name" : "Golgari Midrange"
+      "file" : "02-red-deck-wins.txt",
+      "name" : "Red Deck Wins"
     }, {
-      "file" : "03-azorius-control.txt",
-      "name" : "Azorius Control"
+      "file" : "03-uw-control.txt",
+      "name" : "Uw Control"
     }, {
-      "file" : "04-izzet-prowess.txt",
-      "name" : "Izzet Prowess"
-    }, {
-      "file" : "05-dimir-aggro.txt",
+      "file" : "04-dimir-aggro.txt",
       "name" : "Dimir Aggro"
     }, {
-      "file" : "06-abzan-greasefang.txt",
-      "name" : "Abzan Greasefang"
+      "file" : "05-the-rock.txt",
+      "name" : "The Rock"
     }, {
-      "file" : "07-orzhov-greasefang.txt",
-      "name" : "Orzhov Greasefang"
+      "file" : "06-selesnya-aggro.txt",
+      "name" : "Selesnya Aggro"
     }, {
-      "file" : "08-dimir-midrange.txt",
-      "name" : "Dimir Midrange"
+      "file" : "07-ur-aggro.txt",
+      "name" : "Ur Aggro"
     }, {
-      "file" : "09-5c-scapeshift.txt",
-      "name" : "5c Scapeshift"
+      "file" : "08-lotus-field.txt",
+      "name" : "Lotus Field"
     }, {
-      "file" : "10-mono-black-midrange.txt",
-      "name" : "Mono Black Midrange"
+      "file" : "09-arclight-phoenix.txt",
+      "name" : "Arclight Phoenix"
     }, {
-      "file" : "11-hidden-strings.txt",
-      "name" : "Hidden Strings"
+      "file" : "10-devotion-to-green.txt",
+      "name" : "Devotion To Green"
     }, {
-      "file" : "12-rakdos-midrange.txt",
-      "name" : "Rakdos Midrange"
+      "file" : "11-mono-black-control.txt",
+      "name" : "Mono Black Control"
     }, {
-      "file" : "13-4c-scapeshift.txt",
-      "name" : "4c Scapeshift"
+      "file" : "12-boros-aggro.txt",
+      "name" : "Boros Aggro"
     }, {
-      "file" : "14-golgari-food.txt",
-      "name" : "Golgari Food"
+      "file" : "13-azorius-tempo-spirit-aggro.txt",
+      "name" : "Azorius Tempo Spirit Aggro"
     }, {
-      "file" : "15-nykthos-ramp.txt",
-      "name" : "Nykthos Ramp"
+      "file" : "14-golgari-aggro.txt",
+      "name" : "Golgari Aggro"
     }, {
-      "file" : "16-mono-white-humans.txt",
-      "name" : "Mono White Humans"
+      "file" : "15-rakdos-aggro.txt",
+      "name" : "Rakdos Aggro"
     }, {
-      "file" : "17-jund-sacrifice.txt",
-      "name" : "Jund Sacrifice"
+      "file" : "16-izzet-control.txt",
+      "name" : "Izzet Control"
     }, {
-      "file" : "18-simic-scapeshift.txt",
-      "name" : "Simic Scapeshift"
+      "file" : "17-auras.txt",
+      "name" : "Auras"
     }, {
-      "file" : "19-boros-convoke.txt",
-      "name" : "Boros Convoke"
+      "file" : "18-jund.txt",
+      "name" : "Jund"
     }, {
-      "file" : "20-azorius-spirits.txt",
-      "name" : "Azorius Spirits"
+      "file" : "19-esper-aggro.txt",
+      "name" : "Esper Aggro"
     }, {
-      "file" : "21-mono-green-midrange.txt",
-      "name" : "Mono Green Midrange"
+      "file" : "20-artifacts-aggro.txt",
+      "name" : "Artifacts Aggro"
     }, {
-      "file" : "22-selesnya-company.txt",
-      "name" : "Selesnya Company"
+      "file" : "21-goblins.txt",
+      "name" : "Goblins"
     }, {
-      "file" : "23-izzet-midrange.txt",
-      "name" : "Izzet Midrange"
+      "file" : "22-enigmatic-incarnation.txt",
+      "name" : "Enigmatic Incarnation"
     }, {
-      "file" : "24-grixis-indomitable-creativity.txt",
-      "name" : "Grixis Indomitable Creativity"
+      "file" : "23-sultai-control.txt",
+      "name" : "Sultai Control"
     }, {
-      "file" : "25-5c-legends.txt",
-      "name" : "5c Legends"
+      "file" : "24-esper-control.txt",
+      "name" : "Esper Control"
+    }, {
+      "file" : "25-dimir-control.txt",
+      "name" : "Dimir Control"
     } ]
   }, {
     "id" : "premodern",
     "name" : "Premodern",
     "decks" : [ {
-      "file" : "01-mono-blue-stiflenought.txt",
-      "name" : "Mono Blue Stiflenought"
+      "file" : "01-goblins.txt",
+      "name" : "Goblins"
     }, {
-      "file" : "02-selesnya-enchantress.txt",
-      "name" : "Selesnya Enchantress"
+      "file" : "02-stiflenought.txt",
+      "name" : "Stiflenought"
     }, {
-      "file" : "03-mono-red-sligh.txt",
-      "name" : "Mono Red Sligh"
+      "file" : "03-replenish.txt",
+      "name" : "Replenish"
     }, {
-      "file" : "04-azorius-standstill.txt",
-      "name" : "Azorius Standstill"
+      "file" : "04-sligh-rdw.txt",
+      "name" : "Sligh Rdw"
     }, {
-      "file" : "05-mono-black-midrange.txt",
-      "name" : "Mono Black Midrange"
+      "file" : "05-enchantress.txt",
+      "name" : "Enchantress"
     }, {
-      "file" : "06-gruul-goblins.txt",
-      "name" : "Gruul Goblins"
+      "file" : "06-landstill-uw-control.txt",
+      "name" : "Landstill Uw Control"
     }, {
-      "file" : "07-azorius-replenish.txt",
-      "name" : "Azorius Replenish"
+      "file" : "07-oath-of-druids.txt",
+      "name" : "Oath Of Druids"
     }, {
-      "file" : "08-gruul-sligh.txt",
-      "name" : "Gruul Sligh"
+      "file" : "08-terrageddon.txt",
+      "name" : "Terrageddon"
     }, {
-      "file" : "09-the-rock.txt",
+      "file" : "09-mono-black-aggro.txt",
+      "name" : "Mono Black Aggro"
+    }, {
+      "file" : "10-the-rock.txt",
       "name" : "The Rock"
     }, {
-      "file" : "10-naya-terragedon.txt",
-      "name" : "Naya Terragedon"
+      "file" : "11-stasis.txt",
+      "name" : "Stasis"
     }, {
-      "file" : "11-rg.txt",
-      "name" : "Rg"
+      "file" : "12-rg-aggro.txt",
+      "name" : "Rg Aggro"
     }, {
-      "file" : "12-iggy-pop.txt",
-      "name" : "Iggy Pop"
-    }, {
-      "file" : "13-gro-a-tog.txt",
-      "name" : "Gro A Tog"
-    }, {
-      "file" : "14-u.txt",
-      "name" : "U"
-    }, {
-      "file" : "15-bant.txt",
-      "name" : "Bant"
-    }, {
-      "file" : "16-elves.txt",
+      "file" : "13-elves.txt",
       "name" : "Elves"
     }, {
-      "file" : "17-ub-psychatog.txt",
-      "name" : "Ub Psychatog"
+      "file" : "14-madness-threshold.txt",
+      "name" : "Madness Threshold"
     }, {
-      "file" : "18-mono-white.txt",
-      "name" : "Mono White"
+      "file" : "15-survival.txt",
+      "name" : "Survival"
     }, {
-      "file" : "19-selesnya-land-destruction.txt",
-      "name" : "Selesnya Land Destruction"
+      "file" : "16-psychatog.txt",
+      "name" : "Psychatog"
     }, {
-      "file" : "20-4c-terragedon.txt",
-      "name" : "4c Terragedon"
+      "file" : "17-grow.txt",
+      "name" : "Grow"
     }, {
-      "file" : "21-orzhov-control.txt",
-      "name" : "Orzhov Control"
+      "file" : "18-welder-tinker.txt",
+      "name" : "Welder Tinker"
     }, {
-      "file" : "22-reanimator.txt",
+      "file" : "19-mono-red-control.txt",
+      "name" : "Mono Red Control"
+    }, {
+      "file" : "20-full-english-breakfast.txt",
+      "name" : "Full English Breakfast"
+    }, {
+      "file" : "21-ill-gotten-gains.txt",
+      "name" : "Ill Gotten Gains"
+    }, {
+      "file" : "22-white-weenie.txt",
+      "name" : "White Weenie"
+    }, {
+      "file" : "23-tinker-fling.txt",
+      "name" : "Tinker Fling"
+    }, {
+      "file" : "24-reanimator.txt",
       "name" : "Reanimator"
     }, {
-      "file" : "23-mono-red-goblins.txt",
-      "name" : "Mono Red Goblins"
-    }, {
-      "file" : "24-5c-hermit-druid.txt",
-      "name" : "5c Hermit Druid"
-    }, {
-      "file" : "25-selesnya.txt",
-      "name" : "Selesnya"
+      "file" : "25-mono-blue-storm.txt",
+      "name" : "Mono Blue Storm"
     } ]
   }, {
     "id" : "standard",
     "name" : "Standard",
     "decks" : [ {
-      "file" : "01-jeskai-lessons-woe.txt",
-      "name" : "Jeskai Lessons Woe"
+      "file" : "01-selesnya-aggro.txt",
+      "name" : "Selesnya Aggro"
     }, {
-      "file" : "02-izzet-prowess-woe.txt",
-      "name" : "Izzet Prowess Woe"
+      "file" : "02-izzet-control.txt",
+      "name" : "Izzet Control"
     }, {
-      "file" : "03-izzet-spellementals-woe.txt",
-      "name" : "Izzet Spellementals Woe"
+      "file" : "03-mono-green-aggro.txt",
+      "name" : "Mono Green Aggro"
     }, {
-      "file" : "04-selesnya-ouroboroid-woe.txt",
-      "name" : "Selesnya Ouroboroid Woe"
+      "file" : "04-ur-aggro.txt",
+      "name" : "Ur Aggro"
     }, {
-      "file" : "05-4c-control-woe.txt",
-      "name" : "4c Control Woe"
+      "file" : "05-4-5c-control.txt",
+      "name" : "4 5c Control"
     }, {
-      "file" : "06-selesnya-gearhulk-woe.txt",
-      "name" : "Selesnya Gearhulk Woe"
+      "file" : "06-reanimator.txt",
+      "name" : "Reanimator"
     }, {
-      "file" : "07-dimir-excruciator-woe.txt",
-      "name" : "Dimir Excruciator Woe"
+      "file" : "07-jeskai-control.txt",
+      "name" : "Jeskai Control"
     }, {
-      "file" : "08-mono-green-landfall-woe.txt",
-      "name" : "Mono Green Landfall Woe"
+      "file" : "08-red-deck-wins.txt",
+      "name" : "Red Deck Wins"
     }, {
-      "file" : "09-azorius-momo-woe.txt",
-      "name" : "Azorius Momo Woe"
+      "file" : "09-azorius-aggro.txt",
+      "name" : "Azorius Aggro"
     }, {
-      "file" : "10-izzet-spells-woe.txt",
-      "name" : "Izzet Spells Woe"
+      "file" : "10-mardu-aggro.txt",
+      "name" : "Mardu Aggro"
     }, {
-      "file" : "11-selesnya-landfall-woe.txt",
-      "name" : "Selesnya Landfall Woe"
+      "file" : "11-gruul-aggro.txt",
+      "name" : "Gruul Aggro"
     }, {
-      "file" : "12-mardu-discard-woe.txt",
-      "name" : "Mardu Discard Woe"
+      "file" : "12-bant-aggro.txt",
+      "name" : "Bant Aggro"
     }, {
-      "file" : "13-dimir-reanimator-woe.txt",
-      "name" : "Dimir Reanimator Woe"
+      "file" : "13-dimir-aggro.txt",
+      "name" : "Dimir Aggro"
     }, {
-      "file" : "14-izzet-lessons-woe.txt",
-      "name" : "Izzet Lessons Woe"
+      "file" : "14-sultai-control.txt",
+      "name" : "Sultai Control"
     }, {
-      "file" : "15-mono-red-aggro-woe.txt",
-      "name" : "Mono Red Aggro Woe"
+      "file" : "15-golgari-control.txt",
+      "name" : "Golgari Control"
     }, {
-      "file" : "16-izzet-maestro-woe.txt",
-      "name" : "Izzet Maestro Woe"
+      "file" : "16-grixis-aggro.txt",
+      "name" : "Grixis Aggro"
     }, {
-      "file" : "17-izzet-self-bounce-woe.txt",
-      "name" : "Izzet Self Bounce Woe"
+      "file" : "17-jeskai-aggro.txt",
+      "name" : "Jeskai Aggro"
     }, {
-      "file" : "18-gruul-delirium-woe.txt",
-      "name" : "Gruul Delirium Woe"
+      "file" : "18-golgari-aggro.txt",
+      "name" : "Golgari Aggro"
     }, {
-      "file" : "19-izzet-aggro-woe.txt",
-      "name" : "Izzet Aggro Woe"
+      "file" : "19-simic-aggro.txt",
+      "name" : "Simic Aggro"
     }, {
-      "file" : "20-jeskai-artifacts-woe.txt",
-      "name" : "Jeskai Artifacts Woe"
+      "file" : "20-temur-control.txt",
+      "name" : "Temur Control"
     }, {
-      "file" : "21-temur-prowess-woe.txt",
-      "name" : "Temur Prowess Woe"
-    }, {
-      "file" : "22-golgari-midrange-woe.txt",
-      "name" : "Golgari Midrange Woe"
-    }, {
-      "file" : "23-jeskai-manufacturing-woe.txt",
-      "name" : "Jeskai Manufacturing Woe"
-    }, {
-      "file" : "24-boros-control-woe.txt",
-      "name" : "Boros Control Woe"
-    }, {
-      "file" : "25-azorius-tempo-woe.txt",
-      "name" : "Azorius Tempo Woe"
-    } ]
-  }, {
-    "id" : "timeless",
-    "name" : "Timeless",
-    "decks" : [ {
-      "file" : "01-mono-black-scam.txt",
-      "name" : "Mono Black Scam"
-    }, {
-      "file" : "02-mardu-energy.txt",
-      "name" : "Mardu Energy"
-    }, {
-      "file" : "03-dimir-reanimator.txt",
-      "name" : "Dimir Reanimator"
-    }, {
-      "file" : "04-izzet-sneak-and-show.txt",
-      "name" : "Izzet Sneak And Show"
-    }, {
-      "file" : "05-esper-tempo-lurrus.txt",
-      "name" : "Esper Tempo Lurrus"
-    }, {
-      "file" : "06-mono-white-stompy.txt",
-      "name" : "Mono White Stompy"
-    }, {
-      "file" : "07-colorless-eldrazi.txt",
-      "name" : "Colorless Eldrazi"
-    }, {
-      "file" : "08-mono-red-ruby-storm.txt",
-      "name" : "Mono Red Ruby Storm"
-    }, {
-      "file" : "09-mono-black-reanimator.txt",
-      "name" : "Mono Black Reanimator"
+      "file" : "21-uw-control.txt",
+      "name" : "Uw Control"
     } ]
   }, {
     "id" : "vintage",
     "name" : "Vintage",
     "decks" : [ {
-      "file" : "01-raker-shops.txt",
-      "name" : "Raker Shops"
+      "file" : "01-mud.txt",
+      "name" : "Mud"
     }, {
-      "file" : "02-dredge.txt",
-      "name" : "Dredge"
+      "file" : "02-dimir-control.txt",
+      "name" : "Dimir Control"
     }, {
-      "file" : "03-mono-white-initiative.txt",
-      "name" : "Mono White Initiative"
-    }, {
-      "file" : "04-oath-of-druids.txt",
+      "file" : "03-oath-of-druids.txt",
       "name" : "Oath Of Druids"
     }, {
-      "file" : "05-sphere-shops.txt",
-      "name" : "Sphere Shops"
+      "file" : "04-coveted-jewel.txt",
+      "name" : "Coveted Jewel"
     }, {
-      "file" : "06-blue-tinker.txt",
-      "name" : "Blue Tinker"
+      "file" : "05-dredge.txt",
+      "name" : "Dredge"
     }, {
-      "file" : "07-jewel-shops.txt",
-      "name" : "Jewel Shops"
+      "file" : "06-hatebear.txt",
+      "name" : "Hatebear"
     }, {
-      "file" : "08-dimir-lurrus-control.txt",
-      "name" : "Dimir Lurrus Control"
+      "file" : "07-esper-control.txt",
+      "name" : "Esper Control"
     }, {
-      "file" : "09-lurrus-po.txt",
-      "name" : "Lurrus Po"
-    }, {
-      "file" : "10-esper-lurrus-control.txt",
-      "name" : "Esper Lurrus Control"
-    }, {
-      "file" : "11-lurrus-breach.txt",
-      "name" : "Lurrus Breach"
-    }, {
-      "file" : "12-doomsday.txt",
-      "name" : "Doomsday"
-    }, {
-      "file" : "13-paradoxical-outcome.txt",
+      "file" : "08-paradoxical-outcome.txt",
       "name" : "Paradoxical Outcome"
     }, {
-      "file" : "14-counter-vine.txt",
-      "name" : "Counter Vine"
+      "file" : "09-doomsday.txt",
+      "name" : "Doomsday"
     }, {
-      "file" : "15-sultai-midrange.txt",
-      "name" : "Sultai Midrange"
+      "file" : "10-bug-midrange.txt",
+      "name" : "Bug Midrange"
     }, {
-      "file" : "16-stiflenought.txt",
-      "name" : "Stiflenought"
+      "file" : "11-gifts-control.txt",
+      "name" : "Gifts Control"
     }, {
-      "file" : "17-lurrus-drs.txt",
-      "name" : "Lurrus Drs"
+      "file" : "12-uw-control.txt",
+      "name" : "Uw Control"
     }, {
-      "file" : "18-eldrazi.txt",
-      "name" : "Eldrazi"
-    }, {
-      "file" : "19-lurrus-vault-key.txt",
-      "name" : "Lurrus Vault Key"
-    }, {
-      "file" : "20-oops-all-spells.txt",
-      "name" : "Oops All Spells"
-    }, {
-      "file" : "21-grixis-lurrus-control.txt",
-      "name" : "Grixis Lurrus Control"
-    }, {
-      "file" : "22-red-prison.txt",
-      "name" : "Red Prison"
-    }, {
-      "file" : "23-azorius-initiative.txt",
-      "name" : "Azorius Initiative"
-    }, {
-      "file" : "24-underworld-breach.txt",
+      "file" : "13-underworld-breach.txt",
       "name" : "Underworld Breach"
     }, {
-      "file" : "25-merfolk.txt",
+      "file" : "14-bazaar-aggro.txt",
+      "name" : "Bazaar Aggro"
+    }, {
+      "file" : "15-storm.txt",
+      "name" : "Storm"
+    }, {
+      "file" : "16-eldrazi-aggro.txt",
+      "name" : "Eldrazi Aggro"
+    }, {
+      "file" : "17-azorius-tempo.txt",
+      "name" : "Azorius Tempo"
+    }, {
+      "file" : "18-engineer-control.txt",
+      "name" : "Engineer Control"
+    }, {
+      "file" : "19-goblins.txt",
+      "name" : "Goblins"
+    }, {
+      "file" : "20-grixis-control.txt",
+      "name" : "Grixis Control"
+    }, {
+      "file" : "21-phyrexian-dreadnought.txt",
+      "name" : "Phyrexian Dreadnought"
+    }, {
+      "file" : "22-jeskai-xerox.txt",
+      "name" : "Jeskai Xerox"
+    }, {
+      "file" : "23-merfolk.txt",
       "name" : "Merfolk"
+    }, {
+      "file" : "24-snapcaster-control.txt",
+      "name" : "Snapcaster Control"
+    }, {
+      "file" : "25-landless-spy.txt",
+      "name" : "Landless Spy"
     } ]
   } ]
 }

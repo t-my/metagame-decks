@@ -1,0 +1,23 @@
+1 Voltaic Key
+2 Mystic Forge
+2 Mox Opal
+3 Manifold Key
+4 Trinisphere
+4 The One Ring
+4 The Fantasticar
+4 Kozilek's Command
+4 Lotus Petal
+4 Chalice of the Void
+4 Grim Monolith
+4 Glaring Fleshraker
+4 Urza's Saga
+4 Planar Nexus
+4 Ancient Tomb
+4 Urza's Tower
+4 Urza's Workshop
+
+4 Portable Hole
+3 Disruptor Flute
+3 Engineered Explosives
+3 Mindbreak Trap
+2 Tormod's Crypt

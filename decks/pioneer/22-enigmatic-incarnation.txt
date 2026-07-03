@@ -1,0 +1,60 @@
+1 Angel of Serenity
+1 Knight of Autumn
+1 Skyclave Apparition
+2 Glasspool Mimic
+3 Zur, Eternal Schemer
+1 Elesh Norn, Mother of Machines
+1 Atraxa, Grand Unifier
+1 Tranquil Frillback
+2 Overlord of the Mistmoors
+2 Overlord of the Balemurk
+1 Overlord of the Boilerbilges
+4 Overlord of the Hauntwoods
+1 Summon: Leviathan
+1 Summon: Primal Odin
+1 Yuna, Hope of Spira
+1 Formidable Speaker
+1 Cloak and Dagger, Entwined
+2 The Mind Stone
+3 Abrupt Decay
+4 Omen of the Sea
+4 Enigmatic Incarnation
+1 Binding the Old Gods
+1 The Meathook Massacre
+4 Leyline Binding
+4 Nowhere to Run
+1 Plains
+1 Forest
+3 Cavern of Souls
+1 Blood Crypt
+1 Breeding Pool
+1 Hallowed Fountain
+1 Godless Shrine
+1 Sacred Foundry
+1 Stomping Ground
+1 Overgrown Tomb
+1 Temple Garden
+2 Indatha Triome
+1 Ketria Triome
+1 Raugrin Triome
+2 Zagoth Triome
+1 Jetmir's Garden
+2 Spara's Headquarters
+2 Floodfarm Verge
+2 Hushwood Verge
+1 Thornspire Verge
+1 Bleachbone Verge
+2 Wastewood Verge
+1 Willowrush Verge
+1 Mistrise Village
+
+2 Authority of the Consuls
+1 Anafenza, the Foremost
+2 Rest in Peace
+2 Dovin's Veto
+1 Yorion, Sky Nomad
+1 Kutzil's Flanker
+1 Doorkeeper Thrull
+2 High Noon
+2 Inevitable Defeat
+1 Redirect Lightning

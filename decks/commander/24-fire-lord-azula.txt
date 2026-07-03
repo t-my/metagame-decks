@@ -1,0 +1,87 @@
+1 A.I.M. Scientists
+1 A.I.M. Synthoids
+1 Aerial Doombot
+1 Agents of HYDRA
+1 Ares, God of War
+1 Arnim Zola, Bio-Fanatic
+1 Baron Helmut Zemo
+1 Baron Strucker, HYDRA Overlord
+1 Crimson Operative
+1 Crossbones, Malicious Mercenary
+1 Doctor Doom
+1 Elektra, Daughter of the Hand
+1 Ghost, Spectral Saboteur
+1 Grim Reaper, Lethal Legionnaire
+1 HYDRA Assault Robot
+1 HYDRA Troopers
+1 Kang, Temporal Tyrant
+1 Kid Loki
+1 Kingpin's Enforcers
+1 Leader, Super-Genius
+1 Loki Laufeyson
+1 M.O.D.O.K.
+1 Madame Hydra
+1 Madame Masque
+1 Moonstone, Harsh Mistress
+1 Ninja of the Hand
+1 Red Room Recruit
+1 Roxxon Brutes
+1 Super-Adaptoid
+1 Swordsman, Sharp Scoundrel
+1 Taskmaster, Mercenary Mimic
+1 The Masters of Evil
+1 Yellowjacket, Heartless Marauder
+1 Arcane Signet
+1 Charcoal Diamond
+1 Cosmic Cube
+1 Dimir Signet
+1 Fellwar Stone
+1 Izzet Signet
+1 Prismatic Lens
+1 Rakdos Signet
+1 Sky Diamond
+1 Sol Ring
+1 Stolen Stark Tech
+1 Super Suit
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Talisman of Indulgence
+1 Thought Vessel
+1 Dark Deed
+1 Decoy Ploy
+1 Visions of Villainy
+1 We Say Thee Nay!
+1 Widow's Bite
+1 Cruel Alliance
+1 Too Evil to Stay Dead
+1 Trickster's Stratagem
+1 Bedlam
+1 Doom Reigns Supreme
+1 Frozen in Ice
+1 Robot Domination
+1 Super Intelligence
+1 Canyon Slough
+1 Command Tower
+1 Drowned Catacomb
+1 Evolving Wilds
+1 Exotic Orchard
+1 Fabled Passage
+1 Frostboil Snarl
+1 Hidden Lair
+6 Island
+1 Izzet Boilerworks
+3 Mountain
+1 Path of Ancestry
+1 Riverpyre Verge
+1 Shipwreck Marsh
+1 Shivan Reef
+1 Sulfur Falls
+1 Sunken Ruins
+1 Surveillance Room
+8 Swamp
+1 Terramorphic Expanse
+1 Underground River
+1 Vibrant Cityscape
+1 Villainous Hideout
+
+1 Fire Lord Azula

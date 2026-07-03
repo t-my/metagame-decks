@@ -1,0 +1,98 @@
+1 Arbor Elf
+1 Arena of Glory
+1 Arid Mesa
+1 Ba Sing Se
+1 Badgermole Cub
+1 Berserk
+1 Birds of Paradise
+1 Blinkmoth Nexus
+1 Bloodstained Mire
+1 Blossoming Tortoise
+1 Bonecrusher Giant
+1 Boseiju, Who Endures
+1 Bristly Bill, Spine Sower
+1 Broadside Bombardiers
+1 Bumi, Unleashed
+1 Chain Lightning
+1 Command Tower
+1 Commercial District
+1 Copperline Gorge
+1 Cragcrown Pathway
+1 Crop Rotation
+1 Delighted Halfling
+1 Den of the Bugbear
+1 Detective's Phoenix
+1 Domri, Anarch of Bolas
+1 Dryad Arbor
+1 Earthbender Ascension
+1 Earthbending Student
+1 Elvish Mystic
+1 Endurance
+1 Exploration
+1 Fable of the Mirror-Breaker
+1 Fanatic of Rhonas
+1 Fear of Missing Out
+1 Flame Slash
+3 Forest
+1 Formidable Speaker
+1 Frenzied Baloth
+1 Fury
+1 Fyndhorn Elves
+1 Galvanic Discharge
+1 Ghor-Clan Rampager
+1 Ghostfire Slice
+1 Green Sun's Zenith
+1 Haywire Mite
+1 Hexing Squelcher
+1 Icetill Explorer
+1 Inkmoth Nexus
+1 Inti, Seneschal of the Sun
+1 Karplusan Forest
+1 Keen-Eyed Curator
+1 Lair of the Hydra
+1 Legolas's Quick Reflexes
+1 Lightning Bolt
+1 Llanowar Elves
+1 Mawloc
+1 Minsc & Boo, Timeless Heroes
+1 Mishra's Factory
+1 Misty Rainforest
+2 Mountain
+1 Mutavault
+1 Nature's Lore
+1 Overprotect
+1 Pinnacle Monk
+1 Pyrokinesis
+1 Restless Ridgeline
+1 Rockfall Vale
+1 Rootbound Crag
+1 Scalding Tarn
+1 Sear
+1 Secret Tunnel
+1 Six
+1 Skullclamp
+1 Sokenzan, Crucible of Defiance
+1 Sowing Mycospawn
+1 Spider-Punk
+1 Springheart Nantuko
+1 Stomping Ground
+1 Sundering Eruption
+1 Surrak, Elusive Hunter
+1 Sylvan Safekeeper
+1 Taiga
+1 Tarmogoyf
+1 Thornspire Verge
+1 Three Visits
+1 Tinder Wall
+1 Treetop Village
+1 Urza's Saga
+1 Valgavoth's Lair
+1 Verdant Catacombs
+1 Vibrance
+1 Wild Growth
+1 Windswept Heath
+1 Wooded Foothills
+1 Wrenn and Six
+1 Yavimaya, Cradle of Growth
+
+1 Toph, Greatest Earthbender

@@ -1,0 +1,37 @@
+4 Plains
+4 Island
+4 Darksteel Citadel
+4 Treasure Vault
+2 Hallowed Fountain
+1 Adarkar Wastes
+1 Seachrome Coast
+4 Ornithopter
+4 Patchwork Automaton
+3 Crystalline Giant
+3 Memory Guardian
+4 Opt
+3 Michiko's Reign of Truth
+3 All That Glitters
+2 Voyage Home
+2 No More Lies
+2 Portable Hole
+2 Cryogen Relic
+2 Simulacrum Synthesizer
+2 Metallic Rebuke
+2 Journey to Nowhere
+1 Surgical Skullbomb
+1 Candy Trail
+1 Supreme Verdict
+1 Shadowspear
+
+1 Memory Guardian
+2 Metallic Rebuke
+1 Shadowspear
+2 Dovin's Veto
+1 Tormod's Crypt
+1 Rest in Peace
+1 Glass Casket
+1 Weathered Runestone
+2 Banishing Light
+1 Authority of the Consuls
+2 Erode
