@@ -1,0 +1,96 @@
+1 Esika, God of the Tree
+1 Dovin, Hand of Control
+1 Narset Transcendent
+1 Teferi, Hero of Dominaria
+1 Teferi, Time Raveler
+1 Venser, the Sojourner
+1 Ashiok, Dream Render
+1 Ashiok, Nightmare Muse
+1 Ashiok, Nightmare Weaver
+1 Angrath, the Flame-Chained
+1 Ob Nixilis, the Adversary
+1 Ajani, Mentor of Heroes
+1 Ajani, Sleeper Agent
+1 Baldur's Gate
+1 Citadel Gate
+1 Cliffgate
+1 Gond Gate
+1 Black Dragon Gate
+1 Sea Gate
+1 Manor Gate
+1 Gateway Plaza
+1 Kaya, Intangible Slayer
+1 Kaya the Inexorable
+1 Sorin, Grim Nemesis
+1 Saheeli, Sublime Artificer
+1 Garruk, Apex Predator
+1 Vraska, Relic Seeker
+1 Quintorius Kand
+1 Kasmina, Enigma Sage
+1 Kiora, the Crashing Wave
+1 Nissa, Steward of Elements
+1 Oko, Thief of Crowns
+1 Call the Gatewatch
+1 Ketria Triome
+1 Zagoth Triome
+1 Raugrin Triome
+1 Supreme Verdict
+1 Oath of Teferi
+1 Azorius Guildgate
+1 Boros Guildgate
+1 Dimir Guildgate
+1 Golgari Guildgate
+1 Gruul Guildgate
+1 Izzet Guildgate
+1 Maze's End
+1 Orzhov Guildgate
+1 Rakdos Guildgate
+1 Selesnya Guildgate
+1 Simic Guildgate
+2 Forest
+2 Swamp
+2 Plains
+2 Island
+1 The World Tree
+1 Spara's Headquarters
+1 Temple of Plenty
+1 Temple of Malady
+1 Heap Gate
+1 Temple of Mystery
+1 Ziatora's Proving Ground
+1 Jetmir's Garden
+1 Wrath of God
+1 Black Sun's Zenith
+1 Blasphemous Edict
+1 Rhystic Study
+1 Blessed Respite
+1 Comeuppance
+1 Eerie Interference
+1 Arachnogenesis
+1 Respite
+1 Perch Protection
+1 Safe Passage
+1 Inkshield
+1 Lull
+1 Fog
+1 Decorum Dissertation
+1 Sphinx's Revelation
+1 Blue Sun's Zenith
+1 Search for Azcanta
+1 The Meathook Massacre
+1 Phyrexian Arena
+1 Hour of Promise
+1 Tempt with Discovery
+1 Open the Way
+1 Riot Control
+1 Narset, Parter of Veils
+1 Elspeth Tirel
+1 The Eternal Wanderer
+1 Elspeth, Sun's Champion
+1 Teferi, Temporal Pilgrim
+1 Tamiyo, the Moon Sage
+1 Chandra, Torch of Defiance
+1 Garruk, Primal Hunter
+1 Karn Liberated
+1 Nicol Bolas, Dragon-God
+1 Jace, Memory Adept

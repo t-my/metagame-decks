@@ -1,0 +1,30 @@
+5 Swamp
+2 Swamp
+3 Contamination
+1 Smother
+3 Skeletal Scrying
+4 Rishadan Port
+4 Nether Spirit
+3 Mishra's Factory
+3 Innocent Blood
+4 Duress
+4 Cabal Therapy
+1 Swamp
+4 Llanowar Wastes
+3 Zombie Infestation
+3 Urza's Bauble
+4 Pernicious Deed
+1 Contagion
+2 Wasteland
+2 Swamp
+4 Chromatic Sphere
+
+1 Smother
+2 Tranquil Domain
+1 Dystopia
+2 Engineered Plague
+1 Zuran Orb
+1 Ebony Charm
+2 Phyrexian Furnace
+3 Naturalize
+2 Haunting Echoes

@@ -1,0 +1,80 @@
+1 Doctor Strange, Surgeon
+1 The Wind Crystal
+1 The Water Crystal
+1 Rhox Faithmender
+1 Soul Warden
+1 Space-Time Anomaly
+1 Will, Scion of Peace
+1 Cleric Class
+1 Swords to Plowshares
+1 Authority of the Consuls
+1 Counterspell
+1 Dovin's Veto
+1 Fumigate
+1 Riot Control
+1 Ruin Crab
+1 Drogskol Reaver
+1 Aerith Gainsborough
+1 Gold-Forged Thopteryx
+1 Haliya, Guided by Light
+1 Angel of Vitality
+1 Exemplar of Light
+1 Kwain, Itinerant Meddler
+1 Guide of Souls
+1 Daxos, Blessed by the Sun
+1 Sphinx of the Revelation
+1 Mangara, the Diplomat
+1 Hinterland Sanctifier
+1 Nyx-Fleece Ram
+1 Lunarch Veteran
+1 Shabraz, the Skyshark
+1 Solemn Simulacrum
+1 Ajani's Pridemate
+1 Dazzling Angel
+1 Knight of Dawn's Light
+1 Windborn Muse
+1 Lifecreed Duo
+1 Congregate
+1 Absorb
+1 Restoration Magic
+1 War Report
+1 Revitalize
+1 Stroke of Midnight
+1 Negate
+1 Union of the Third Path
+1 Light of Hope
+1 Azorius Charm
+1 Mana Sculpt
+1 Archive Trap
+1 Dazzling Reflection
+1 Didn't Say Please
+1 Austere Command
+1 Riverchurn Monument
+1 Excalibur II
+1 Leyline of Hope
+1 Griffin Aerie
+1 Case of the Uneaten Feast
+1 Sol Ring
+1 Adventurer's Inn
+1 Reliquary Tower
+1 Kabira Crossroads
+1 Arcane Signet
+1 Thought Vessel
+1 Command Tower
+1 Glacial Fortress
+1 Prairie Stream
+1 Adarkar Wastes
+1 Tranquil Cove
+1 Port Town
+1 Azorius Chancery
+1 Temple of Enlightenment
+1 Sejiri Refuge
+1 Seachrome Coast
+1 Fabled Passage
+11 Island
+11 Plains
+1 Propaganda
+1 Hope Estheim
+1 Suture Priest
+1 Gogo, Master of Mimicry
+1 Wall of Reverence

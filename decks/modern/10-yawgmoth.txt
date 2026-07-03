@@ -1,0 +1,39 @@
+1 Swamp
+2 Windswept Heath
+3 Yawgmoth, Thran Physician
+2 Forest
+4 Agatha's Soul Cauldron
+1 Dryad Arbor
+1 Misty Rainforest
+1 Underground Mortuary
+4 Badgermole Cub
+4 Delighted Halfling
+3 Green Sun's Zenith
+2 Orcish Bowmasters
+2 Grist, the Hunger Tide
+2 Malevolent Rumble
+4 Verdant Catacombs
+1 Wooded Foothills
+3 Overgrown Tomb
+1 Virulent Emissary
+1 Strangleroot Geist
+3 Young Wolf
+2 Walking Ballista
+1 Sephiroth, Fabled SOLDIER
+2 Boseiju, Who Endures
+1 Ouroboroid
+1 Formidable Speaker
+2 Chord of Calling
+1 Endurance
+2 Dredger's Insight
+3 Spymaster's Vault
+
+1 Kraul Harpooner
+1 Endurance
+3 Fatal Push
+2 Vexing Bauble
+1 Culling Ritual
+1 Outland Liberator
+2 Force of Vigor
+2 Fulminator Mage
+2 Thoughtseize

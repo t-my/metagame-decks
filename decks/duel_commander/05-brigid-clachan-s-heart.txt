@@ -1,0 +1,94 @@
+1 Delighted Halfling
+1 Birds of Paradise
+1 Brigid, Clachan's Heart
+1 Dryad Arbor
+1 Llanowar Elves
+1 Avacyn's Pilgrim
+1 Fyndhorn Elves
+1 Quirion Ranger
+1 Ocelot Pride
+1 Guide of Souls
+1 Essence Warden
+1 Mother of Runes
+1 Giver of Runes
+1 Elvish Mystic
+1 Hexdrinker
+1 Figure of Fable
+1 Pawpatch Recruit
+1 Badgermole Cub
+1 Jennifer Walters
+1 Archivist of Oghma
+1 Shang-Chi, Master of Kung Fu
+1 Keen-Eyed Curator
+1 Phelia, Exuberant Shepherd
+1 Jacked Rabbit
+1 Springheart Nantuko
+1 Adeline, Resplendent Cathar
+1 Frenzied Baloth
+1 Augur of Autumn
+1 Endurance
+1 Haliya, Guided by Light
+1 Ranger-Captain of Eos
+1 Ouroboroid
+1 Surrak, Elusive Hunter
+1 Undermountain Adventurer
+1 Seasoned Dungeoneer
+1 Bast, Panther Goddess
+1 Solitude
+1 Starfield Shepherd
+1 Brightglass Gearhulk
+1 Captain Marvel, Shooting Star
+1 Leatherhead, Iron Gator
+1 Ajani, the Greathearted
+1 Elspeth, Storm Slayer
+1 The Wandering Emperor
+1 Vitalize
+1 Green Sun's Zenith
+1 Finale of Devastation
+1 Chord of Calling
+1 Eladamri's Call
+1 Swords to Plowshares
+1 March of Otherworldly Light
+1 Erode
+1 Legolas's Quick Reflexes
+1 Worldly Tutor
+1 Enlightened Tutor
+1 Glimmer Lens
+1 Staff of the Storyteller
+1 Agatha's Soul Cauldron
+1 Shadowspear
+1 Legion's Landing
+1 Anthem of Champions
+1 Flowering of the White Tree
+1 Court of Garenbrig
+1 Virtue of Loyalty
+1 Witch Enchanter
+1 Bridgeworks Battle
+1 Turntimber Symbiosis
+1 Razorgrass Ambush
+1 Abandoned Air Temple
+1 Gavony Township
+1 Yavimaya Hollow
+1 Crystal Vein
+1 City of Traitors
+1 Boseiju, Who Endures
+1 Eiganjo, Seat of the Empire
+1 Windswept Heath
+1 Flooded Strand
+1 Verdant Catacombs
+1 Misty Rainforest
+1 Marsh Flats
+1 Wooded Foothills
+1 Arid Mesa
+1 Prismatic Vista
+1 Savannah
+1 Temple Garden
+1 Horizon Canopy
+1 Gathering Place
+1 Hushwood Verge
+1 Canopy Vista
+1 Brushland
+1 Wooded Bastion
+1 Lush Portico
+4 Forest
+4 Plains

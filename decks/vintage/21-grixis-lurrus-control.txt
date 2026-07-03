@@ -1,0 +1,52 @@
+1 Mox Jet
+1 Mox Emerald
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Black Lotus
+1 Ancestral Recall
+1 Demonic Tutor
+1 Mana Crypt
+1 Time Walk
+1 Yawgmoth's Will
+1 Vampiric Tutor
+1 Urza's Saga
+1 Sol Ring
+4 Stock Up
+1 Chain of Vapor
+2 Dark Petition
+4 Dark Ritual
+1 Elemental Eruption
+3 Thoughtseize
+3 Flow State
+2 Flusterstorm
+1 Force of Negation
+4 Force of Will
+1 Gitaxian Probe
+1 Lorien Revealed
+1 Mental Misstep
+3 Molten-Core Maestro
+1 Nihil Spellbomb
+1 Tendrils of Agony
+3 Volcanic Island
+2 Underground Sea
+1 Undercity Sewers
+1 Tolarian Academy
+1 Scalding Tarn
+1 Polluted Delta
+1 Petrified Hamlet
+1 Misty Rainforest
+1 Flooded Strand
+1 Bloodstained Mire
+
+1 Petrified Hamlet
+1 Lurrus of the Dream-Den
+1 Chain of Vapor
+1 Tormod's Crypt
+2 Consign to Memory
+1 Steel Sabotage
+2 Lithomantic Barrage
+2 Pyroblast
+1 Pithing Needle
+1 Hurkyl's Recall
+2 Hexing Squelcher

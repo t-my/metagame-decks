@@ -1,0 +1,78 @@
+12 Island
+12 Plains
+1 Proft's Eidetic Memory
+1 Novice Inspector
+1 Elesh Norn, Mother of Machines
+1 Azorius Signet
+1 Hard Evidence
+1 Daring Sleuth
+1 Deduce
+1 Erdwal Illuminator
+1 Fleeting Memories
+1 Forensic Gadgeteer
+1 Officious Interrogation
+1 Ezrim, Agency Chief
+1 Tamiyo's Journal
+1 Mondrak, Glory Dominus
+1 Anointed Procession
+1 Daydream
+1 Cloudshift
+1 Essence Flux
+1 Teferi's Time Twist
+1 Arcane Signet
+1 Displacer Kitten
+1 Thassa, Deep-Dwelling
+1 Soulherder
+1 Urza, Lord Protector
+1 Academy Manufactor
+1 The Mechanist, Aerial Artisan
+1 Shimmer Dragon
+1 Command Tower
+1 Solemn Simulacrum
+1 Urza, Lord High Artificer
+1 Flow State
+1 Inspiring Statuary
+1 Training Grounds
+1 Teferi's Protection
+1 Panharmonicon
+1 Reliquary Tower
+1 The Eternal Wanderer
+1 Jace, Wielder of Mysteries
+1 Ominous Seas
+1 The Mightstone and Weakstone
+1 Candy Trail
+1 Eiganjo, Seat of the Empire
+1 Otawara, Soaring City
+1 Deserted Beach
+1 Floodfarm Verge
+1 Hallowed Fountain
+1 Meticulous Archive
+1 Arid Mesa
+1 Fabled Passage
+1 Flooded Strand
+1 Polluted Delta
+1 Mind Stone
+1 Ornithopter of Paradise
+1 Hedron Archive
+1 Swords to Plowshares
+1 Get Lost
+1 Silence
+1 Avatar's Wrath
+1 Brainstorm
+1 Counterspell
+1 Consult the Star Charts
+1 Cyclonic Rift
+1 River's Rebuke
+1 Season of Weaving
+1 Mathemagics
+1 Exorcise
+1 Rapid Hybridization
+1 Into the Flood Maw
+1 Wash Away
+1 Negate
+1 Aetherize
+1 Dovin's Veto
+1 Baral's Expertise
+1 Swiftfoot Boots
+1 Lightning Greaves
+1 Alquist Proft, Master Sleuth

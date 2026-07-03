@@ -1,0 +1,93 @@
+1 Teferi, Time Raveler [WAR] (F)
+1 Earthshape <borderless> [TLE] (F)
+1 Council's Judgment <borderless> [2XM]
+1 Unable to Scream [DSK] (F)
+1 Tithe [VI]
+1 Avatar's Wrath <extended> [TLA] (F)
+1 Aang, Swift Savior <showcase> [TLA]
+1 Seam Rip [EOE]
+1 Reverent Mantra [MM]
+1 Swift Reconfiguration [NEC]
+1 March of Otherworldly Light [NEO]
+1 Swords to Plowshares [3ED]
+1 Portable Hole [AFR]
+1 Flare of Fortitude [MH3]
+1 Mother of Runes [CMA]
+1 Esper Sentinel [MH2]
+1 Spectacular Spider-Man [SPM]
+1 Giver of Runes <retro> [MH2] (FE)
+1 Skycoach Conductor <019d6da1-1654-720d-b265-57756dc91445> [SOS]
+1 True-Name Nemesis <timeshifted> [TSR]
+1 Brazen Borrower [ELD]
+1 Wan Shi Tong, Librarian [TLA]
+1 Glen Elendra Guardian [ECL] (F)
+1 Recruiter of the Guard [MH3]
+1 Enduring Curiosity [DSK] (F)
+1 The Duke, Rebel Sentry [TLE]
+1 Restoration Angel <borderless> [INR]
+1 Phelia, Exuberant Shepherd [MH3]
+1 Skyclave Apparition [PRM-GDP] (F)
+1 Appa, Steadfast Guardian [TLA]
+1 Subtlety <MH3 Special Guest> [SPG]
+1 Archon of Emeria <extended> [ZNR]
+1 Skrelv, Defector Mite <showcase> [ONE]
+1 Drannith Magistrate <Mayor Tong of Chin Village - borderless> [TLE]
+1 Harbinger of the Seas <extended> [MH3]
+1 Spell Queller <retro> [INR]
+1 Tishana's Tidebinder <planeswalker stamp> [LCI] (F)
+1 Ethersworn Canonist [MMA]
+1 Solitude [MH2]
+1 The Wondrous Wasp <019e9258-655a-787d-a33e-8b3f1c0d6f86> [MSH]
+1 Vendilion Clique [J22]
+1 Meddling Mage [PLIST]
+1 Snapcaster Mage [PRM-PPL]
+1 Aven Interrupter <extended> [OTJ]
+1 Pippin, Guard of the Citadel <showcase> [LTR] (F)
+1 Misdirection [CNS]
+1 Spell Snare [ECL]
+1 Flare of Denial [MH3]
+1 Counterspell [7E]
+1 Mystic Confluence [C15]
+1 No More Lies [MKM] (F)
+1 Mana Leak [MM2]
+1 Wash Away [VOW]
+1 Change the Equation [MOM]
+1 Mental Misstep [NPH]
+1 Stern Scolding [LTR] (F)
+1 Ephemerate [STA]
+1 Lorien Revealed [LTR]
+1 Parallax Wave [NE]
+1 Nevermore [ISD] (F)
+1 Restless Anchorage [LCI] (F)
+1 Command Tower <borderless> [CMM]
+1 Hall of Storm Giants <classic module> [AFR] (F)
+1 Witch Enchanter [MH3]
+1 Otawara, Soaring City [NEO]
+1 Irrigated Farmland <extended> [WHO] (F)
+1 Scalding Tarn [MH2] (F)
+1 Seachrome Coast [ONE] (F)
+1 Celestial Colonnade <borderless - galaxy foil> [EOS] (F)
+1 Cave of the Frost Dragon <classic module> [AFR] (F)
+1 Hallowed Fountain [RNA]
+1 Deserted Beach [MID] (F)
+1 Polluted Delta <borderless> [MH3]
+1 Misty Rainforest [MH2]
+1 Razorgrass Ambush [MH3] (F)
+1 Eiganjo, Seat of the Empire [NEO]
+1 Sink into Stupor [MH3]
+1 Windswept Heath [KTK]
+1 Glacial Fortress [BLC]
+1 Adarkar Wastes [M3C]
+1 Nimbus Maze [AFC]
+1 Marsh Flats [MM3]
+1 Mistgate Pathway [KHM]
+1 Tundra [3ED]
+1 Flooded Strand [KTK]
+1 Floodfarm Verge <borderless> [DSK]
+1 Mystic Gate [CMM]
+1 Eiganjo Castle <Castle Shimura - Playstation: Ghost of Tsushima> [SLD]
+1 Gemstone Caverns [TSR]
+1 Meticulous Archive [MKM]
+4 Plains <189> [SPM] (F)
+5 Island <190> [SPM] (F)
+1 Lose Focus [MH2]

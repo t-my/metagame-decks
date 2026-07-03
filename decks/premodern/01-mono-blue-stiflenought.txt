@@ -1,25 +1,26 @@
-4 Accumulated Knowledge
-4 Counterspell
-2 Daze
-2 Flash of Insight
-4 Foil
-4 Gush
-2 Impulse
+1 Misdirection
 17 Island
-2 Opt
+2 Impulse
+4 Gush
+2 Flash of Insight
+2 Daze
+4 Counterspell
 4 Phyrexian Dreadnought
-4 Portent
 1 Powder Keg
 4 Stifle
 1 Thwart
-1 Tsabo's Web
 4 Vision Charm
-
-3 Annul
-2 Blue Elemental Blast
-2 Dominate
-2 Essence Flare
-1 Hydroblast
-3 Mishra's Factory
+4 Opt
+4 Portent
+4 Foil
+1 Annul
 1 Morphling
-1 Tsabo's Web
+
+1 Hydroblast
+1 Morphling
+3 Essence Flare
+2 Dominate
+1 Blue Elemental Blast
+3 Annul
+2 Tsabo's Web
+2 Brain Freeze

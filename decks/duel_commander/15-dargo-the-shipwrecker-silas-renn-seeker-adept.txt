@@ -1,0 +1,100 @@
+1 Arid Mesa
+1 Badlands
+1 Wooded Foothills
+1 Blood Crypt
+1 Bloodstained Mire
+1 Wishclaw Talisman
+1 Burnt Offering
+1 Watery Grave
+1 Volcanic Island
+1 Verdant Catacombs
+1 Vault of Whispers
+1 Dark Petition
+1 Daze
+1 Deceit
+1 Demonic Consultation
+1 Urborg, Tomb of Yawgmoth
+1 Unmask
+1 Underground River
+1 Dizzy Spell
+1 Drossforge Bridge
+1 Transmute Artifact
+1 Thoughtseize
+1 Final Fortune
+1 Flashback
+1 Tendrils of Agony
+1 Flow State
+1 Tainted Pact
+1 Spellseeker
+1 Spell Pierce
+1 Simian Spirit Guide
+1 Grief
+1 Seething Song
+1 Seat of the Synod
+1 Hex Magic
+1 Scalding Tarn
+1 Intuition
+1 Rite of Flame
+1 Preordain
+1 Ponder
+1 Polluted Delta
+1 Pentad Prism
+1 Mishra's Bauble
+1 Mistvault Bridge
+1 Pact of Negation
+1 Multiversal Passage
+1 Mountain
+1 Noble's Purse
+1 Obsessive Pursuit
+1 Misty Rainforest
+1 Peek
+1 Peer into the Abyss
+1 Mental Misstep
+1 Marsh Flats
+1 Lotus Bloom
+1 Lake of the Dead
+1 Prismatic Vista
+1 Prized Statue
+1 Profane Tutor
+1 Pyretic Ritual
+1 Raucous Theater
+1 Island
+1 Sacrifice
+1 Inquisition of Kozilek
+1 Hard Evidence
+1 Grim Tutor
+1 Silverbluff Bridge
+1 Great Furnace
+1 Snow-Covered Swamp
+1 Solve the Equation
+1 Gloomlake Verge
+1 Spell Snare
+1 Gitaxian Probe
+1 Steam Vents
+1 Stock Up
+1 Stormscale Scion
+1 Strike It Rich
+1 Swamp
+1 Flusterstorm
+1 Flooded Strand
+1 The Fantasticar
+1 Fatal Push
+1 Thundering Falls
+1 Duress
+1 Undercity Sewers
+1 Desperate Ritual
+1 Underground Sea
+1 Demonic Tutor
+1 Demonic Counsel
+1 Urza's Bauble
+1 Urza's Saga
+1 Command Tower
+1 Chromatic Star
+1 Chromatic Sphere
+1 Cabal Ritual
+1 Brainstorm
+1 Wizard's Rockets
+1 Beseech the Mirror
+1 Yawgmoth's Will
+1 Dargo, the Shipwrecker
+1 Silas Renn, Seeker Adept

@@ -1,0 +1,68 @@
+33 Island
+1 Aqueous Form
+1 Curiosity
+1 Arcane Flight
+1 Combat Research
+1 Rune of Flight
+1 Super Intelligence
+1 Cartouche of Knowledge
+1 Curator's Ward
+1 Chase Inspiration
+1 Dive Down
+1 Magic Damper
+1 Essence Capture
+1 Unstable Experiment
+1 Security Bypass
+1 Combat Tutorial
+1 Stealth Mission
+1 Irenicus's Vile Duplication
+1 Spark Double
+1 Futurist Operative
+1 Faerie Mastermind
+1 Hydro-Man, Fluid Felon
+1 Ledger Shredder
+1 Malcolm, Alluring Scoundrel
+1 Oracle of the Alpha
+1 Clever Impersonator
+1 Phyrexian Metamorph
+1 Roaming Throne
+1 Sire of Seven Deaths
+1 Cradle of Safety
+1 Proft's Eidetic Memory
+1 Starlit Mantle
+1 Curious Inquiry
+1 Curious Obsession
+1 Fly
+1 Wingspan Stride
+1 Aether Tunnel
+1 Fae Flight
+1 Take Flight
+1 Reliquary Tower
+1 Brainstorm
+1 Rapid Hybridization
+1 Opt
+1 Slip Out the Back
+1 Wash Away
+1 Consult the Star Charts
+1 Counterspell
+1 Cyclonic Rift
+1 Negate
+1 Stock Up
+1 Aetherize
+1 Deep Analysis
+1 River's Rebuke
+1 Hard Cover
+1 Teferi's Ageless Insight
+1 Arcane Signet
+1 Mind Stone
+1 Sapphire Medallion
+1 Otawara, Soaring City
+1 Orvar, the All-Form
+1 Vesuvan Duplimancy
+1 Pym Particles
+1 Geralf, the Fleshwright
+1 Enter the Enigma
+1 Archmage Emeritus
+1 Jace, Wielder of Mysteries
+1 Thirst for Meaning
+1 Ms. Marvel, Kamala Khan

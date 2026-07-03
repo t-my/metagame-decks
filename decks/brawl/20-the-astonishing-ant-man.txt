@@ -1,0 +1,76 @@
+13 Island
+13 Forest
+1 Proft's Eidetic Memory
+1 Pensive Professor
+1 Hardened Scales
+1 Otawara, Soaring City
+1 Wan Shi Tong, Librarian
+1 Bristly Bill, Spine Sower
+1 Ozolith, the Shattered Spire
+1 Baral, Chief of Compliance
+1 Incubation Druid
+1 Innkeeper's Talent
+1 Doubling Season
+1 Strength of Will
+1 Mossborn Hydra
+1 Terrasymbiosis
+1 Training Grounds
+1 Super Intelligence
+1 Season of Gathering
+1 Ant-Man, Colony Commander
+1 Birds of Paradise
+1 Arcane Signet
+1 Swiftfoot Boots
+1 Slip Out the Back
+1 Parallel Lives
+1 Kami of Whispered Hopes
+1 Primal Empathy
+1 Brainstorm
+1 Biosynthic Burst
+1 Opt
+1 Rapid Hybridization
+1 Wash Away
+1 Counterspell
+1 Cyclonic Rift
+1 Negate
+1 Spirit Water Revival
+1 Thirst for Discovery
+1 Deep Analysis
+1 Quick Study
+1 River's Rebuke
+1 Delighted Halfling
+1 Wizard Class
+1 Finale of Revelation
+1 Defend the Rider
+1 Farseek
+1 Heroic Intervention
+1 Cultivate
+1 Lessons from Life
+1 Frantic Search
+1 Combat Tutorial
+1 Secrets of the Golden City
+1 Faerie Mastermind
+1 Eureka Moment
+1 Sylvan Caryatid
+1 Pym Particles
+1 Teferi's Ageless Insight
+1 Craterhoof Behemoth
+1 Rhystic Study
+1 Chasm Skulker
+1 Explore
+1 Growth Spiral
+1 Exploration
+1 Boseiju, Who Endures
+1 Evendo, Waking Haven
+1 Breeding Pool
+1 Dreamroot Cascade
+1 Hedge Maze
+1 Hinterland Harbor
+1 Fabled Passage
+1 Flooded Strand
+1 Wooded Foothills
+1 Primal Amulet
+1 Archmage Emeritus
+1 Prosperous Innkeeper
+1 Sanctum Weaver
+1 The Astonishing Ant-Man

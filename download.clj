@@ -66,31 +66,47 @@
   (some->> (re-find #"href=\"/deck/download/(\d+)\"" html)
            second))
 
+;; The /deck/download/<id> endpoint is now behind a Cloudflare interactive challenge (HTTP 403 to a
+;; plain HTTP client), but the archetype page itself is open and embeds the full list URL-encoded in a
+;; JS call: Components('<uuid>', '<deck-id>', "<qty%20Card%0A…sideboard%0A…>"). We pull that string
+;; out and decode it — no second (blocked) request needed.
+(defn extract-embedded-deck [deck-id html]
+  (some-> (re-find (re-pattern (str "'" deck-id "', ?\"([^\"]*)\"")) html)
+          second
+          (java.net.URLDecoder/decode "UTF-8")
+          ;; the embedded list uses a literal "sideboard" line; MTGO text uses a blank line instead
+          (str/replace #"(?im)^sideboard[ \t]*$" "")))
+
 (defn slug->name [fmt slug]
   (-> slug
       (str/replace (re-pattern (str "^/archetype/" fmt "-")) "")
       (str/replace #"-[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$" "")))
 
-;; MTG Goldfish's deck download is already the community-standard MTGO plain-text format —
-;; "<qty> <card name>" per line, a blank line before the sideboard. We store it verbatim
-;; (only normalizing line endings). No XMage `.dck` conversion, no Scryfall printing lookups:
-;; MTGO/MTGA text is the interoperable standard, and the consumer resolves cards by name.
+;; The embedded list is already the community-standard MTGO plain-text format — "<qty> <card name>"
+;; per line, a blank line before the sideboard. We store it verbatim (only collapsing the blank-line
+;; runs left by dropping the "sideboard" marker, and normalizing line endings). No XMage `.dck`
+;; conversion, no Scryfall printing lookups: MTGO/MTGA text is the interoperable standard, and the
+;; consumer resolves cards by name.
 (defn normalize-txt [s]
-  (str (-> s (str/replace "\r\n" "\n") (str/replace "\r" "\n") str/trim) "\n"))
+  (-> s
+      (str/replace "\r\n" "\n") (str/replace "\r" "\n")
+      (str/replace #"\n{3,}" "\n\n")   ; collapse extra blanks (e.g. a trailing marker) to one
+      str/trim
+      (str "\n")))
 
 (defn download-deck! [fmt idx slug]
-  (let [name    (slug->name fmt slug)
-        prefix  (format "%02d" idx)
-        url     (str base-url slug "#paper")
-        _       (println (str "  [" prefix "] " name))
-        html    (fetch-page url)
-        deck-id (extract-deck-download-id html)]
-    (if deck-id
-      (let [deck-txt (fetch-page (str base-url "/deck/download/" deck-id))
-            path     (str "decks/" fmt "/" prefix "-" name ".txt")]
+  (let [name     (slug->name fmt slug)
+        prefix   (format "%02d" idx)
+        url      (str base-url slug "#paper")
+        _        (println (str "  [" prefix "] " name))
+        html     (fetch-page url)
+        deck-id  (extract-deck-download-id html)
+        deck-txt (some->> deck-id (#(extract-embedded-deck % html)))]
+    (if (and deck-txt (re-find #"\S" deck-txt))
+      (let [path (str "decks/" fmt "/" prefix "-" name ".txt")]
         (spit path (normalize-txt deck-txt))
         (println (str "    -> " path)))
-      (println (str "    !! no download link found for " name)))))
+      (println (str "    !! no embedded decklist found for " name)))))
 
 (defn clear-dir! [dir]
   (let [d (java.io.File. dir)]

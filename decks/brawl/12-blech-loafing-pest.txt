@@ -1,0 +1,62 @@
+20 Swamp
+20 Forest
+1 Moseo, Vein's New Dean
+1 Melancholic Poet
+1 Essenceknit Scholar
+1 Webstrike Elite
+1 Zombify
+1 Grist, Voracious Larva
+1 Royal Treatment
+1 Noxious Newt
+1 Bogwater Lumaret
+1 Teacher's Pest
+1 Golgari Guildgate
+1 Jungle Hollow
+1 Temple of Malady
+1 Swiftfoot Boots
+1 Garruk's Uprising
+1 Cruel Cut
+1 Eternal Thirst
+1 Starscape Cleric
+1 Blighted Bat
+1 Pull from the Grave
+1 Insatiable Skittermaw
+1 Insectoid Exterminator
+1 Moonstone Harbinger
+1 Grapple with Death
+1 Starlit Soothsayer
+1 Buzzard-Wasp Colony
+1 Aclazotz, Deepest Betrayal
+1 Professor Dellian Fel
+1 Speedbrood Stalker
+1 Swarm of Bloodflies
+1 Adventurous Impulse
+1 Birds of Paradise
+1 Send in the Pest
+1 Commune with Nature
+1 Gift of the Viper
+1 Mirkwood Spider
+1 Phyresis Roach
+1 Pick Your Poison
+1 Shapers' Sanctuary
+1 Haze of Pollen
+1 Ilysian Caryatid
+1 Lion Umbra
+1 Kraul Harpooner
+1 Nessian Hornbeetle
+1 Rabid Bite
+1 Rampant Growth
+1 Retreat to Kazandu
+1 Cultivate
+1 Pest Mascot
+1 Spineseeker Centipede
+1 Shopkeeper's Bane
+1 Spinner of Souls
+1 Skystinger
+1 Longshot Squad
+1 Leyline of Abundance
+1 Vizier of the Menagerie
+1 Cauldron of Essence
+1 Kraven the Hunter
+1 Sol Ring
+1 Blech, Loafing Pest
