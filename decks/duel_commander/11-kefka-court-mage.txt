@@ -1,0 +1,100 @@
+1 Abrade
+1 Anger
+1 Arena of Glory
+1 Arid Mesa
+1 Badlands
+1 Baleful Strix
+1 Barrowgoyf
+1 Blazemire Verge
+1 Blood Crypt
+1 Bloodstained Mire
+1 Brainstorm
+1 Cling to Dust
+1 Command Tower
+1 Consult the Star Charts
+1 Counterspell
+1 Damnation
+1 Demonic Tutor
+1 Detective's Phoenix
+1 Dismember
+1 Drown in the Loch
+1 Drowned Catacomb
+1 Duress
+1 Fable of the Mirror-Breaker
+1 Fatal Push
+1 Fear of Missing Out
+1 Fire Nation Occupation
+1 Flame Slash
+1 Flame of Anor
+1 Flooded Strand
+1 Force Spike
+1 Force of Negation
+1 Fury
+1 Galvanic Discharge
+1 Gloomlake Verge
+1 Grief
+1 Haunted Ridge
+1 Heartless Summoning
+1 Hullbreacher
+1 Island
+1 Kefka, Court Mage
+1 Kolaghan's Command
+1 Lightning Bolt
+1 Lorien Revealed
+1 Lose Focus
+1 Mana Leak
+1 Marsh Flats
+1 Memory Lapse
+1 Mental Misstep
+1 Mistrise Village
+1 Misty Rainforest
+1 Mountain
+1 Nethergoyf
+1 Orcish Bowmasters
+1 Otawara, Soaring City
+1 Parallax Tide
+1 Polluted Delta
+1 Ponder
+1 Preordain
+1 Prismatic Vista
+1 Psychic Frog
+1 Pyrogoyf
+1 Raucous Theater
+1 Reflecting Pool
+1 Remand
+1 Requiting Hex
+1 Riverpyre Verge
+1 Sauron's Ransom
+1 Scalding Tarn
+1 Seat of the Synod
+1 Shipwreck Marsh
+1 Sink into Stupor
+1 Snapcaster Mage
+1 Spell Snare
+1 Steam Vents
+1 Stern Scolding
+1 Stifle
+1 Stock Up
+1 Stormcarved Coast
+1 Subtlety
+1 Swamp
+1 Tainted Pact
+1 Takenuma, Abandoned Mire
+1 Tale's End
+1 Tarfire
+1 Terminate
+1 The Soul Stone
+1 Thoughtseize
+1 Thundering Falls
+1 Tishana's Tidebinder
+1 Toxic Deluge
+1 Troll of Khazad-dum
+1 Undercity Sewers
+1 Underground Sea
+1 Unholy Heat
+1 Vault of Whispers
+1 Verdant Catacombs
+1 Volcanic Island
+1 Wash Away
+1 Watery Grave
+1 Wooded Foothills

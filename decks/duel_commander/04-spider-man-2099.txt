@@ -1,0 +1,81 @@
+1 Aether Hub
+1 Barbarian Ring
+1 Bonecrusher Giant
+1 Brazen Borrower
+1 Cascade Bluffs
+1 Chain Lightning
+1 Command Tower
+1 Cori Mountain Monastery
+1 Counterspell
+1 Detective's Phoenix
+1 Dire Fleet Daredevil
+1 Dragon's Rage Channeler
+1 Dragonfire Blade
+1 Dreadhorde Arcanist
+1 Expedition Map
+1 Expressive Iteration
+1 Fiery Islet
+1 Fire/Ice
+1 Flame Slash
+1 Frostboil Snarl
+1 Fury
+1 Galvanic Discharge
+1 Ghostfire Slice
+1 Gitaxian Probe
+1 Grim Lavamancer
+1 Harbinger of the Seas
+1 Hero's Blade
+1 Heroes' Hangout
+1 Inti, Seneschal of the Sun
+10 Island
+1 Kellan, Planar Trailblazer
+1 Laelia, the Blade Reforged
+1 Lavaspur Boots
+1 Ledger Shredder
+1 Lightning Bolt
+1 Lose Focus
+1 Lost Jitte
+1 Magic Damper
+1 Malcolm, Alluring Scoundrel
+1 Malcolm, the Eyes
+1 Mana Leak
+1 Memory Lapse
+1 Minor Misstep
+1 Monastery Swiftspear
+11 Mountain
+1 Opal Palace
+1 Opera Love Song
+1 Opt
+1 Party Thrasher
+1 Picklock Prankster
+1 Pithing Needle
+1 Preordain
+1 Pyrogoyf
+1 Pyrokinesis
+1 Ramunap Ruins
+1 Reckless Charge
+1 Reckless Impulse
+1 Remand
+1 Scalding Viper
+1 Shivan Reef
+1 Shore Up
+1 Sleight of Hand
+1 Soul-Scar Mage
+1 Spell Pierce
+1 Spell Snare
+1 Spider-Man 2099
+1 Spirebluff Canal
+1 Spyglass Siren
+1 Stern Scolding
+1 Sulfur Falls
+1 Swarmyard
+1 Synth Eradicator
+1 Tale's End
+1 Thran Portal
+1 True-Name Nemesis
+1 Unholy Heat
+1 Urza's Saga
+1 Wandering Fumarole
+1 Wash Away
+1 Wild Ride
+1 Wrenn's Resolve

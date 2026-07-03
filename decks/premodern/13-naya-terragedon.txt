@@ -1,0 +1,26 @@
+4 Armageddon
+3 Forest
+4 Gemstone Mine
+4 Mox Diamond
+2 Naturalize
+4 Nimble Mongoose
+2 Plains
+3 Rishadan Port
+2 Rith's Grove
+1 Secluded Steppe
+4 Swords to Plowshares
+4 Sylvan Library
+4 Terravore
+3 Thornscape Battlemage
+3 Tranquil Thicket
+4 Wasteland
+4 Weathered Wayfarer
+4 Windswept Heath
+1 Zuran Orb
+
+3 Phyrexian Furnace
+2 Pyroblast
+4 Pyroclasm
+3 Ray of Revelation
+2 Red Elemental Blast
+1 Zuran Orb

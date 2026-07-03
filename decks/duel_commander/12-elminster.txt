@@ -1,0 +1,92 @@
+1 Absorb
+1 Agna Qel'a
+1 Archmage's Charm
+1 Arid Mesa
+1 Behold the Multiverse
+1 Brainstorm
+1 Brainsurge
+1 Cactus Preserve
+1 Castle Ardenvale
+1 Castle Vantress
+1 Command Tower
+1 Condemn
+1 Confounding Conundrum
+1 Consult the Star Charts
+1 Counterspell
+1 Cryptic Command
+1 Day of Judgment
+1 Demolition Field
+1 Deserted Beach
+1 Dovin's Veto
+1 Dress Down
+1 Eiganjo, Seat of the Empire
+1 Elminster
+1 Emeria's Call
+1 Exclude
+1 Fact or Fiction
+1 Farewell
+1 Fateful Absence
+1 Field of Ruin
+1 Flooded Strand
+1 Floodfarm Verge
+1 Force of Negation
+1 Fountainport
+1 Get Lost
+1 Glacial Fortress
+1 Hallowed Fountain
+1 Irrigated Farmland
+6 Island
+1 Lorien Revealed
+1 Lose Focus
+1 Mana Leak
+1 Marang River Regent
+1 March of Otherworldly Light
+1 Marsh Flats
+1 Memory Lapse
+1 Mental Misstep
+1 Meticulous Archive
+1 Mirrex
+1 Misty Rainforest
+1 Mystic Confluence
+1 Mystic Gate
+1 Mystic Sanctuary
+1 Mystical Dispute
+1 No More Lies
+1 Otawara, Soaring City
+1 Oust
+1 Path to Exile
+1 Pinnacle Starcage
+4 Plains
+1 Polluted Delta
+1 Ponder
+1 Prairie Stream
+1 Preordain
+1 Prismatic Vista
+1 Remand
+1 Reprieve
+1 Rest in Peace
+1 Restless Anchorage
+1 Scalding Tarn
+1 Sea Gate Restoration
+1 Settle the Wreckage
+1 Sink into Stupor
+1 Snapcaster Mage
+1 Solitude
+1 Spell Snare
+1 Stern Scolding
+1 Stock Up
+1 Subtlety
+1 Supreme Verdict
+1 Swords to Plowshares
+1 Tale's End
+1 Teferi, Time Raveler
+1 Temporary Lockdown
+1 The Wandering Emperor
+1 Three Steps Ahead
+1 Tithe
+1 Tundra
+1 Unexpectedly Absent
+1 Wash Away
+1 Windswept Heath
+1 Wrath of God
+1 Wrath of the Skies

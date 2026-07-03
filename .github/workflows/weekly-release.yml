@@ -4,12 +4,17 @@ on:
   schedule:
     - cron: '0 6 * * 1'  # Every Monday at 06:00 UTC
   workflow_dispatch:
+    inputs:
+      formats:
+        description: 'Space-separated formats to refresh (blank = the default set)'
+        required: false
+        default: ''
 
 permissions:
   contents: write
 
 jobs:
-  download-and-release:
+  download-and-commit:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -19,41 +24,31 @@ jobs:
         with:
           bb: latest
 
-      - name: Download legacy
-        run: bb download.clj legacy
+      - name: Download decks (MTGO .txt) + rebuild manifest
+        run: |
+          FORMATS="${{ github.event.inputs.formats }}"
+          if [ -z "$FORMATS" ]; then
+            FORMATS="standard pioneer modern legacy vintage pauper premodern"
+          fi
+          for f in $FORMATS; do
+            echo "::group::$f"
+            bb download.clj "$f"
+            echo "::endgroup::"
+          done
+          bb download.clj manifest
 
-      - name: Download premodern
-        run: bb download.clj premodern
-
-      - name: Download modern
-        run: bb download.clj modern
-
-      - name: Download pauper
-        run: bb download.clj pauper
-
-      - name: Download vintage
-        run: bb download.clj vintage
-
-      - name: Download duel_commander
-        run: bb download.clj duel_commander
-
-      - name: Download commander
-        run: bb download.clj commander
-
-      - name: Commit updated card cache
+      - name: Commit refreshed decks + manifest
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add card-cache.edn
-          git diff --cached --quiet || git commit -m "Update card cache" && git push
+          git add -A decks manifest.json
+          git diff --cached --quiet || { git commit -m "Refresh metagame decks $(date +%Y-%m-%d)"; git push; }
 
-      - name: Create zip
-        run: zip -r metagame-decks.zip decks/
-
-      - name: Create release
+      - name: Publish snapshot release (zip)
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
+          zip -r metagame-decks.zip decks manifest.json
           TAG=$(date +%Y-%m-%d)
           gh release create "$TAG" \
             --title "$TAG" \
