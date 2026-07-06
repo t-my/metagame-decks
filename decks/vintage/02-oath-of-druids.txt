@@ -1,0 +1,48 @@
+1 Ancient Tomb
+1 Misty Rainforest
+1 Polluted Delta
+3 Tropical Island
+1 Ancestral Recall
+1 Black Lotus
+1 Mox Emerald
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Time Walk
+4 Force of Will
+1 Mox Jet
+1 Mental Misstep
+1 Brainstorm
+4 Oath of Druids
+4 Forbidden Orchard
+2 Oko, Thief of Crowns
+4 Atraxa, Grand Unifier
+1 Gitaxian Probe
+1 Scalding Tarn
+2 Boseiju, Who Endures
+1 Snow-Covered Island
+1 Flooded Strand
+1 Hedge Maze
+1 Raph & Mikey, Troublemakers
+2 Force of Negation
+1 Serra's Emissary
+4 Show and Tell
+1 Demonic Tutor
+1 Spell Pierce
+1 Vexing Bauble
+1 Sol Ring
+1 Flash
+2 Mindbreak Trap
+1 Mana Crypt
+1 Lotus Petal
+1 Consign to Memory
+1 Underground Sea
+
+1 Boseiju, Who Endures
+1 Serra's Emissary
+2 Consign to Memory
+3 Abrupt Decay
+3 Null Rod
+2 Force of Vigor
+2 Utter Insignificance
+1 Flusterstorm

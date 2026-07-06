@@ -1,25 +1,26 @@
-4 Ancient Tomb
-5 Plains
-4 Flooded Strand
-4 Adarkar Wastes
 4 Swords to Plowshares
-2 Seal of Cleansing
-2 Mana Leak
-5 Island
+3 Seal of Cleansing
+4 Adarkar Wastes
+2 Decree of Silence
+2 Abeyance
 4 Attunement
-4 Parallax Wave
-3 Decree of Silence
-4 Replenish
 4 Opalescence
+4 Replenish
+4 Parallax Wave
+5 Plains
+4 Island
 3 Intuition
 3 Frantic Search
-1 Abeyance
+4 Ancient Tomb
+4 Flooded Strand
 4 Skycloud Expanse
-
-2 Seal of Cleansing
-2 Abeyance
-2 Hydroblast
-2 Exalted Angel
 2 Tsabo's Web
-1 Wrath of God
+
+1 Seal of Cleansing
+1 Decree of Silence
+1 Abeyance
+1 Tsabo's Web
+3 Exalted Angel
+2 Hydroblast
 4 Meddling Mage
+2 Tormod's Crypt

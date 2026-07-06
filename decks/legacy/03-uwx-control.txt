@@ -1,33 +1,34 @@
-4 Wasteland
 4 Flooded Strand
+4 Wasteland
 3 Tundra
-3 Island
-1 Plains
-1 Meticulous Archive
+2 Island
+1 Arid Mesa
 1 Scalding Tarn
-1 Karakas
-1 Polluted Delta
-1 Misty Rainforest
-4 Phelia, Exuberant Shepherd
 1 Force of Negation
-2 Teferi, Time Raveler
-2 Consign to Memory
+1 Prismatic Ending
+3 Ponder
+3 Consign to Memory
+3 Stifle
 3 Daze
 4 Swords to Plowshares
-4 Force of Will
-4 Stifle
-4 Ponder
 4 Brainstorm
+4 Force of Will
+2 Murktide Regent
+4 Phelia, Exuberant Shepherd
 4 Quantum Riddler
 4 Tamiyo, Inquisitive Student
+1 Plains
+1 Karakas
+1 Meticulous Archive
+1 Volcanic Island
+1 Polluted Delta
 
-2 Rest in Peace
-1 Celestial Purge
-1 Stony Silence
-2 Wrath of the Skies
-1 Flusterstorm
-1 Containment Priest
-2 Lavinia, Azorius Renegade
+1 Damping Sphere
+2 Containment Priest
 2 Hydroblast
-2 Prismatic Ending
+2 Lavinia, Azorius Renegade
+2 Pyroblast
+3 Wrath of the Skies
+1 Celestial Purge
+1 Unlicensed Hearse
 1 Force of Negation

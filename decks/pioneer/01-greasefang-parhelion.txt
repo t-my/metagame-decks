@@ -1,33 +1,36 @@
-2 Bleachbone Verge
-2 Brightclimb Pathway
-1 Urborg, Tomb of Yawgmoth
-4 Thoughtseize
-1 Eiganjo, Seat of the Empire
-4 Fatal Push
-4 Fleeting Spirit
-1 Geier Reach Sanitarium
-1 Swamp
-4 Greasefang, Okiba Boss
-3 Guardian of New Benalia
-4 Iron-Shield Elf
-1 Lively Dirge
-4 Monument to Endurance
-4 Parhelion II
-1 Plains
-2 Shadowy Backstreet
-4 Godless Shrine
-1 Takenuma, Abandoned Mire
-4 The Mycosynth Gardens
-2 Duress
+3 Bitter Triumph
 4 Concealed Courtyard
-2 Vanishing Verse
+1 Boseiju, Who Endures
+4 Cache Grab
+4 Multiversal Passage
+4 Esika's Chariot
+4 Formidable Speaker
+1 Geier Reach Sanitarium
+4 Greasefang, Okiba Boss
+1 Forest
+1 Overlord of the Balemurk
+4 Parhelion II
+1 Swamp
+3 Professor of Symbology
+1 Jennifer Walters
+1 Takenuma, Abandoned Mire
+3 Thundering Broodwagon
+1 Emptiness
+4 Blooming Marsh
+1 Selfless Savior
+1 Plains
+4 Temple Garden
+1 Yathan Roadwatcher
+4 Thoughtseize
 
-1 Duress
-1 Vanishing Verse
-2 Bitter Triumph
-2 Damping Sphere
-3 Doorkeeper Thrull
-2 Soul-Guide Lantern
-1 Go Blank
-1 Ral Zarek, Guest Lecturer
-2 Seam Rip
+2 Duress
+1 Enter the Avatar State
+1 Loran of the Third Path
+1 Origin of Metalbending
+1 Beza, the Bounding Spring
+1 Remorseful Cleric
+3 Abrupt Decay
+1 True Ancestry
+1 Ruinous Waterbending
+1 Grand Abolisher
+2 Ral Zarek, Guest Lecturer

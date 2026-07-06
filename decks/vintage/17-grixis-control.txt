@@ -1,0 +1,53 @@
+1 Bolas's Citadel
+1 Manifold Key
+1 Vexing Bauble
+1 Mystical Tutor
+1 Vampiric Tutor
+1 Brainstorm
+1 Ancestral Recall
+1 Mana Crypt
+1 Time Vault
+1 Sol Ring
+1 Mox Sapphire
+1 Mox Ruby
+1 Mox Pearl
+1 Mox Jet
+1 Mox Emerald
+1 Black Lotus
+1 Chain of Vapor
+1 Demonic Tutor
+1 Mental Misstep
+1 Timetwister
+1 Gitaxian Probe
+1 Tinker
+1 Time Walk
+1 Yawgmoth's Will
+2 Flusterstorm
+2 Force of Negation
+4 Flow State
+4 Stock Up
+4 Lorien Revealed
+4 Force of Will
+1 Hullbreacher
+2 Hexing Squelcher
+1 Thundering Falls
+1 Tolarian Academy
+1 Scalding Tarn
+1 Misty Rainforest
+1 Polluted Delta
+1 Flooded Strand
+1 Urza's Saga
+2 Volcanic Island
+2 Underground Sea
+2 Island
+
+1 Long Goodbye
+2 Abrade
+1 Sphinx of the Steel Wind
+1 Hurkyl's Recall
+1 Commandeer
+2 Pyroblast
+3 Leyline of the Void
+1 Dismember
+1 Portal to Phyrexia
+2 Hullbreacher

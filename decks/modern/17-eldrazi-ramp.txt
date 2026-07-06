@@ -1,36 +1,32 @@
-1 Bojuka Bog
-1 Cavern of Souls
-1 Commercial District
-3 Devourer of Destiny
-4 Eldrazi Temple
-2 Emrakul, the Promised End
-3 Forest
-2 Formidable Speaker
-1 Gemstone Caverns
-1 Ghost Quarter
-2 Writhing Chrysalis
+4 Devourer of Destiny
+4 Emrakul, the Aeons Torn
+4 Ulamog, the Defiler
+3 Nulldrifter
+1 Sire of Seven Deaths
+4 Talisman of Creativity
+4 Yggdrasil, Rebirth Engine
+2 Vexing Bauble
+1 Palantir of Orthanc
 4 Kozilek's Command
-2 Kozilek's Return
-4 Malevolent Rumble
-1 Misty Rainforest
-1 Sanctum of Ugin
-1 Shifting Woodland
-2 Sire of Seven Deaths
-4 Sowing Mycospawn
-2 Stomping Ground
-3 Talisman of Impulse
-3 Ugin, Eye of the Storms
+4 Through the Breach
+1 Kozilek's Return
+2 Stock Up
+1 All Is Dust
+4 Eldrazi Temple
+4 Scalding Tarn
 4 Ugin's Labyrinth
-4 Utopia Sprawl
-1 Verdant Catacombs
-1 Windswept Heath
-1 Wooded Foothills
-2 World Breaker
+2 Mountain
+2 Shivan Reef
+1 Boseiju, Who Shelters All
+1 Gemstone Caverns
+1 Island
+1 Steam Vents
+1 Thundering Falls
 
-2 Chalice of the Void
+4 Leyline of the Void
+3 Consign to Memory
+2 Brotherhood's End
+2 Meltdown
 2 Trinisphere
-2 Magus of the Moon
-2 Disruptor Flute
-2 Grafdigger's Cage
-3 Fade from History
-2 Unholy Heat
+1 Kozilek, Butcher of Truth
+1 Surgical Extraction

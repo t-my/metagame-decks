@@ -1,32 +1,29 @@
-3 Call of the Herd
-4 Mox Diamond
-2 Anurid Brushhopper
-2 Rishadan Port
-3 Secluded Steppe
-4 Wasteland
 4 Nimble Mongoose
-2 Treetop Village
-1 Cataclysm
-4 Weathered Wayfarer
-1 Rith's Grove
-3 Sylvan Library
-4 Windswept Heath
-4 Swords to Plowshares
-2 Naturalize
+4 Mox Diamond
 4 Terravore
-2 Plains
-3 Forest
-3 Gemstone Mine
+1 Anurid Brushhopper
+4 Wasteland
+3 Mulch
+1 Disenchant
 3 Armageddon
-2 Tranquil Thicket
-1 Kor Haven
+2 Call of the Herd
+2 Sylvan Library
+4 Treetop Village
+2 Sungrass Prairie
+4 Rishadan Port
+4 Swords to Plowshares
+2 Brushland
+4 Windswept Heath
+1 Nantuko Monastery
+1 Tranquil Thicket
+1 Secluded Steppe
+2 Plains
+4 Werebear
+3 Forest
 
-1 Cataclysm
-1 Naturalize
-3 Sphere of Resistance
-2 Circle of Protection: Red
-2 Aura of Silence
-2 Tormod's Crypt
-1 Ray of Revelation
-2 Pyroclasm
-1 Crumble
+2 Cataclysm
+3 Reverent Silence
+2 Sphere of Law
+1 Compost
+4 Sphere of Resistance
+3 Crumble

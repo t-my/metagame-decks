@@ -1,33 +1,33 @@
-1 Stomping Ground
-4 Subtlety
-1 Colossal Skyturtle
-4 Street Wraith
-4 Waker of Waves
-4 Shardless Agent
-4 Misty Rainforest
-4 Generous Ent
 3 Living End
-1 Island
-1 Hedge Maze
-1 Steam Vents
-1 Temple Garden
-1 Forest
-4 Endurance
-1 Sink into Stupor
-1 Thundering Falls
-1 Breeding Pool
-4 Violent Outburst
-1 Commercial District
-4 Wistfulness
-4 Oliphaunt
-1 Hallowed Fountain
-1 Valakut Awakening
+4 Shardless Agent
 4 Force of Negation
+4 Overlord of the Balemurk
+1 Undercity Sewers
+2 Underground Mortuary
+1 Hedge Maze
+1 Boseiju, Who Endures
+1 Watery Grave
+1 Island
+1 Forest
+1 Breeding Pool
+1 Otawara, Soaring City
+4 Misty Rainforest
+2 Polluted Delta
+1 Overgrown Tomb
+4 Generous Ent
+4 Subtlety
+2 Curator of Mysteries
+4 Endurance
+2 Colossal Skyturtle
+4 Wistfulness
+3 Formidable Speaker
+2 Street Wraith
+1 Halo Forager
+2 Sink into Stupor
 
-2 Force of Vigor
-2 Inevitable Betrayal
-3 Mystical Dispute
-2 Teferi, Time Raveler
-3 Clarion Conqueror
-1 Deafening Silence
-2 Brotherhood's End
+2 Foundation Breaker
+2 Dismember
+3 Inevitable Betrayal
+4 Mystical Dispute
+2 Commandeer
+2 Fade from History

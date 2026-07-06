@@ -1,31 +1,38 @@
 4 Ajani, Nacatl Pariah
-4 Guide of Souls
-4 Ocelot Pride
-4 Ragavan, Nimble Pilferer
-3 Ranger-Captain of Eos
-3 Seasoned Pyromancer
-3 Voice of Victory
-1 Fable of the Mirror-Breaker
-1 The Legend of Roku
-4 Galvanic Discharge
-2 Mana Tithe
-2 Thraben Charm
-3 Goblin Bombardment
-4 Arid Mesa
-4 Flooded Strand
-4 Marsh Flats
-3 Sacred Foundry
-2 Dalkovan Encampment
-2 Elegant Parlor
-2 Plains
 1 Arena of Glory
-
+4 Arid Mesa
+1 Blood Moon
+1 Boromir, Warden of the Tower
+1 Dalkovan Encampment
+2 Elegant Parlor
+2 Fable of the Mirror-Breaker
+3 Flooded Strand
+4 Galvanic Discharge
+3 Goblin Bombardment
+4 Guide of Souls
+2 Mana Tithe
+3 Marsh Flats
+1 Mountain
+4 Ocelot Pride
+2 Plains
+3 Ragavan, Nimble Pilferer
+1 Ranger-Captain of Eos
+3 Sacred Foundry
+2 Seasoned Pyromancer
+1 Solitude
+1 Static Prison
 1 The Legend of Roku
-2 Blood Moon
+2 Thraben Charm
+2 Voice of Victory
+2 Windswept Heath
+
+1 Blood Moon
+1 Celestial Purge
 2 High Noon
-2 Obsidian Charmaw
-2 Orim's Chant
-2 Vexing Bauble
-2 Wrath of the Skies
+1 Drannith Magistrate
+3 Obsidian Charmaw
+1 Orim's Chant
 1 Surgical Extraction
+2 Vexing Bauble
 1 Wear/Tear
+2 Wrath of the Skies

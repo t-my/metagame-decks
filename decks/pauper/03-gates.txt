@@ -1,26 +1,24 @@
-4 Outlaw Medic
+1 Talons of Wildwood
+2 Thraben Charm
+2 Journey to Nowhere
+3 Malevolent Rumble
+4 Prismatic Strands
+4 Bitter Reunion
+4 Lightning Bolt
+4 Pursue the Past
+4 Shattered Acolyte
+4 Sneaky Snacker
 4 Sacred Cat
-4 Gatecreeper Vine
-4 Guardian of the Guildpact
-4 Thraben Charm
-3 Midnight Tilling
-4 Malevolent Rumble
-4 Armadillo Cloak
-4 Journey to Nowhere
-2 Selesnya Guildgate
-4 Manor Gate
-2 Heap Gate
-4 Citadel Gate
+4 Writhing Chrysalis
+2 Manor Gate
+3 Mountain
 3 Plains
+4 Cliffgate
+4 Citadel Gate
 4 Basilisk Gate
-2 Forest
-1 Shattered Acolyte
-3 Prismatic Strands
 
-3 Shattered Acolyte
-1 Prismatic Strands
-2 Pulse of Murasa
-1 Ancient Grudge
-4 Faerie Macabre
-2 Destroy Evil
-2 Moment's Peace
+2 Guardian of the Guildpact
+4 Red Elemental Blast
+4 Tamiyo's Safekeeping
+4 Breath Weapon
+1 Thraben Charm

@@ -1,29 +1,30 @@
-2 Get Out
-2 Prismari Charm
-2 Winternight Stories
-3 Stubborn Denial
-4 Consider
-4 Fiery Impulse
-4 Opt
-4 Traumatic Critique
-4 Sleight of Hand
-4 Hearth Elemental
-4 Sunderflock
-4 Eddymurk Crab
-1 Shivan Reef
-1 Otawara, Soaring City
-1 Hall of Storm Giants
-2 Island
-3 Cavern of Souls
-3 Riverglide Pathway
+1 Iroh's Demonstration
+2 Jace, Wielder of Mysteries
+2 Three Steps Ahead
+2 Pop Quiz
+2 Ral, Crackling Wit
+3 Combustion Technique
+3 Accumulate Wisdom
+4 Divide by Zero
+4 Firebending Lesson
+4 It'll Quench Ya!
+4 Spikefield Hazard
+4 Tablet of Discovery
+4 Gran-Gran
+4 Riverpyre Verge
 4 Steam Vents
 4 Spirebluff Canal
+4 Riverglide Pathway
+5 Island
 
-2 Lithomantic Barrage
-2 Ashiok, Dream Render
-2 Ral, Crackling Wit
-2 Colorstorm Stallion
-2 Flashfreeze
-1 Lightning Axe
-2 Negate
-2 Test of Talents
+1 Price of Freedom
+1 Boomerang Basics
+3 Ghost Vacuum
+1 Improvisation Capstone
+2 Memory Deluge
+2 Narset, Parter of Veils
+1 Negate
+1 Sokka's Haiku
+1 Iroh's Demonstration
+1 Combustion Technique
+1 Accumulate Wisdom

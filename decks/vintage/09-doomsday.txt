@@ -1,37 +1,40 @@
-1 Ancestral Recall
-1 Black Lotus
-1 Brainstorm
-4 Mishra's Bauble
-4 Preordain
-1 Demonic Consultation
-1 Island
-1 Gush
-4 Doomsday
-2 Misty Rainforest
-4 Force of Will
-1 Gitaxian Probe
-4 Ponder
-1 Demonic Tutor
-1 Lotus Petal
-1 Mental Misstep
-2 Polluted Delta
-1 Mox Jet
-1 Mox Sapphire
+4 Underground Sea
+1 Time Walk
 4 Street Wraith
 2 Scalding Tarn
-4 Dark Ritual
-2 Thassa's Oracle
-4 The Fantasticar
-1 Time Walk
-1 Undercity Sewers
-4 Underground Sea
+4 Preordain
+1 Demonic Consultation
+4 Ponder
+2 Polluted Delta
+1 Mox Sapphire
+1 Mox Jet
+3 The Fantasticar
+2 Misty Rainforest
+1 Mental Misstep
+1 Lotus Petal
+1 Island
+1 Gush
+1 Gitaxian Probe
+4 Force of Will
+1 Force of Negation
 2 Flooded Strand
-
-4 Leyline of the Void
-1 The Tabernacle at Pendrell Vale
-1 Treasure Cruise
-1 Mindbreak Trap
+4 Doomsday
+1 Demonic Tutor
+4 Dark Ritual
+1 Chain of Vapor
+1 Brainstorm
+2 Thassa's Oracle
+1 Black Lotus
+1 Undercity Sewers
+1 Ancestral Recall
+2 Mishra's Bauble
 1 Dig Through Time
-1 Snuff Out
-4 Unable to Scream
-2 Opposition Agent
+
+2 Murktide Regent
+2 Consign to Memory
+1 Mindbreak Trap
+1 Null Rod
+4 Leyline of the Void
+3 Unable to Scream
+1 Flusterstorm
+1 The Tabernacle at Pendrell Vale

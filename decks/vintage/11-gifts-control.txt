@@ -9,9 +9,9 @@
 3 Underground Sea
 1 Misty Rainforest
 1 Black Lotus
-3 Mana Drain
-1 Scalding Tarn
 3 Volcanic Island
+1 Scalding Tarn
+4 Force of Will
 1 Flooded Strand
 1 Demonic Tutor
 1 Time Walk
@@ -26,7 +26,7 @@
 1 Mox Pearl
 1 Mox Ruby
 1 Mox Sapphire
-4 Force of Will
+3 Gifts Ungiven
 1 Chain of Vapor
 1 Gitaxian Probe
 1 Abrade
@@ -37,7 +37,7 @@
 3 Mindbreak Trap
 1 Consign to Memory
 4 Stock Up
-3 Gifts Ungiven
+3 Mana Drain
 
 3 Consign to Memory
 1 Lurrus of the Dream-Den
@@ -49,5 +49,5 @@
 1 Tormod's Crypt
 1 Ravenous Trap
 1 Yixlid Jailer
-1 Brotherhood's End
-2 Pithing Needle
+2 Goblin Cratermaker
+1 Pithing Needle
