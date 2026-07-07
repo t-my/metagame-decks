@@ -193,14 +193,44 @@
        (map str/capitalize)
        (str/join " ")))
 
-(defn deck-entries [dir]
+;; Basic lands never make a good deck-art card, so they're excluded from key-card selection.
+(def basic-lands
+  #{"plains" "island" "swamp" "mountain" "forest" "wastes"
+    "snow-covered plains" "snow-covered island" "snow-covered swamp"
+    "snow-covered mountain" "snow-covered forest" "snow-covered wastes"})
+
+;; Parse a MTGO line ("4 Lightning Bolt") into {:n 4 :name "Lightning Bolt"} (set/foil annotations
+;; like [SET]/(F)/<showcase> stripped). Non-count lines (headers) return nil.
+(defn- parse-line [l]
+  (when-let [[_ n nm] (re-matches #"(\d+)\s+(.*\S)\s*" l)]
+    {:n (parse-long n)
+     :name (-> nm (str/replace #"\s*[\[(<][^\])>]*[\])>]\s*" " ") str/trim)}))
+
+;; Split a decklist into its maindeck + sideboard card sections (blank line separates them).
+(defn- sections [txt]
+  (let [[main side] (split-with (complement str/blank?) (str/split-lines txt))]
+    {:main (vec (keep parse-line main))
+     :side (vec (keep parse-line (rest side)))}))
+
+;; A representative "key card" for the deck's art. Commander decks: their commander (the first
+;; sideboard card, exact printed name — the title-cased filename loses commas/etc). Constructed:
+;; the highest-count non-basic maindeck card; ties break to the earliest listed, which — since
+;; MTGTop8 lists spells before lands — reliably lands on a signature nonland.
+(defn- key-card [txt commander?]
+  (let [{:keys [main side]} (sections txt)]
+    (if commander?
+      (:name (first side))
+      (let [pool (remove #(basic-lands (str/lower-case (:name %))) main)]
+        (:name (first (sort-by (comp - :n) (if (seq pool) pool main))))))))
+
+(defn deck-entries [dir commander?]
   (->> (.listFiles (java.io.File. dir))
        (filter #(str/ends-with? (.getName %) ".txt"))
        (sort-by #(.getName %))
        (mapv (fn [f]
                (let [fname     (.getName f)
                      archetype (-> fname (str/replace #"\.txt$" "") (str/replace #"^\d+-" ""))]
-                 {:file fname :name (title-case archetype)})))))
+                 {:file fname :name (title-case archetype) :card (key-card (slurp f) commander?)})))))
 
 ;; Scan decks/ and write manifest.json — the index the gateway (or any client) reads to list
 ;; formats and their decks without walking the tree itself.
@@ -210,9 +240,11 @@
                   (filter #(.isDirectory %))
                   (sort-by #(.getName %))
                   (keep (fn [d]
-                          (let [decks (deck-entries (.getPath d))]
+                          (let [id         (.getName d)
+                                commander? (boolean (get-in format-by-id [id :commander]))
+                                decks      (deck-entries (.getPath d) commander?)]
                             (when (seq decks)
-                              {:id (.getName d) :name (title-case (.getName d)) :decks decks}))))
+                              {:id id :name (title-case id) :decks decks}))))
                   vec)
         manifest {:updated (str (java.time.LocalDate/now)) :formats fmts}]
     (spit "manifest.json" (str (json/generate-string manifest {:pretty true}) "\n"))
