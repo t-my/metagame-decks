@@ -15,9 +15,6 @@
   [{:id "standard"       :code "ST"}
    {:id "modern"         :code "MO"}
    {:id "pioneer"        :code "PI"}
-   {:id "historic"       :code "HI"}
-   {:id "explorer"       :code "EXP"}
-   {:id "alchemy"        :code "ALCH"}
    {:id "pauper"         :code "PAU"}
    {:id "legacy"         :code "LE"}
    {:id "vintage"        :code "VI"}

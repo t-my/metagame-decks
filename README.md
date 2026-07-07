@@ -28,7 +28,7 @@ decks/
 
 ## Formats
 
-Standard, Modern, Pioneer, Historic, Explorer, Alchemy, Pauper, Legacy, Vintage, Premodern,
+Standard, Modern, Pioneer, Pauper, Legacy, Vintage, Premodern,
 Duel Commander, and Commander (mapped to MTGTop8's cEDH).
 
 MTGTop8 doesn't track Timeless, Penny Dreadful, or Brawl, so those aren't published.
