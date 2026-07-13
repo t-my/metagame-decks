@@ -1,45 +1,45 @@
-4 Wasteland
-1 Black Lotus
 1 Vexing Bauble
-1 Chalice of the Void
-1 Strip Mine
+1 Black Lotus
+1 Trinisphere
 1 Sol Ring
+2 Crucible of Worlds
+2 Scrawling Crawler
 3 Golos, Tireless Pilgrim
 1 Inventors' Fair
-4 Scrawling Crawler
+1 Mana Vault
 1 Karn, the Great Creator
-4 Patchwork Automaton
-2 Nettlecyst
-1 Mystic Forge
+1 Mana Crypt
+1 Lodestone Golem
+1 Karakas
 4 Mishra's Workshop
 1 Mox Emerald
 1 Mox Jet
 1 Mox Pearl
 1 Mox Ruby
 1 Mox Sapphire
-1 Mana Vault
-1 Mana Crypt
+1 Mystic Forge
+2 Nettlecyst
 3 Null Rod
-1 Lodestone Golem
+4 Patchwork Automaton
 1 Petrified Hamlet
-1 Karakas
 1 Ghost Quarter
 4 Sphere of Resistance
-2 Stonecoil Serpent
-2 Crucible of Worlds
+3 Stonecoil Serpent
+1 Strip Mine
+1 The Fantasticar
 1 Thorn of Amethyst
 1 Tolarian Academy
-1 Trinisphere
+1 Chalice of the Void
 1 Urza's Saga
 1 Bojuka Bog
+4 Wasteland
 4 Ancient Tomb
 
 1 Null Rod
-1 Stonecoil Serpent
-1 Grafdigger's Cage
 2 Wurmcoil Engine
-1 Pithing Needle
-2 Mindbreak Trap
-1 The Tabernacle at Pendrell Vale
 4 Leyline of the Void
+1 Grafdigger's Cage
+3 Mindbreak Trap
+1 Pithing Needle
+1 The Tabernacle at Pendrell Vale
 2 Dismember

@@ -1,25 +1,23 @@
 4 Phyrexian Dreadnought
-1 Powder Keg
-2 Flash of Insight
-4 Opt
-4 Counterspell
-1 Peek
-4 Vision Charm
-4 Gush
-1 Misdirection
-1 Thwart
-4 Foil
-1 Chain of Vapor
-2 Impulse
 4 Stifle
-2 Daze
 4 Portent
+4 Opt
+4 Accumulated Knowledge
+4 Counterspell
 17 Island
+2 Daze
+4 Gush
+2 Flash of Insight
+4 Foil
+1 Thwart
+4 Vision Charm
+1 Powder Keg
+1 Intuition
 
-1 Chain of Vapor
-2 Blue Elemental Blast
-3 Essence Flare
-3 Annul
-2 Brain Freeze
+2 Morphling
 2 Tsabo's Web
-2 Hydroblast
+4 Annul
+1 Blue Elemental Blast
+1 Hydroblast
+2 Dominate
+3 Essence Flare

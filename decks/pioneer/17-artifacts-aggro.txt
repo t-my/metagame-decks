@@ -15,15 +15,16 @@
 1 Otawara, Soaring City
 1 Legion Extruder
 1 Island
-2 Experimental Synthesizer
+1 Experimental Synthesizer
 4 Ensoul Artifact
 2 Reckless Bushwhacker
 1 Flashback
-2 Mockingbird
+1 Mockingbird
 3 Inti, Seneschal of the Sun
 2 Burst Lightning
 2 Metallic Rebuke
 2 Vibrant Outburst
+2 Emberheart Challenger
 
 2 Torch the Tower
 1 Legion Extruder

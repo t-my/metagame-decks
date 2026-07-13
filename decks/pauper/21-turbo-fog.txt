@@ -1,29 +1,29 @@
-4 Black Dragon Gate
-4 Swamp
-1 Campfire
-1 Respite
-4 Eviscerator's Insight
-4 Fanatical Offering
-3 Nihil Spellbomb
-3 Khalni Garden
-4 Heap Gate
-4 Ichor Wellspring
-1 Golgari Rot Farm
-4 Lembas
-2 Manor Gate
-1 Forest
-3 Crypt Rats
-1 Stream of Thought
-2 Bojuka Bog
-3 Tangle
-1 Toxin Analysis
-4 Weather the Storm
+4 Arcane Denial
+4 Brainstorm
+4 Growth Spiral
 4 Moment's Peace
-2 Cast Down
+4 Weather the Storm
+3 Behold the Multiverse
+3 Embrace the Paradox
+3 Tangle
+2 Heritage Reclamation
+2 Muddle the Mixture
+1 Fog
+4 Lorien Revealed
+2 Stream of Thought
+6 Island
+4 Simic Growth Chamber
+2 Bojuka Bog
+2 Foreboding Landscape
+2 Forest
+1 Ash Barrens
+1 Dimir Aqueduct
+1 Quandrix Campus
+1 Tangled Islet
 
-1 Faerie Macabre
-2 Red Elemental Blast
+1 Bojuka Bog
 4 Blue Elemental Blast
-3 Troublemaker Ouphe
-3 Pilfer
-2 Hydroblast
+4 Murmuring Mystic
+2 Campfire
+2 Desert
+2 Dispel

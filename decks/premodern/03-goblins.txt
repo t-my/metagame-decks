@@ -1,0 +1,26 @@
+4 Goblin Matron
+1 Forest
+10 Mountain
+1 City of Brass
+3 Gempalm Incinerator
+1 Goblin Tinkerer
+2 Goblin Vandal
+4 Mogg Fanatic
+2 Siege-Gang Commander
+2 Naturalize
+4 Karplusan Forest
+2 Goblin Goon
+4 Goblin Lackey
+4 Goblin Ringleader
+4 Goblin Warchief
+4 Wooded Foothills
+4 Goblin Piledriver
+4 Rishadan Port
+
+1 Overload
+1 Pyrokinesis
+4 Tranquil Domain
+1 Anarchy
+4 Pyroblast
+2 Tormod's Crypt
+2 Gaea's Blessing

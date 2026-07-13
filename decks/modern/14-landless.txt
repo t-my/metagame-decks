@@ -1,24 +1,29 @@
-4 Shatterskull Smashing
-4 Sundering Eruption
-4 Pinnacle Monk
-4 Stormscale Scion
-3 Ruby Medallion
-4 Legion Leadership
-4 Manamorphose
-4 Witch Enchanter
-4 Strike It Rich
-4 Orim's Chant
-4 Irencrag Feat
+4 Tameshi, Reality Architect
+3 Fallaji Archaeologist
+4 Hydroelectric Specimen
+4 Thundertrap Trainer
 4 Goblin Charbelcher
-3 Vessel of Volatility
-4 Pyretic Ritual
-4 Desperate Ritual
-2 Bitter Reunion
+4 Lotus Bloom
+4 Whir of Invention
+1 Spell Snare
+4 Disrupting Shoal
+2 Force of Negation
+1 Beyeen Veil
+3 Jwari Disruption
+1 Stern Scolding
+3 Flare of Denial
+4 Sink into Stupor
+2 Waterlogged Teachings
+1 Into the Flood Maw
+3 Preordain
+4 Sea Gate Restoration
+4 Suppression Ray
 
-2 Defense Grid
-1 Mountain
-3 Blood Moon
-2 Path to Exile
-2 Silence
-3 Wear/Tear
-2 Shatterstorm
+1 Into the Flood Maw
+1 Spell Pierce
+2 Hurkyl's Recall
+1 Grafdigger's Cage
+3 Consign to Memory
+2 Harbinger of the Seas
+3 Unable to Scream
+2 Mystical Dispute

@@ -1,31 +1,33 @@
+4 The Wandering Minstrel
 4 Lumra, Bellow of the Woods
-4 Scapeshift
-3 The Wandering Minstrel
-4 Port of Karfell
-4 Botanical Sanctum
-1 Ipnu Rivulet
-4 Lotus Field
-3 Starting Town
-1 Arid Archway
 4 Spelunking
-4 Hedge Maze
-1 Otawara, Soaring City
 2 Boseiju, Who Endures
+1 Otawara, Soaring City
+4 Underground Mortuary
+4 Lotus Field
+4 Scapeshift
+4 Crumbling Vestige
+4 Port of Karfell
+1 Arid Archway
 2 Forest
-1 Echoing Deeps
-1 Takenuma, Abandoned Mire
-1 Castle Garenbrig
+4 Starting Town
+3 Formidable Speaker
 4 Arboreal Grazer
-1 Sunken Citadel
-1 Thassa's Oracle
-1 Adventurer's Inn
-2 Marang River Regent
+4 Hedge Maze
+2 Castle Garenbrig
 2 Aftermath Analyst
-4 Badgermole Cub
-1 Ba Sing Se
+1 Glasspool Mimic
+1 Terror of the Peaks
+1 Kenrith, the Returned King
+1 Gnarled Professor
 
-3 Mystical Dispute
-4 Ephara's Dispersal
-2 Tireless Tracker
-3 Heritage Reclamation
-3 Soul-Guide Lantern
+3 Abrupt Decay
+3 Culling Ritual
+1 Emrakul, the Promised End
+1 Summon: Leviathan
+1 Lessons from Life
+1 Origin of Metalbending
+1 M.O.D.O.K.
+2 Binding the Old Gods
+1 True Ancestry
+1 Elesh Norn, Mother of Machines

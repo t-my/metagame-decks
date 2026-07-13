@@ -1,30 +1,31 @@
-4 Abandon Attachments
-4 Accumulate Wisdom
-4 Combustion Technique
-4 Firebending Lesson
-1 Flashback
-4 Gran-Gran
-4 Great Hall of the Biblioplex
-4 Jeskai Revelation
-1 Improvisation Capstone
-2 Iroh's Demonstration
-3 Island
-3 It'll Quench Ya!
-3 Riverpyre Verge
-3 Spirebluff Canal
+1 Multiversal Passage
+4 Eddymurk Crab
+2 Flow State
+2 Get Out
+4 Hearth Elemental
+3 Impractical Joke
+6 Island
+4 Prismari Charm
+4 Riverpyre Verge
+4 Sleight of Hand
+2 Burst Lightning
+2 Spell Snare
+4 Spirebluff Canal
 4 Steam Vents
-3 Stock Up
-2 Sundown Pass
-4 Tablet of Discovery
-3 Hallowed Fountain
+1 Stormcarved Coast
+4 Sunderflock
+2 Traumatic Critique
+2 Winternight Stories
+4 Opt
+1 Spell Pierce
 
-2 Spell Pierce
+1 Spell Snare
+2 Annul
+1 Broadside Barrage
+4 Colorstorm Stallion
 1 Disdainful Stroke
-1 Emeritus of Ideation
-1 Ghost Vacuum
-4 Price of Freedom
-1 Ral, Crackling Wit
-1 Return the Favor
+1 Negate
+2 Ghost Vacuum
+1 Flashfreeze
 1 Slagstorm
-1 Annul
-2 Flashfreeze
+1 Octopus Form

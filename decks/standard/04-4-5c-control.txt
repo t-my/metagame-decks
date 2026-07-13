@@ -1,37 +1,45 @@
-4 Stock Up
-1 Steam Vents
-2 Consult the Star Charts
-2 Shattered Sanctum
-2 Sacred Foundry
-2 Firebending Lesson
-2 Flashback
-4 Great Hall of the Biblioplex
-3 Riverpyre Verge
-1 Plains
-1 Mistrise Village
-2 Nowhere to Run
-4 Jeskai Revelation
-4 Inevitable Defeat
-2 Duress
-2 Sear
-2 Deadly Cover-Up
-2 Strategic Betrayal
-2 Starting Town
-4 Blood Crypt
-3 Bleachbone Verge
-2 Together as One
-2 Undercity Sewers
-1 Swamp
+1 North Wind Avatar
 4 Tablet of Discovery
-
+4 Jeskai Revelation
+3 Inevitable Defeat
+2 Consult the Star Charts
+2 Flashback
+2 Lightning Helix
+2 No More Lies
+2 Three Steps Ahead
+1 Abrade
+1 Fire Magic
+1 Firebending Lesson
+4 Stock Up
+2 Day of Judgment
+1 Improvisation Capstone
+1 Strategic Betrayal
+1 Together as One
+4 Great Hall of the Biblioplex
+4 Steam Vents
+2 Gloomlake Verge
+2 Hallowed Fountain
+2 Riverpyre Verge
+2 Sacred Foundry
+2 Stormcarved Coast
+2 Sundown Pass
+1 Cori Mountain Monastery
+1 Godless Shrine
+1 Island
 1 Mistrise Village
-1 Nowhere to Run
-2 Duress
-2 Deadly Cover-Up
-1 Outrageous Robbery
-1 Day of Black Sun
+1 Mountain
+1 Shattered Sanctum
+
+2 Avengers Disassembled
 2 Flashfreeze
+1 Ancient Vendetta
+1 Annul
 1 Disdainful Stroke
+1 Ghost Vacuum
+1 Petrified Hamlet
 1 Return the Favor
-2 Ral, Crackling Wit
-1 Pest Control
+1 Soul-Guide Lantern
+1 Spell Pierce
+1 Spell Snare
+1 Torpor Orb
+1 Wan Shi Tong, Librarian

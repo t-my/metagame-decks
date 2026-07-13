@@ -1,32 +1,26 @@
-4 Sacred Foundry
-4 Inspiring Vantage
-4 Cavern of Souls
-4 Mutavault
-3 Sunbillow Verge
+1 Colossus Hammer
+2 Thran Power Suit
+3 Super-Soldier Serum
+4 Leyline Axe
+4 Samurai's Katana
+4 Dragonfire Blade
+4 Sheltered by Ghosts
+2 Cloud, Midgar Mercenary
+3 Kemba, Kha Enduring
+4 Kazuul's Toll Collector
+4 Adanto Vanguard
+4 Fervent Champion
+1 Cori Mountain Monastery
+1 Den of the Bugbear
 1 Plains
-1 Mountain
-1 Sokenzan, Crucible of Defiance
-1 Eiganjo, Seat of the Empire
-4 Veteran Motorist
-4 Toolcraft Exemplar
-4 Magda, Brazen Outlaw
-3 Depala, Pilot Exemplar
-2 Giott, King of the Dwarves
-2 Roaming Throne
-2 Extraction Specialist
-4 Torch the Tower
-4 Voyager Glidecar
-2 Smuggler's Copter
-1 Portal to Phyrexia
-1 Embercleave
-2 Fable of the Mirror-Breaker
-2 Get Lost
+2 Mountain
+4 Sunbillow Verge
+4 Sacred Foundry
+4 Battlefield Forge
+4 Cavern of Souls
 
-2 Unlicensed Hearse
-2 Wear/Tear
-2 Knockout Blow
-2 Invasion of Gobakhan
-2 Surge of Salvation
-1 Damping Sphere
-2 Reidane, God of the Worthy
-2 Portable Hole
+3 Sunfall
+3 Lightning Helix
+4 Get Lost
+4 Rest in Peace
+1 Abrade

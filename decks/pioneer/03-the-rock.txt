@@ -1,0 +1,32 @@
+1 Tear Asunder
+2 Duress
+4 Professor Dellian Fel
+4 Abrupt Decay
+4 Fatal Push
+4 Thoughtseize
+4 Unholy Annex/Ritual Chamber
+1 Emeritus of Abundance
+1 Sentinel of the Nameless City
+3 Graveyard Trespasser
+3 Sheoldred, the Apocalypse
+4 Badgermole Cub
+1 Boseiju, Who Endures
+1 Forest
+1 Takenuma, Abandoned Mire
+1 Urborg, Tomb of Yawgmoth
+1 Wastewood Verge
+1 Restless Cottage
+3 Swamp
+4 Overgrown Tomb
+4 Llanowar Wastes
+4 Blooming Marsh
+4 Mutavault
+
+1 End of the Hunt
+2 Culling Ritual
+2 Go Blank
+3 Invoke Despair
+2 Ray of Enfeeblement
+1 Sheoldred's Edict
+2 Unlicensed Hearse
+2 Duress
