@@ -1,0 +1,24 @@
+11 Island
+4 Polluted Delta
+3 Swamp
+3 Underground River
+4 Portent
+4 Impulse
+4 Accumulated Knowledge
+4 Gush
+1 Fact or Fiction
+2 Tsabo's Web
+3 Duress
+1 Annul
+4 Counterspell
+3 Smother
+4 Psychatog
+2 Sickening Dreams
+3 Foil
+
+3 Annul
+2 Blue Elemental Blast
+2 Hydroblast
+4 Engineered Plague
+2 Powder Keg
+2 Control Magic

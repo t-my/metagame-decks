@@ -1,26 +1,35 @@
-4 Lord of Atlantis
-4 Master of the Pearl Trident
+2 Mistcaller
+2 Rishadan Dockhand
+3 Tide Shaper
+3 Silvergill Adept
+3 Merfolk Trickster
+2 Floodpits Drowner
+2 Silvergill Mentor
+2 Vodalian Hexcatcher
+3 Master of the Pearl Trident
+2 Lord of Atlantis
 1 Svyelun of Sea and Sky
-4 Tide Shaper
-4 Vodalian Hexcatcher
-4 Harbinger of the Seas
-2 Mindspring Merfolk
-4 Silvergill Mentor
-3 Namor the Sub-Mariner
-2 Aether Vial
-2 Disrupting Shoal
-3 Force of Negation
+1 Harbinger of the Seas
+2 Namor the Sub-Mariner
+3 Tishana's Tidebinder
+1 Kira, Great Glass-Spinner
+4 Aether Vial
 3 Flare of Denial
-4 Sink into Stupor
-7 Island
+2 Force of Negation
+3 Sink into Stupor
 3 Cavern of Souls
+2 Mutavault
+1 Otawara, Soaring City
 1 Minamo, School at Water's Edge
-1 Mutavault
-2 Otawara, Soaring City
-2 Gloomlake Verge
+10 Snow-Covered Island
 
-3 Hurkyl's Recall
+1 Harbinger of the Seas
 2 Chalice of the Void
-4 Dismember
-2 Subtlety
-4 Consign to Memory
+1 Stoic Sphinx
+2 Quantum Riddler
+1 Subtlety
+1 Into the Flood Maw
+1 Hibernation
+3 Consign to Memory
+2 Dismember
+1 Hurkyl's Recall

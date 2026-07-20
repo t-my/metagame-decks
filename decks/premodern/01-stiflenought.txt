@@ -1,23 +1,27 @@
 4 Phyrexian Dreadnought
-4 Stifle
-4 Portent
-4 Opt
-4 Accumulated Knowledge
+3 Meddling Mage
 4 Counterspell
-17 Island
-2 Daze
-4 Gush
-2 Flash of Insight
 4 Foil
-1 Thwart
+4 Gush
+4 Stifle
 4 Vision Charm
-1 Powder Keg
-1 Intuition
+3 Opt
+2 Daze
+2 Flash of Insight
+2 Impulse
+2 Swords to Plowshares
+4 Portent
+9 Island
+4 Flooded Strand
+4 Adarkar Wastes
+1 Plains
 
-2 Morphling
+1 Meddling Mage
+2 Swords to Plowshares
 2 Tsabo's Web
-4 Annul
-1 Blue Elemental Blast
+2 Cursed Totem
+2 Blue Elemental Blast
 1 Hydroblast
-2 Dominate
-3 Essence Flare
+2 Armageddon
+2 Annul
+1 Disenchant

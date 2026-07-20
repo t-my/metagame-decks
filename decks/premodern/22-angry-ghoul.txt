@@ -1,0 +1,37 @@
+1 Krosan Reclamation
+1 Dragon Breath
+1 Exhume
+1 Shallow Grave
+3 Duress
+3 Mox Diamond
+4 Cabal Therapy
+4 Reanimate
+4 Eladamri's Call
+1 Sutured Ghoul
+1 Elvish Spirit Guide
+2 Terravore
+4 Hermit Druid
+4 Cephalid Illusionist
+4 Nomads en-Kor
+1 Underground River
+1 Yavimaya Coast
+1 Adarkar Wastes
+1 Undiscovered Paradise
+1 Brushland
+1 Riftstone Portal
+2 Caves of Koilos
+2 Reflecting Pool
+4 Llanowar Wastes
+4 City of Brass
+4 Gemstone Mine
+
+2 Crumble
+3 Swords to Plowshares
+1 Sylvan Safekeeper
+1 Crippling Fatigue
+3 Absolute Law
+1 Naturalize
+1 Ghitu Slinger
+1 Uktabi Orangutan
+1 Ray of Revelation
+1 Krosan Reclamation

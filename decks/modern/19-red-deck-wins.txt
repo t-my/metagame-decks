@@ -1,26 +1,26 @@
-4 Boltwave
+2 Shard Volley
+3 Light Up the Stage
+3 Searing Blaze
+4 Mishra's Bauble
+4 Cori-Steel Cutter
 4 Lightning Bolt
 4 Lava Spike
-4 Searing Blaze
-4 Skullcrack
+4 Skewer the Critics
+4 Boltwave
 4 Goblin Guide
 4 Monastery Swiftspear
-4 Eidolon of the Great Revel
-4 Skewer the Critics
-4 Boros Charm
-4 Sunbaked Canyon
-2 Bloodstained Mire
-1 Arid Mesa
-1 Wooded Foothills
-1 Scalding Tarn
-1 Sacred Foundry
-3 Barbarian Ring
-4 Inspiring Vantage
-3 Mountain
+1 Elegant Parlor
+1 Bloodstained Mire
+2 Sacred Foundry
+4 Arid Mesa
+4 Barbarian Ring
+4 Mountain
+4 Scalding Tarn
 
-2 Roiling Vortex
-4 Searing Blood
+4 Roiling Vortex
 2 Wear/Tear
-3 Faerie Macabre
-2 Smash to Smithereens
+2 Pyroclasm
+1 Skullcrack
 2 Deflecting Palm
+2 Smash to Smithereens
+2 Orim's Chant

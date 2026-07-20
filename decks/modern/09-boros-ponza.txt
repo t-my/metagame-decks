@@ -1,30 +1,30 @@
-4 Cori Mountain Monastery
 4 Solitude
+1 The Legend of Roku
 4 Erode
-4 Field of Ruin
-4 Galvanic Discharge
-4 Demolition Field
+3 Galvanic Discharge
+2 Path to Exile
+1 March of Otherworldly Light
+4 Cleansing Wildfire
 4 Price of Freedom
-2 Mountain
-3 Sunken Citadel
 4 Wrath of the Skies
-3 Path to Exile
-1 Wrath of God
 2 Avengers Disassembled
+1 Wrath of God
 4 High Noon
+1 Rest in Peace
+4 Cori Mountain Monastery
+4 Demolition Field
+4 Field of Ruin
 4 Plains
-3 Cleansing Wildfire
-3 Sacred Foundry
-2 Rest in Peace
+4 Sunken Citadel
+2 Mountain
+2 Sacred Foundry
 1 Castle Ardenvale
 
-1 Wrath of God
-2 Avengers Disassembled
+1 The Legend of Roku
 2 Rest in Peace
 1 Kaheera, the Orphanguard
-2 Wear/Tear
-2 Celestial Purge
-2 Reprieve
-1 Vexing Bauble
-1 Deafening Silence
-1 Calamity's Wake
+4 Reprieve
+3 Wear/Tear
+2 Vexing Bauble
+1 Chandra, Awakened Inferno
+1 Void Mirror

@@ -1,49 +1,56 @@
-2 Boseiju, Who Endures
-1 Polluted Delta
-1 Ancestral Recall
-1 Time Walk
+3 Atraxa, Grand Unifier
+1 Raph & Mikey, Troublemakers
+1 Black Lotus
+1 Bolas's Citadel
+1 Mana Crypt
 1 Mox Emerald
 1 Mox Jet
-1 Mana Crypt
-1 Mox Sapphire
-2 Tropical Island
-1 Mental Misstep
-1 Scalding Tarn
-1 Island
-1 Tolarian Academy
-1 Treasure Cruise
-4 Stock Up
-4 Atraxa, Grand Unifier
-1 Gaea's Blessing
-2 Underground Sea
-4 Forbidden Orchard
-1 Black Lotus
-4 Force of Will
-1 Oko, Thief of Crowns
-1 Misty Rainforest
-1 Null Rod
-1 Demonic Tutor
-4 Oath of Druids
-1 Hedge Maze
-1 Mox Ruby
-1 Vampiric Tutor
-1 Sol Ring
-3 Show and Tell
-1 Gitaxian Probe
-2 Force of Negation
-1 Flash
 1 Mox Pearl
-1 Vexing Bauble
-1 Flooded Strand
+1 Mox Sapphire
+1 Null Rod
+4 Force of Will
+2 Force of Negation
+1 Abrupt Decay
+1 Ancestral Recall
+1 Brainstorm
+1 Flash
 1 Flusterstorm
-1 Mindbreak Trap
+1 Mental Misstep
+1 Mystical Tutor
+1 Sink into Stupor
+1 Vampiric Tutor
+3 Thoughtseize
+2 Show and Tell
+1 Demonic Tutor
+1 Gaea's Blessing
+1 Gitaxian Probe
+1 Ponder
+1 Stock Up
+1 Time Walk
+1 Tinker
+4 Oath of Druids
+1 Oko, Thief of Crowns
+4 Forbidden Orchard
+2 Boseiju, Who Endures
+2 Misty Rainforest
+2 Polluted Delta
+2 Tropical Island
+1 Bayou
+1 Hedge Maze
+1 Island
+1 Underground Sea
 
-2 Null Rod
-1 Flusterstorm
-2 Consign to Memory
-2 Abrupt Decay
-3 Ravenous Trap
-1 Dismember
+1 Null Rod
+1 Force of Negation
+1 Oko, Thief of Crowns
+2 Ravenous Trap
+1 Assassin's Trophy
+1 Consign to Memory
+1 Damping Sphere
+1 Dress Down
+1 Hurkyl's Recall
+1 Mindbreak Trap
+1 Nature's Claim
 1 Serra's Emissary
-2 Force of Vigor
-1 Veil of Summer
+1 Soul-Guide Lantern
+1 Sphinx of the Steel Wind

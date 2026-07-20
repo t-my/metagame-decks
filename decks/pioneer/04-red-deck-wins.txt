@@ -1,23 +1,22 @@
 4 Burst Lightning
-2 Den of the Bugbear
 4 Emberheart Challenger
-3 Reckless Rage
-12 Mountain
-3 Ramunap Ruins
 4 Kumano Faces Kakkazan
-1 Rockface Village
-1 Sokenzan, Crucible of Defiance
 4 Sunspine Lynx
+15 Mountain
+2 Ramunap Ruins
+4 Reckless Rage
+2 Rockface Village
 4 Screaming Nemesis
+1 Sokenzan, Crucible of Defiance
 4 Monastery Swiftspear
+2 Den of the Bugbear
+4 Monstrous Rage
 4 Soul-Scar Mage
-2 Monstrous Rage
-4 Mutavault
-4 Bonecrusher Giant
+2 Robber of the Rich
 
+2 Flowstone Infusion
 2 Scorching Shot
-2 Redcap Melee
+3 Maelstrom Artisan
 4 Magebane Lizard
-2 Pyroclasm
-2 Weathered Runestone
-3 Flowstone Infusion
+1 Soul-Guide Lantern
+3 Pyroclasm

@@ -1,29 +1,32 @@
-4 Badgermole Cub
-4 Brightglass Gearhulk
-4 Leatherhead, Swamp Stalker
 4 Llanowar Elves
+3 Keen-Eyed Curator
 4 Pawpatch Recruit
-3 Spider Manifestation
+3 Brightglass Gearhulk
 3 Surrak, Elusive Hunter
-2 Jennifer Walters
-2 Ouroboroid
+2 Spider Manifestation
+4 Badgermole Cub
+4 Leatherhead, Swamp Stalker
+1 Hellcat, Undying Vigilante
 4 Practiced Offense
-1 Bushwhack
+1 Innkeeper's Talent
 2 Seam Rip
 1 Meltstrider's Resolve
-6 Forest
-4 Hushwood Verge
-4 Temple Garden
-3 Abandoned Air Temple
-2 Multiversal Passage
 2 Plains
+6 Forest
+4 Temple Garden
+4 Hushwood Verge
+2 Starting Town
+2 Multiversal Passage
+3 Abandoned Air Temple
 1 Ba Sing Se
 
+1 Innkeeper's Talent
+1 Seam Rip
 1 Meltstrider's Resolve
-3 Rest in Peace
+2 Rest in Peace
+1 Dawn's Truce
 3 Sheltered by Ghosts
-2 Dawn's Truce
-2 Elspeth, Storm Slayer
+2 Restoration Magic
+1 Skateboard
 2 Erode
-1 Balustrade Wurm
-1 Defend the Rider
+1 The Sentry, Golden Guardian

@@ -1,27 +1,25 @@
-3 Bloodstained Mire
-4 Karplusan Forest
-3 Forest
-4 Wooded Foothills
-4 Lava Dart
 5 Mountain
-3 Treetop Village
-4 Lightning Bolt
-4 Incinerate
-2 Naturalize
-4 Call of the Herd
-1 Rancor
-1 Seal of Fire
-2 Sylvan Library
-4 Grim Lavamancer
-4 Jackal Pup
-4 Mogg Fanatic
+4 Karplusan Forest
+4 Forest
+4 Wooded Foothills
+3 Wasteland
+2 Treetop Village
 4 Quirion Dryad
+4 Basking Rootwalla
+4 Grim Lavamancer
+4 Wild Mongrel
+3 Arrogant Wurm
+1 Squee, Goblin Nabob
+1 Anger
+1 Goblin Tinkerer
+4 Incinerate
+4 Survival of the Fittest
+4 Lightning Bolt
+4 Lava Dart
 
+4 Cave-In
+2 Red Elemental Blast
+3 Pyroblast
 2 Naturalize
-2 Tormod's Crypt
-4 Pyroblast
-1 Red Elemental Blast
-1 Hull Breach
-1 Simoon
-2 Ravenous Baloth
-2 Tranquil Domain
+1 Uktabi Orangutan
+3 Reverent Silence

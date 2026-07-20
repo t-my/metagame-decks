@@ -1,0 +1,43 @@
+4 Grim Monolith
+4 The Fantasticar
+4 The One Ring
+2 Manifold Key
+2 Mox Opal
+1 Black Lotus
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Vault
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sol Ring
+1 Vexing Bauble
+4 Force of Will
+4 Paradoxical Outcome
+4 Sink into Stupor
+1 Ancestral Recall
+1 Hurkyl's Recall
+4 Stock Up
+1 Gitaxian Probe
+1 Time Walk
+1 Tinker
+1 Karn, the Great Creator
+4 Ancient Tomb
+4 Mishra's Workshop
+1 City of Traitors
+1 Talon Gates of Madara
+1 Tolarian Academy
+
+1 Hurkyl's Recall
+2 Talon Gates of Madara
+3 Argentum Masticore
+2 Wurmcoil Engine
+1 Grafdigger's Cage
+1 Mental Misstep
+1 Pithing Needle
+1 Time Vault
+1 Tormod's Crypt
+1 Trinisphere
+1 Urza's Saga

@@ -1,32 +1,35 @@
-2 Wooded Foothills
-2 Artist's Talent
-1 Sacred Foundry
-3 Past in Flames
-4 Mountain
-4 Manamorphose
-1 Grapeshot
-1 Gemstone Caverns
-4 Hex Magic
-1 Elegant Parlor
-4 Desperate Ritual
-1 Commercial District
-4 Pyretic Ritual
 4 Ral, Monsoon Mage
-4 Reckless Impulse
 4 Ruby Medallion
-2 Bloodstained Mire
-2 Scalding Tarn
-1 Sunbaked Canyon
+4 Desperate Ritual
+4 Manamorphose
+4 Pyretic Ritual
 2 Valakut Awakening
-2 Wish
-3 Arid Mesa
+4 Hex Magic
+4 Reckless Impulse
 4 Wrenn's Resolve
+3 Past in Flames
+1 Grapeshot
+1 Prismatic Ending
+1 Wish
+1 Artist's Talent
+4 Mountain
+3 Arid Mesa
+3 Scalding Tarn
+2 Bloodstained Mire
+2 Sacred Foundry
+2 Wooded Foothills
+1 Elegant Parlor
+1 Gemstone Caverns
+1 Thundering Falls
 
 1 Past in Flames
 1 Grapeshot
-2 Brotherhood's End
-3 Orim's Chant
-1 Empty the Warrens
-4 Prismatic Ending
+3 Prismatic Ending
+2 Orim's Chant
 2 Wear/Tear
-1 Untimely Malfunction
+1 Brotherhood's End
+1 Fire Magic
+1 Galvanic Relay
+1 Meltdown
+1 Silence
+1 Voice of Victory
