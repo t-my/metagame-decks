@@ -1,40 +1,39 @@
-1 Brainstorm
-1 Mana Crypt
-1 Mental Misstep
-1 Mox Jet
 1 Mox Pearl
-1 Mox Sapphire
-1 Gitaxian Probe
-1 Time Walk
-1 Ponder
-1 Black Lotus
+1 Mox Jet
+1 Mental Misstep
 1 Sol Ring
+1 Lorien Revealed
+1 Mindbreak Trap
+1 Mana Crypt
+1 Black Lotus
+1 Mox Sapphire
 1 Ancestral Recall
-2 Lorien Revealed
-3 Stock Up
-4 Flow State
-4 Swords to Plowshares
+1 Brainstorm
+1 Treasure Cruise
+1 Time Walk
+1 Gitaxian Probe
+3 Ponder
 4 Force of Will
+4 Swords to Plowshares
 4 Force of Negation
 2 Lavinia, Azorius Renegade
+4 Seasoned Dungeoneer
 4 Clarion Conqueror
 4 Archon of Emeria
 1 Strip Mine
-1 Island
 1 Meticulous Archive
+1 Plains
 1 Urza's Saga
-1 Polluted Delta
+1 Island
 4 Flooded Strand
 4 Wasteland
 4 Tundra
 
-1 Energy Flux
-1 Stony Silence
-2 Null Rod
+2 Stony Silence
+1 Soul-Guide Lantern
+2 Light of Day
 1 Pithing Needle
-1 Containment Priest
-3 Consign to Memory
+3 Deafening Silence
+1 Grafdigger's Cage
 1 The Tabernacle at Pendrell Vale
-2 Erode
-2 Grafdigger's Cage
-1 Kataki, War's Wage
+4 Containment Priest

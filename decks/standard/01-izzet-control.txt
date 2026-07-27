@@ -1,30 +1,25 @@
-4 Gran-Gran
-1 Thor, God of Thunder
-4 Tablet of Discovery
-2 Three Steps Ahead
-4 Jeskai Revelation
-4 Accumulate Wisdom
-2 It'll Quench Ya!
-4 Combustion Technique
-4 Firebending Lesson
-3 Abandon Attachments
-3 Stock Up
-2 Iroh's Demonstration
-2 Island
-3 Spirebluff Canal
-3 Hallowed Fountain
-4 Steam Vents
-2 Sundown Pass
-4 Riverpyre Verge
-1 Mistrise Village
-4 Great Hall of the Biblioplex
-
-1 Spell Pierce
-2 Flashfreeze
-1 Spell Snare
-2 Day of Judgment
-1 Soul-Guide Lantern
 1 Ral, Crackling Wit
-1 Ghost Vacuum
-4 Price of Freedom
-2 Emeritus of Ideation
+2 Impractical Joke
+3 Winternight Stories
+3 Burst Lightning
+3 Spell Snare
+4 Opt
+4 Prismari Charm
+4 Flow State
+4 Sleight of Hand
+4 Sunderflock
+4 Hearth Elemental
+4 Eddymurk Crab
+2 Steam Vents
+4 Mountain
+4 Spirebluff Canal
+10 Island
+
+1 Soul-Guide Lantern
+3 Negate
+2 Annul
+2 Ghost Vacuum
+2 Hydro-Man, Fluid Felon
+2 Ill-Timed Explosion
+2 Slagstorm
+1 Pyroclasm

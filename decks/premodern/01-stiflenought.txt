@@ -1,27 +1,25 @@
+17 Island
 4 Phyrexian Dreadnought
-3 Meddling Mage
-4 Counterspell
-4 Foil
+1 Peek
+1 Misdirection
 4 Gush
-4 Stifle
-4 Vision Charm
-3 Opt
-2 Daze
 2 Flash of Insight
+4 Counterspell
 2 Impulse
-2 Swords to Plowshares
+4 Opt
+1 Chain of Vapor
+4 Foil
 4 Portent
-9 Island
-4 Flooded Strand
-4 Adarkar Wastes
-1 Plains
+1 Thwart
+2 Daze
+1 Powder Keg
+4 Vision Charm
+4 Stifle
 
-1 Meddling Mage
-2 Swords to Plowshares
+1 Chain of Vapor
+3 Annul
+3 Hydroblast
+3 Essence Flare
 2 Tsabo's Web
-2 Cursed Totem
-2 Blue Elemental Blast
-1 Hydroblast
-2 Armageddon
-2 Annul
-1 Disenchant
+2 Brain Freeze
+1 Blue Elemental Blast

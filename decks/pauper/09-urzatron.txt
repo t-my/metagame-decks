@@ -1,29 +1,30 @@
-4 Boulderbranch Golem
-4 Bramble Wurm
-4 Generous Ent
-4 Maelstrom Colossus
-4 Candy Trail
-4 Expedition Map
-4 Pinnacle Kill-Ship
-3 Bonder's Ornament
-2 Relic of Progenitus
 2 Crop Rotation
-2 Unfathomable Truths
-4 Ancient Stirrings
-1 Kaervek's Torch
-4 Urza's Mine
-4 Urza's Power Plant
+1 Generous Ent
+3 Unfathomable Truths
 4 Urza's Tower
-2 Crystal Grotto
 2 Forest
+3 Boulderbranch Golem
+4 Pinnacle Kill-Ship
+4 Bramble Wurm
+4 Barrels of Blasting Jelly
+4 Candy Trail
+4 Maelstrom Colossus
+2 Conduit Pylons
+3 Ancient Stirrings
+4 Expedition Map
+1 Vandalize
+1 Breath Weapon
+4 Urza's Power Plant
+4 Urza's Mine
 1 Bojuka Bog
-1 Wooded Ridgeline
-
-2 Relic of Progenitus
+3 Bonder's Ornament
+1 Call Damage Control
 1 Kaervek's Torch
-3 Breath Weapon
-3 Monstrous Emergence
-2 Heritage Reclamation
-2 Zuko's Exile
-1 Avenging Hunter
-1 Staunch Throneguard
+
+1 Vandalize
+2 Breath Weapon
+1 Call Damage Control
+4 Earth Rift
+2 Naturalize
+2 Swirling Sandstorm
+3 Faerie Macabre

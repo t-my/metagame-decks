@@ -1,0 +1,26 @@
+3 Smokestack
+4 Winter's Grasp
+4 Sphere of Resistance
+4 Thermokarst
+4 Wild Growth
+1 Reckless Charge
+3 Sylvan Library
+4 Terravore
+1 Volcanic Spray
+4 Oath of Druids
+4 Wooded Foothills
+4 Rishadan Port
+4 Treetop Village
+4 Mishra's Factory
+4 Wasteland
+4 Karplusan Forest
+3 Forest
+1 Mountain
+
+3 Call of the Herd
+1 Cursed Totem
+3 Naturalize
+2 Pyroclasm
+3 Pyroblast
+1 Tranquil Domain
+2 Earthquake

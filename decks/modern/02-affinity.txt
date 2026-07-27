@@ -1,17 +1,17 @@
 4 Kappa Cannoneer
 4 Pinnacle Emissary
-2 Emry, Lurker of the Loch
 1 Arcbound Ravager
 4 Engineered Explosives
 4 Mishra's Bauble
 4 Mox Opal
 4 Tormod's Crypt
 3 Claws of Gix
-1 Aether Spellbomb
 1 Pithing Needle
+1 Shadowspear
 1 Skateboard
 1 Welding Jar
 3 Metallic Rebuke
+1 Galvanic Blast
 1 Sink into Stupor
 2 Preordain
 4 Urza's Saga
@@ -19,16 +19,15 @@
 4 Fiery Islet
 4 Spirebluff Canal
 2 Island
-1 Shivan Reef
+2 Shivan Reef
 1 Steam Vents
 
-2 Consign to Memory
-2 Damping Sphere
 2 Galvanic Blast
-2 Swan Song
-2 Whipflare
-1 Blood Moon
-1 Hurkyl's Recall
+3 Consign to Memory
+3 Damping Sphere
+2 Emry, Lurker of the Loch
+1 Abrade
+1 Force of Negation
 1 Mystical Dispute
-1 Shadowspear
-1 Strix Serenade
+1 Swan Song
+1 Vexing Bauble
