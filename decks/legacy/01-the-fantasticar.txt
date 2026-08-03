@@ -1,28 +1,34 @@
-1 Collective Brutality
-3 Chrome Mox
-4 Animate Dead
-4 Dark Ritual
-4 Reanimate
-4 The Fantasticar
-4 Thoughtseize
-4 Unmask
-4 Lotus Petal
-4 Faithless Looting
-1 Raph & Mikey, Troublemakers
-1 Archon of Cruelty
-4 Griselbrand
-4 Atraxa, Grand Unifier
-1 Raucous Theater
+1 Cavern of Souls
+1 Flooded Strand
+1 Island
+1 Marsh Flats
+1 Misty Rainforest
+4 Polluted Delta
+1 Scalding Tarn
+1 Swamp
 1 Undercity Sewers
-1 Underground Sea
-2 Badlands
-3 Polluted Delta
-3 Swamp
-3 Bloodstained Mire
+4 Underground Sea
+1 Street Wraith
+1 Thassa's Oracle
+4 Brainstorm
+1 Consider
+4 Dark Ritual
+3 Daze
+4 Doomsday
+1 Edge of Autumn
+3 Flow State
+4 Force of Will
+4 Ponder
+3 Thoughtseize
+1 Lion's Eye Diamond
+4 Lotus Petal
+2 Mishra's Bauble
+4 The Fantasticar
 
-1 Snuff Out
-4 Dauthi Voidwalker
-2 Barrowgoyf
-2 Fatal Push
-4 Show and Tell
-2 Collective Brutality
+4 Barrowgoyf
+2 Consign to Memory
+1 Fatal Push
+2 Force of Negation
+1 Long Goodbye
+2 Murktide Regent
+3 Orcish Bowmasters

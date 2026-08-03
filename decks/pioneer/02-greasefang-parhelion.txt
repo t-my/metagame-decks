@@ -1,10 +1,11 @@
 1 Boseiju, Who Endures
 3 Darkbore Pathway
 4 Esika's Chariot
-3 Blooming Marsh
+4 Concealed Courtyard
 4 Greasefang, Okiba Boss
 4 Parhelion II
 1 Takenuma, Abandoned Mire
+3 Blooming Marsh
 1 Emptiness
 1 Brushland
 2 Bitter Triumph
@@ -23,7 +24,6 @@
 1 Godless Shrine
 3 Professor of Symbology
 1 Jennifer Walters
-4 Concealed Courtyard
 
 1 Vanishing Verse
 1 Ashiok, Dream Render
