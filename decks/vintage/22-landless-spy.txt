@@ -1,0 +1,39 @@
+1 Cabal Therapy
+1 Dread Return
+3 Balustrade Spy
+1 Thassa's Oracle
+4 Undercity Informer
+4 Chrome Mox
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Sapphire
+1 Mox Ruby
+4 Pact of Negation
+1 Black Lotus
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Vault
+4 Fell the Profane
+1 Cabal Ritual
+4 Sink into Stupor
+1 Boggart Trawler
+4 Beseech the Mirror
+4 Chancellor of the Annex
+1 Demonic Tutor
+4 Dark Ritual
+4 Narcomoeba
+1 Sol Ring
+4 Force of Will
+1 Hydroelectric Specimen
+
+1 Goblin Charbelcher
+1 Karn, the Great Creator
+1 Archon of Absolution
+1 Vexing Bauble
+1 Void Mirror
+1 Sheoldred, the Apocalypse
+1 The One Ring
+1 The Fantasticar
+3 Kaito, Bane of Nightmares
+4 Psychic Frog

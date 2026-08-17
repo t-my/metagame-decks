@@ -1,5 +1,5 @@
 {
-  "updated" : "2026-08-03",
+  "updated" : "2026-08-17",
   "formats" : [ {
     "id" : "commander",
     "name" : "Commander",
@@ -212,297 +212,313 @@
     "id" : "legacy",
     "name" : "Legacy",
     "decks" : [ {
-      "file" : "01-the-fantasticar.txt",
-      "name" : "The Fantasticar",
-      "card" : "Polluted Delta"
+      "file" : "01-dimir-tempo.txt",
+      "name" : "Dimir Tempo",
+      "card" : "Orcish Bowmasters"
     }, {
       "file" : "02-uwx-control.txt",
       "name" : "Uwx Control",
       "card" : "Flooded Strand"
     }, {
-      "file" : "03-reanimator.txt",
-      "name" : "Reanimator",
-      "card" : "Unmask"
+      "file" : "03-the-fantasticar.txt",
+      "name" : "The Fantasticar",
+      "card" : "Burning Wish"
     }, {
-      "file" : "04-show-and-tell.txt",
-      "name" : "Show And Tell",
-      "card" : "Force of Will"
-    }, {
-      "file" : "05-boros-aggro.txt",
+      "file" : "04-boros-aggro.txt",
       "name" : "Boros Aggro",
-      "card" : "Swords to Plowshares"
+      "card" : "Guide of Souls"
     }, {
-      "file" : "06-lands.txt",
-      "name" : "Lands",
-      "card" : "Life from the Loam"
-    }, {
-      "file" : "07-ur-tempo.txt",
+      "file" : "05-ur-tempo.txt",
       "name" : "Ur Tempo",
-      "card" : "Ponder"
+      "card" : "Dragon's Rage Channeler"
     }, {
-      "file" : "08-engineer-welder-cam.txt",
-      "name" : "Engineer Welder Cam",
-      "card" : "Emry, Lurker of the Loch"
-    }, {
-      "file" : "09-aluren.txt",
-      "name" : "Aluren",
-      "card" : "Aluren"
-    }, {
-      "file" : "10-eldrazi-aggro.txt",
+      "file" : "06-eldrazi-aggro.txt",
       "name" : "Eldrazi Aggro",
-      "card" : "Eldrazi Linebreaker"
+      "card" : "Glaring Fleshraker"
     }, {
-      "file" : "11-death-taxes.txt",
-      "name" : "Death Taxes",
-      "card" : "Arid Mesa"
+      "file" : "07-reanimator.txt",
+      "name" : "Reanimator",
+      "card" : "Griselbrand"
     }, {
-      "file" : "12-doomsday.txt",
-      "name" : "Doomsday",
-      "card" : "Lotus Petal"
-    }, {
-      "file" : "13-hogaak.txt",
-      "name" : "Hogaak",
-      "card" : "Fatal Push"
-    }, {
-      "file" : "14-artifacts-blue.txt",
-      "name" : "Artifacts Blue",
-      "card" : "Emry, Lurker of the Loch"
-    }, {
-      "file" : "15-maverick.txt",
-      "name" : "Maverick",
-      "card" : "Wasteland"
-    }, {
-      "file" : "16-dragon-stompy.txt",
-      "name" : "Dragon Stompy",
-      "card" : "Broadside Bombardiers"
-    }, {
-      "file" : "17-grixis-control.txt",
-      "name" : "Grixis Control",
-      "card" : "Brainstorm"
-    }, {
-      "file" : "18-artifacts-prison.txt",
-      "name" : "Artifacts Prison",
+      "file" : "08-show-and-tell.txt",
+      "name" : "Show And Tell",
       "card" : "Ancient Tomb"
     }, {
-      "file" : "19-storm.txt",
-      "name" : "Storm",
-      "card" : "Chrome Mox"
+      "file" : "09-initiative-stompy.txt",
+      "name" : "Initiative Stompy",
+      "card" : "Chalice of the Void"
     }, {
-      "file" : "20-death-s-shadow.txt",
-      "name" : "Death S Shadow",
-      "card" : "Death's Shadow"
+      "file" : "10-death-taxes.txt",
+      "name" : "Death Taxes",
+      "card" : "Karakas"
     }, {
-      "file" : "21-bant-control.txt",
-      "name" : "Bant Control",
-      "card" : "Flooded Strand"
+      "file" : "11-lands.txt",
+      "name" : "Lands",
+      "card" : "Crop Rotation"
+    }, {
+      "file" : "12-mardu-aggro.txt",
+      "name" : "Mardu Aggro",
+      "card" : "Ajani, Nacatl Pariah"
+    }, {
+      "file" : "13-stoneblade.txt",
+      "name" : "Stoneblade",
+      "card" : "Stoneforge Mystic"
+    }, {
+      "file" : "14-cloudpost-tron-ramp.txt",
+      "name" : "Cloudpost Tron Ramp",
+      "card" : "Force of Negation"
+    }, {
+      "file" : "15-doomsday.txt",
+      "name" : "Doomsday",
+      "card" : "Tamiyo, Inquisitive Student"
+    }, {
+      "file" : "16-aluren.txt",
+      "name" : "Aluren",
+      "card" : "Formidable Speaker"
+    }, {
+      "file" : "17-engineer-welder-cam.txt",
+      "name" : "Engineer Welder Cam",
+      "card" : "Goblin Welder"
+    }, {
+      "file" : "18-artifacts-blue.txt",
+      "name" : "Artifacts Blue",
+      "card" : "Ancient Tomb"
+    }, {
+      "file" : "19-4-5c-control.txt",
+      "name" : "4 5c Control",
+      "card" : "Brainstorm"
+    }, {
+      "file" : "20-artifacts-prison.txt",
+      "name" : "Artifacts Prison",
+      "card" : "Karn, the Great Creator"
+    }, {
+      "file" : "21-grixis-control.txt",
+      "name" : "Grixis Control",
+      "card" : "Orcish Bowmasters"
+    }, {
+      "file" : "22-elves.txt",
+      "name" : "Elves",
+      "card" : "Green Sun's Zenith"
+    }, {
+      "file" : "23-hogaak.txt",
+      "name" : "Hogaak",
+      "card" : "Wight of the Reliquary"
+    }, {
+      "file" : "24-mystic-forge.txt",
+      "name" : "Mystic Forge",
+      "card" : "Glaring Fleshraker"
+    }, {
+      "file" : "25-dragon-stompy.txt",
+      "name" : "Dragon Stompy",
+      "card" : "Broadside Bombardiers"
     } ]
   }, {
     "id" : "modern",
     "name" : "Modern",
     "decks" : [ {
-      "file" : "01-instant-reanimator.txt",
-      "name" : "Instant Reanimator",
-      "card" : "Atraxa, Grand Unifier"
-    }, {
-      "file" : "02-broodscale-bloodchief.txt",
-      "name" : "Broodscale Bloodchief",
-      "card" : "Blade of the Bloodchief"
-    }, {
-      "file" : "03-boros-aggro.txt",
-      "name" : "Boros Aggro",
-      "card" : "Flooded Strand"
-    }, {
-      "file" : "04-eldrazi-ramp.txt",
-      "name" : "Eldrazi Ramp",
-      "card" : "Disciple of Freyalise"
-    }, {
-      "file" : "05-ur-aggro.txt",
-      "name" : "Ur Aggro",
-      "card" : "Scalding Tarn"
-    }, {
-      "file" : "06-uw-control.txt",
-      "name" : "Uw Control",
-      "card" : "Flooded Strand"
-    }, {
-      "file" : "07-dimir-control.txt",
-      "name" : "Dimir Control",
-      "card" : "Polluted Delta"
-    }, {
-      "file" : "08-urzatron.txt",
-      "name" : "Urzatron",
-      "card" : "Devourer of Destiny"
-    }, {
-      "file" : "09-blink.txt",
-      "name" : "Blink",
-      "card" : "Flooded Strand"
-    }, {
-      "file" : "10-affinity.txt",
-      "name" : "Affinity",
-      "card" : "Kappa Cannoneer"
-    }, {
-      "file" : "11-hollow-one.txt",
-      "name" : "Hollow One",
-      "card" : "Burning Inquiry"
-    }, {
-      "file" : "12-creatures-toolbox.txt",
+      "file" : "01-creatures-toolbox.txt",
       "name" : "Creatures Toolbox",
       "card" : "Devoted Druid"
     }, {
-      "file" : "13-allosaurus-combo.txt",
-      "name" : "Allosaurus Combo",
-      "card" : "Allosaurus Rider"
+      "file" : "02-broodscale-bloodchief.txt",
+      "name" : "Broodscale Bloodchief",
+      "card" : "Sowing Mycospawn"
     }, {
-      "file" : "14-reanimator.txt",
-      "name" : "Reanimator",
-      "card" : "Unearth"
+      "file" : "03-ur-aggro.txt",
+      "name" : "Ur Aggro",
+      "card" : "Expressive Iteration"
     }, {
-      "file" : "15-4-5c-aggro.txt",
+      "file" : "04-instant-reanimator.txt",
+      "name" : "Instant Reanimator",
+      "card" : "Atraxa, Grand Unifier"
+    }, {
+      "file" : "05-dimir-control.txt",
+      "name" : "Dimir Control",
+      "card" : "Polluted Delta"
+    }, {
+      "file" : "06-blink.txt",
+      "name" : "Blink",
+      "card" : "Fatal Push"
+    }, {
+      "file" : "07-boros-aggro.txt",
+      "name" : "Boros Aggro",
+      "card" : "Galvanic Discharge"
+    }, {
+      "file" : "08-affinity.txt",
+      "name" : "Affinity",
+      "card" : "Tamiyo, Inquisitive Student"
+    }, {
+      "file" : "09-eldrazi-ramp.txt",
+      "name" : "Eldrazi Ramp",
+      "card" : "Fanatic of Rhonas"
+    }, {
+      "file" : "10-hollow-one.txt",
+      "name" : "Hollow One",
+      "card" : "Detective's Phoenix"
+    }, {
+      "file" : "11-4-5c-aggro.txt",
       "name" : "4 5c Aggro",
-      "card" : "Quantum Riddler"
+      "card" : "Leyline Binding"
     }, {
-      "file" : "16-living-end.txt",
-      "name" : "Living End",
-      "card" : "Subtlety"
+      "file" : "12-uw-control.txt",
+      "name" : "Uw Control",
+      "card" : "Flooded Strand"
     }, {
-      "file" : "17-ruby-storm.txt",
-      "name" : "Ruby Storm",
-      "card" : "Wrenn's Resolve"
+      "file" : "13-urzatron.txt",
+      "name" : "Urzatron",
+      "card" : "Glaring Fleshraker"
     }, {
-      "file" : "18-amulet-titan.txt",
-      "name" : "Amulet Titan",
-      "card" : "Spelunking"
-    }, {
-      "file" : "19-boros-ponza.txt",
-      "name" : "Boros Ponza",
-      "card" : "Cleansing Wildfire"
-    }, {
-      "file" : "20-cosmogoyf.txt",
-      "name" : "Cosmogoyf",
-      "card" : "Cosmogoyf"
-    }, {
-      "file" : "21-simic-birthing-ritual.txt",
-      "name" : "Simic Birthing Ritual",
-      "card" : "Abhorrent Oculus"
-    }, {
-      "file" : "22-esper-control.txt",
+      "file" : "14-esper-control.txt",
       "name" : "Esper Control",
       "card" : "Polluted Delta"
     }, {
-      "file" : "23-landless.txt",
+      "file" : "15-living-end.txt",
+      "name" : "Living End",
+      "card" : "Curator of Mysteries"
+    }, {
+      "file" : "16-reanimator.txt",
+      "name" : "Reanimator",
+      "card" : "Archon of Cruelty"
+    }, {
+      "file" : "17-allosaurus-combo.txt",
+      "name" : "Allosaurus Combo",
+      "card" : "Allosaurus Rider"
+    }, {
+      "file" : "18-boros-ponza.txt",
+      "name" : "Boros Ponza",
+      "card" : "Cleansing Wildfire"
+    }, {
+      "file" : "19-amulet-titan.txt",
+      "name" : "Amulet Titan",
+      "card" : "Arboreal Grazer"
+    }, {
+      "file" : "20-ruby-storm.txt",
+      "name" : "Ruby Storm",
+      "card" : "Pyretic Ritual"
+    }, {
+      "file" : "21-landless.txt",
       "name" : "Landless",
-      "card" : "Thundertrap Trainer"
+      "card" : "Goblin Charbelcher"
     }, {
-      "file" : "24-song-of-creation.txt",
+      "file" : "22-cosmogoyf.txt",
+      "name" : "Cosmogoyf",
+      "card" : "Gemstone Mine"
+    }, {
+      "file" : "23-simic-birthing-ritual.txt",
+      "name" : "Simic Birthing Ritual",
+      "card" : "Birthing Ritual"
+    }, {
+      "file" : "24-mono-black-aggro.txt",
+      "name" : "Mono Black Aggro",
+      "card" : "Mishra's Bauble"
+    }, {
+      "file" : "25-song-of-creation.txt",
       "name" : "Song Of Creation",
-      "card" : "Mox Amber"
-    }, {
-      "file" : "25-eldrazi-aggro.txt",
-      "name" : "Eldrazi Aggro",
-      "card" : "Eldrazi Linebreaker"
+      "card" : "Mishra's Bauble"
     } ]
   }, {
     "id" : "pauper",
     "name" : "Pauper",
     "decks" : [ {
-      "file" : "01-affinity.txt",
-      "name" : "Affinity",
-      "card" : "Blood Fountain"
-    }, {
-      "file" : "02-red-deck-wins.txt",
-      "name" : "Red Deck Wins",
-      "card" : "Lightning Bolt"
-    }, {
-      "file" : "03-dimir-control.txt",
-      "name" : "Dimir Control",
-      "card" : "Lorien Revealed"
-    }, {
-      "file" : "04-gates.txt",
-      "name" : "Gates",
-      "card" : "Outlaw Medic"
-    }, {
-      "file" : "05-mono-blue-aggro.txt",
+      "file" : "01-mono-blue-aggro.txt",
       "name" : "Mono Blue Aggro",
-      "card" : "Faerie Miscreant"
+      "card" : "Thought Scour"
     }, {
-      "file" : "06-burn.txt",
+      "file" : "02-burn.txt",
       "name" : "Burn",
-      "card" : "Fiery Temper"
+      "card" : "Highway Robbery"
     }, {
-      "file" : "07-jund.txt",
+      "file" : "03-affinity.txt",
+      "name" : "Affinity",
+      "card" : "Myr Enforcer"
+    }, {
+      "file" : "04-jund.txt",
       "name" : "Jund",
-      "card" : "Cast Down"
+      "card" : "Cleansing Wildfire"
     }, {
-      "file" : "08-gruul-aggro.txt",
-      "name" : "Gruul Aggro",
-      "card" : "Khalni Garden"
-    }, {
-      "file" : "09-urzatron.txt",
+      "file" : "05-urzatron.txt",
       "name" : "Urzatron",
-      "card" : "Barrels of Blasting Jelly"
+      "card" : "Giant's Boulder"
+    }, {
+      "file" : "06-red-deck-wins.txt",
+      "name" : "Red Deck Wins",
+      "card" : "Chain Lightning"
+    }, {
+      "file" : "07-dimir-control.txt",
+      "name" : "Dimir Control",
+      "card" : "Brainstorm"
+    }, {
+      "file" : "08-weenie-white.txt",
+      "name" : "Weenie White",
+      "card" : "Lunarch Veteran"
+    }, {
+      "file" : "09-gruul-aggro.txt",
+      "name" : "Gruul Aggro",
+      "card" : "Boarding Party"
     }, {
       "file" : "10-ephemerate.txt",
       "name" : "Ephemerate",
-      "card" : "Counterspell"
+      "card" : "Sunscape Familiar"
     }, {
-      "file" : "11-elves.txt",
-      "name" : "Elves",
-      "card" : "Birchlore Rangers"
-    }, {
-      "file" : "12-weenie-white.txt",
-      "name" : "Weenie White",
-      "card" : "Kor Skyfisher"
-    }, {
-      "file" : "13-rakdos-aggro.txt",
-      "name" : "Rakdos Aggro",
-      "card" : "Kitchen Imp"
-    }, {
-      "file" : "14-balustrade-spy.txt",
+      "file" : "11-balustrade-spy.txt",
       "name" : "Balustrade Spy",
-      "card" : "Generous Ent"
+      "card" : "Balustrade Spy"
+    }, {
+      "file" : "12-elves.txt",
+      "name" : "Elves",
+      "card" : "Lead the Stampede"
+    }, {
+      "file" : "13-gates.txt",
+      "name" : "Gates",
+      "card" : "Prismatic Strands"
+    }, {
+      "file" : "14-golgari-jund-garden.txt",
+      "name" : "Golgari Jund Garden",
+      "card" : "Ichor Wellspring"
     }, {
       "file" : "15-aura-aggro.txt",
       "name" : "Aura Aggro",
       "card" : "Gladecover Scout"
     }, {
-      "file" : "16-mono-black-aggro.txt",
-      "name" : "Mono Black Aggro",
-      "card" : "Cuombajj Witches"
+      "file" : "16-rakdos-aggro.txt",
+      "name" : "Rakdos Aggro",
+      "card" : "Fiery Temper"
     }, {
-      "file" : "17-golgari-jund-garden.txt",
-      "name" : "Golgari Jund Garden",
-      "card" : "Eviscerator's Insight"
-    }, {
-      "file" : "18-mono-blue-terror.txt",
+      "file" : "17-mono-blue-terror.txt",
       "name" : "Mono Blue Terror",
-      "card" : "Mental Note"
+      "card" : "Tolarian Terror"
     }, {
-      "file" : "19-turbo-fog.txt",
-      "name" : "Turbo Fog",
-      "card" : "Simic Growth Chamber"
+      "file" : "18-walls-combo.txt",
+      "name" : "Walls Combo",
+      "card" : "Saruli Caretaker"
     }, {
-      "file" : "20-rg-ruby-storm.txt",
-      "name" : "Rg Ruby Storm",
-      "card" : "Electric Revelation"
-    }, {
-      "file" : "21-reaping-the-song.txt",
-      "name" : "Reaping The Song",
-      "card" : "Vault of Whispers"
-    }, {
-      "file" : "22-tireless-tribe.txt",
-      "name" : "Tireless Tribe",
-      "card" : "Aurora Eidolon"
-    }, {
-      "file" : "23-mono-green-aggro.txt",
-      "name" : "Mono Green Aggro",
-      "card" : "Hickory Woodlot"
-    }, {
-      "file" : "24-orzhov-aggro.txt",
+      "file" : "19-orzhov-aggro.txt",
       "name" : "Orzhov Aggro",
       "card" : "Refurbished Familiar"
     }, {
+      "file" : "20-mono-black-aggro.txt",
+      "name" : "Mono Black Aggro",
+      "card" : "Bloodthrone Vampire"
+    }, {
+      "file" : "21-turbo-fog.txt",
+      "name" : "Turbo Fog",
+      "card" : "Growth Spiral"
+    }, {
+      "file" : "22-rg-ruby-storm.txt",
+      "name" : "Rg Ruby Storm",
+      "card" : "Goblin Anarchomancer"
+    }, {
+      "file" : "23-reaping-the-song.txt",
+      "name" : "Reaping The Song",
+      "card" : "Barren Moor"
+    }, {
+      "file" : "24-infect.txt",
+      "name" : "Infect",
+      "card" : "Relic's Roar"
+    }, {
       "file" : "25-ur-control.txt",
       "name" : "Ur Control",
-      "card" : "Tolarian Terror"
+      "card" : "Brainstorm"
     } ]
   }, {
     "id" : "pioneer",
@@ -512,93 +528,73 @@
       "name" : "Ur Aggro",
       "card" : "Academic Dispute"
     }, {
-      "file" : "02-greasefang-parhelion.txt",
-      "name" : "Greasefang Parhelion",
-      "card" : "Esika's Chariot"
-    }, {
-      "file" : "03-red-deck-wins.txt",
-      "name" : "Red Deck Wins",
-      "card" : "Emberheart Challenger"
-    }, {
-      "file" : "04-the-rock.txt",
+      "file" : "02-the-rock.txt",
       "name" : "The Rock",
-      "card" : "Badgermole Cub"
+      "card" : "Overgrown Tomb"
     }, {
-      "file" : "05-uw-control.txt",
+      "file" : "03-greasefang-parhelion.txt",
+      "name" : "Greasefang Parhelion",
+      "card" : "Blooming Marsh"
+    }, {
+      "file" : "04-golgari-aggro.txt",
+      "name" : "Golgari Aggro",
+      "card" : "Nature's Rhythm"
+    }, {
+      "file" : "05-red-deck-wins.txt",
+      "name" : "Red Deck Wins",
+      "card" : "Burst Lightning"
+    }, {
+      "file" : "06-uw-control.txt",
       "name" : "Uw Control",
       "card" : "Consult the Star Charts"
     }, {
-      "file" : "06-izzet-control.txt",
+      "file" : "07-izzet-control.txt",
       "name" : "Izzet Control",
-      "card" : "It'll Quench Ya!"
+      "card" : "Willowrush Verge"
     }, {
-      "file" : "07-dimir-control.txt",
+      "file" : "08-dimir-control.txt",
       "name" : "Dimir Control",
-      "card" : "Kaito, Bane of Nightmares"
+      "card" : "Boomerang Basics"
     }, {
-      "file" : "08-boros-aggro.txt",
-      "name" : "Boros Aggro",
-      "card" : "Battlefield Forge"
-    }, {
-      "file" : "09-azorius-tempo-spirit-aggro.txt",
-      "name" : "Azorius Tempo Spirit Aggro",
-      "card" : "Adarkar Wastes"
-    }, {
-      "file" : "10-selesnya-aggro.txt",
-      "name" : "Selesnya Aggro",
-      "card" : "Razorverge Thicket"
-    }, {
-      "file" : "11-golgari-aggro.txt",
-      "name" : "Golgari Aggro",
-      "card" : "Dredger's Insight"
-    }, {
-      "file" : "12-devotion-to-green.txt",
-      "name" : "Devotion To Green",
-      "card" : "Badgermole Cub"
-    }, {
-      "file" : "13-dimir-aggro.txt",
-      "name" : "Dimir Aggro",
-      "card" : "Kaito, Bane of Nightmares"
-    }, {
-      "file" : "14-jund.txt",
-      "name" : "Jund",
-      "card" : "Bloodtithe Harvester"
-    }, {
-      "file" : "15-mono-black-control.txt",
-      "name" : "Mono Black Control",
-      "card" : "Thoughtseize"
-    }, {
-      "file" : "16-discover.txt",
-      "name" : "Discover",
-      "card" : "Spark Double"
-    }, {
-      "file" : "17-elves.txt",
-      "name" : "Elves",
-      "card" : "Llanowar Elves"
-    }, {
-      "file" : "18-arclight-phoenix.txt",
+      "file" : "09-arclight-phoenix.txt",
       "name" : "Arclight Phoenix",
       "card" : "Arclight Phoenix"
     }, {
-      "file" : "19-5c-legends-aggro.txt",
-      "name" : "5c Legends Aggro",
-      "card" : "Relic of Legends"
+      "file" : "10-selesnya-aggro.txt",
+      "name" : "Selesnya Aggro",
+      "card" : "Collected Company"
     }, {
-      "file" : "20-weenie-white.txt",
-      "name" : "Weenie White",
-      "card" : "Mutavault"
+      "file" : "11-lotus-field.txt",
+      "name" : "Lotus Field",
+      "card" : "Lumra, Bellow of the Woods"
     }, {
-      "file" : "21-auras.txt",
-      "name" : "Auras",
-      "card" : "Light-Paws, Emperor's Voice"
+      "file" : "12-dimir-aggro.txt",
+      "name" : "Dimir Aggro",
+      "card" : "Kaito, Bane of Nightmares"
     }, {
-      "file" : "22-niv-mizzet-reborn.txt",
-      "name" : "Niv Mizzet Reborn",
-      "card" : "Sylvan Caryatid"
+      "file" : "13-devotion-to-green.txt",
+      "name" : "Devotion To Green",
+      "card" : "Nature's Rhythm"
     }, {
-      "file" : "23-green-ramp.txt",
-      "name" : "Green Ramp",
-      "card" : "Castle Garenbrig"
+      "file" : "14-rakdos-aggro.txt",
+      "name" : "Rakdos Aggro",
+      "card" : "Blackcleave Cliffs"
+    }, {
+      "file" : "15-azorius-tempo-spirit-aggro.txt",
+      "name" : "Azorius Tempo Spirit Aggro",
+      "card" : "March of Otherworldly Light"
+    }, {
+      "file" : "16-enigmatic-incarnation.txt",
+      "name" : "Enigmatic Incarnation",
+      "card" : "Abrupt Decay"
+    }, {
+      "file" : "17-boros-control.txt",
+      "name" : "Boros Control",
+      "card" : "Erode"
+    }, {
+      "file" : "18-retraction-helix.txt",
+      "name" : "Retraction Helix",
+      "card" : "Rona, Herald of Invasion"
     } ]
   }, {
     "id" : "premodern",
@@ -606,259 +602,291 @@
     "decks" : [ {
       "file" : "01-stiflenought.txt",
       "name" : "Stiflenought",
-      "card" : "Phyrexian Dreadnought"
+      "card" : "Counterspell"
     }, {
-      "file" : "02-enchantress.txt",
+      "file" : "02-goblins.txt",
+      "name" : "Goblins",
+      "card" : "Mogg Fanatic"
+    }, {
+      "file" : "03-enchantress.txt",
       "name" : "Enchantress",
+      "card" : "Brushland"
+    }, {
+      "file" : "04-sligh-rdw.txt",
+      "name" : "Sligh Rdw",
+      "card" : "Mishra's Factory"
+    }, {
+      "file" : "05-terrageddon.txt",
+      "name" : "Terrageddon",
       "card" : "Windswept Heath"
     }, {
-      "file" : "03-sligh-rdw.txt",
-      "name" : "Sligh Rdw",
-      "card" : "Jackal Pup"
+      "file" : "06-replenish.txt",
+      "name" : "Replenish",
+      "card" : "Attunement"
     }, {
-      "file" : "04-mono-black-aggro.txt",
-      "name" : "Mono Black Aggro",
-      "card" : "Duress"
-    }, {
-      "file" : "05-landstill-uw-control.txt",
+      "file" : "07-landstill-uw-control.txt",
       "name" : "Landstill Uw Control",
-      "card" : "Impulse"
+      "card" : "Counterspell"
     }, {
-      "file" : "06-goblins.txt",
-      "name" : "Goblins",
-      "card" : "Goblin Matron"
+      "file" : "08-mono-black-aggro.txt",
+      "name" : "Mono Black Aggro",
+      "card" : "Hypnotic Specter"
     }, {
-      "file" : "07-oath-of-druids.txt",
+      "file" : "09-oath-of-druids.txt",
       "name" : "Oath Of Druids",
       "card" : "Swords to Plowshares"
     }, {
-      "file" : "08-full-english-breakfast.txt",
-      "name" : "Full English Breakfast",
-      "card" : "Birds of Paradise"
+      "file" : "10-stasis.txt",
+      "name" : "Stasis",
+      "card" : "Black Vise"
     }, {
-      "file" : "09-terrageddon.txt",
-      "name" : "Terrageddon",
-      "card" : "Swords to Plowshares"
+      "file" : "11-elves.txt",
+      "name" : "Elves",
+      "card" : "Survival of the Fittest"
     }, {
-      "file" : "10-survival.txt",
+      "file" : "12-survival.txt",
       "name" : "Survival",
       "card" : "Swords to Plowshares"
     }, {
-      "file" : "11-replenish.txt",
-      "name" : "Replenish",
-      "card" : "Ancient Tomb"
-    }, {
-      "file" : "12-psychatog.txt",
+      "file" : "13-psychatog.txt",
       "name" : "Psychatog",
-      "card" : "Psychatog"
+      "card" : "Accumulated Knowledge"
     }, {
-      "file" : "13-stasis.txt",
-      "name" : "Stasis",
-      "card" : "Forsaken City"
+      "file" : "14-full-english-breakfast.txt",
+      "name" : "Full English Breakfast",
+      "card" : "Birds of Paradise"
     }, {
-      "file" : "14-rg-aggro.txt",
-      "name" : "Rg Aggro",
-      "card" : "Lightning Bolt"
-    }, {
-      "file" : "15-madness-threshold.txt",
-      "name" : "Madness Threshold",
-      "card" : "Survival of the Fittest"
+      "file" : "15-white-weenie.txt",
+      "name" : "White Weenie",
+      "card" : "Mother of Runes"
     }, {
       "file" : "16-mono-black-control.txt",
       "name" : "Mono Black Control",
-      "card" : "Mishra's Factory"
+      "card" : "Funeral Charm"
     }, {
       "file" : "17-the-rock.txt",
       "name" : "The Rock",
-      "card" : "Llanowar Wastes"
+      "card" : "Duress"
     }, {
-      "file" : "18-elves.txt",
-      "name" : "Elves",
-      "card" : "Llanowar Elves"
+      "file" : "18-bw-control.txt",
+      "name" : "Bw Control",
+      "card" : "Vindicate"
     }, {
-      "file" : "19-grow.txt",
+      "file" : "19-the-solution-uw-uwr.txt",
+      "name" : "The Solution Uw Uwr",
+      "card" : "Wasteland"
+    }, {
+      "file" : "20-madness-threshold.txt",
+      "name" : "Madness Threshold",
+      "card" : "Careful Study"
+    }, {
+      "file" : "21-grow.txt",
       "name" : "Grow",
       "card" : "Sleight of Hand"
     }, {
-      "file" : "20-mono-red-control.txt",
+      "file" : "22-mono-red-control.txt",
       "name" : "Mono Red Control",
-      "card" : "Mishra's Factory"
-    }, {
-      "file" : "21-bw-control.txt",
-      "name" : "Bw Control",
-      "card" : "Gerrard's Verdict"
-    }, {
-      "file" : "22-reanimator.txt",
-      "name" : "Reanimator",
-      "card" : "Reanimate"
+      "card" : "Powder Keg"
     }, {
       "file" : "23-aluren.txt",
       "name" : "Aluren",
-      "card" : "Raven Familiar"
+      "card" : "Aluren"
     }, {
-      "file" : "24-white-weenie.txt",
-      "name" : "White Weenie",
-      "card" : "Exalted Angel"
+      "file" : "24-angry-ghoul.txt",
+      "name" : "Angry Ghoul",
+      "card" : "Hermit Druid"
     }, {
-      "file" : "25-deadguy-ale.txt",
-      "name" : "Deadguy Ale",
-      "card" : "Dark Ritual"
+      "file" : "25-en-kor-life.txt",
+      "name" : "En Kor Life",
+      "card" : "Eladamri's Call"
     } ]
   }, {
     "id" : "standard",
     "name" : "Standard",
     "decks" : [ {
-      "file" : "01-izzet-control.txt",
-      "name" : "Izzet Control",
-      "card" : "Spirebluff Canal"
-    }, {
-      "file" : "02-ur-aggro.txt",
+      "file" : "01-ur-aggro.txt",
       "name" : "Ur Aggro",
-      "card" : "Riverpyre Verge"
+      "card" : "Steam Vents"
     }, {
-      "file" : "03-selesnya-aggro.txt",
-      "name" : "Selesnya Aggro",
-      "card" : "Leatherhead, Swamp Stalker"
-    }, {
-      "file" : "04-reanimator.txt",
-      "name" : "Reanimator",
-      "card" : "Deceit"
-    }, {
-      "file" : "05-mono-green-aggro.txt",
+      "file" : "02-mono-green-aggro.txt",
       "name" : "Mono Green Aggro",
-      "card" : "Badgermole Cub"
+      "card" : "Mightform Harmonizer"
     }, {
-      "file" : "06-4-5c-control.txt",
+      "file" : "03-izzet-control.txt",
+      "name" : "Izzet Control",
+      "card" : "Hearth Elemental"
+    }, {
+      "file" : "04-4-5c-control.txt",
       "name" : "4 5c Control",
       "card" : "Tablet of Discovery"
     }, {
-      "file" : "07-jeskai-control.txt",
+      "file" : "05-orzhov-aggro.txt",
+      "name" : "Orzhov Aggro",
+      "card" : "Amalia Benavides Aguirre"
+    }, {
+      "file" : "06-jeskai-control.txt",
       "name" : "Jeskai Control",
-      "card" : "Steam Vents"
+      "card" : "Abandon Attachments"
+    }, {
+      "file" : "07-reanimator.txt",
+      "name" : "Reanimator",
+      "card" : "Bringer of the Last Gift"
     }, {
       "file" : "08-azorius-aggro.txt",
       "name" : "Azorius Aggro",
-      "card" : "Daydream"
+      "card" : "Floodfarm Verge"
     }, {
-      "file" : "09-dimir-control.txt",
-      "name" : "Dimir Control",
-      "card" : "Requiting Hex"
-    }, {
-      "file" : "10-boros-aggro.txt",
-      "name" : "Boros Aggro",
-      "card" : "Sunbillow Verge"
-    }, {
-      "file" : "11-4-5c-aggro.txt",
-      "name" : "4 5c Aggro",
-      "card" : "Badgermole Cub"
-    }, {
-      "file" : "12-orzhov-aggro.txt",
-      "name" : "Orzhov Aggro",
-      "card" : "Case of the Uneaten Feast"
-    }, {
-      "file" : "13-uw-control.txt",
-      "name" : "Uw Control",
-      "card" : "No More Lies"
-    }, {
-      "file" : "14-mardu-control.txt",
-      "name" : "Mardu Control",
-      "card" : "Weapons Manufacturing"
-    }, {
-      "file" : "15-naya-aggro.txt",
-      "name" : "Naya Aggro",
-      "card" : "Practiced Offense"
-    }, {
-      "file" : "16-esper-aggro.txt",
-      "name" : "Esper Aggro",
-      "card" : "Starting Town"
-    }, {
-      "file" : "17-golgari-aggro.txt",
-      "name" : "Golgari Aggro",
-      "card" : "Insidious Roots"
-    }, {
-      "file" : "18-dimir-aggro.txt",
+      "file" : "09-dimir-aggro.txt",
       "name" : "Dimir Aggro",
       "card" : "Requiting Hex"
     }, {
-      "file" : "19-bant-aggro.txt",
-      "name" : "Bant Aggro",
-      "card" : "Sewer-veillance Cam"
+      "file" : "10-mardu-aggro.txt",
+      "name" : "Mardu Aggro",
+      "card" : "Blood Crypt"
     }, {
-      "file" : "20-temur-aggro.txt",
+      "file" : "11-selesnya-aggro.txt",
+      "name" : "Selesnya Aggro",
+      "card" : "Earthbender Ascension"
+    }, {
+      "file" : "12-red-deck-wins.txt",
+      "name" : "Red Deck Wins",
+      "card" : "Emberheart Challenger"
+    }, {
+      "file" : "13-temur-aggro.txt",
       "name" : "Temur Aggro",
       "card" : "Starting Town"
     }, {
-      "file" : "21-sultai-control.txt",
-      "name" : "Sultai Control",
-      "card" : "Breeding Pool"
+      "file" : "14-boros-aggro.txt",
+      "name" : "Boros Aggro",
+      "card" : "Magmatic Hellkite"
     }, {
-      "file" : "22-bant-airbending.txt",
-      "name" : "Bant Airbending",
-      "card" : "Interdimensional Web Watch"
+      "file" : "15-gruul-aggro.txt",
+      "name" : "Gruul Aggro",
+      "card" : "Burst Lightning"
+    }, {
+      "file" : "16-golgari-control.txt",
+      "name" : "Golgari Control",
+      "card" : "Unholy Annex/Ritual Chamber"
+    }, {
+      "file" : "17-mono-black-aggro.txt",
+      "name" : "Mono Black Aggro",
+      "card" : "Forsaken Miner"
+    }, {
+      "file" : "18-4-5c-aggro.txt",
+      "name" : "4 5c Aggro",
+      "card" : "Cavern of Souls"
+    }, {
+      "file" : "19-mardu-control.txt",
+      "name" : "Mardu Control",
+      "card" : "Weapons Manufacturing"
+    }, {
+      "file" : "20-rakdos-aggro.txt",
+      "name" : "Rakdos Aggro",
+      "card" : "Bloodghast"
+    }, {
+      "file" : "21-naya-aggro.txt",
+      "name" : "Naya Aggro",
+      "card" : "Break Out"
+    }, {
+      "file" : "22-jeskai-aggro.txt",
+      "name" : "Jeskai Aggro",
+      "card" : "Springleaf Drum"
+    }, {
+      "file" : "23-sultai-control.txt",
+      "name" : "Sultai Control",
+      "card" : "Rakshasa's Bargain"
     } ]
   }, {
     "id" : "vintage",
     "name" : "Vintage",
     "decks" : [ {
-      "file" : "01-paradoxical-outcome.txt",
-      "name" : "Paradoxical Outcome",
-      "card" : "Paradoxical Outcome"
+      "file" : "01-mud.txt",
+      "name" : "Mud",
+      "card" : "Wasteland"
     }, {
-      "file" : "02-oath-of-druids.txt",
-      "name" : "Oath Of Druids",
+      "file" : "02-hatebear.txt",
+      "name" : "Hatebear",
+      "card" : "Chrome Mox"
+    }, {
+      "file" : "03-dimir-control.txt",
+      "name" : "Dimir Control",
+      "card" : "Stock Up"
+    }, {
+      "file" : "04-gifts-control.txt",
+      "name" : "Gifts Control",
       "card" : "Force of Will"
     }, {
-      "file" : "03-doomsday.txt",
+      "file" : "05-coveted-jewel.txt",
+      "name" : "Coveted Jewel",
+      "card" : "Tezzeret, Cruel Captain"
+    }, {
+      "file" : "06-bug-midrange.txt",
+      "name" : "Bug Midrange",
+      "card" : "Wasteland"
+    }, {
+      "file" : "07-bazaar-aggro.txt",
+      "name" : "Bazaar Aggro",
+      "card" : "Basking Rootwalla"
+    }, {
+      "file" : "08-esper-control.txt",
+      "name" : "Esper Control",
+      "card" : "Force of Will"
+    }, {
+      "file" : "09-doomsday.txt",
       "name" : "Doomsday",
       "card" : "Doomsday"
     }, {
-      "file" : "04-dredge.txt",
+      "file" : "10-paradoxical-outcome.txt",
+      "name" : "Paradoxical Outcome",
+      "card" : "Ancient Tomb"
+    }, {
+      "file" : "11-oath-of-druids.txt",
+      "name" : "Oath Of Druids",
+      "card" : "Forbidden Orchard"
+    }, {
+      "file" : "12-dredge.txt",
       "name" : "Dredge",
       "card" : "Bazaar of Baghdad"
     }, {
-      "file" : "05-esper-control.txt",
-      "name" : "Esper Control",
-      "card" : "Stock Up"
-    }, {
-      "file" : "06-bazaar-aggro.txt",
-      "name" : "Bazaar Aggro",
-      "card" : "Force of Will"
-    }, {
-      "file" : "07-uw-control.txt",
+      "file" : "13-uw-control.txt",
       "name" : "Uw Control",
       "card" : "Stock Up"
     }, {
-      "file" : "08-underworld-breach.txt",
-      "name" : "Underworld Breach",
-      "card" : "Force of Will"
-    }, {
-      "file" : "09-eldrazi-aggro.txt",
-      "name" : "Eldrazi Aggro",
-      "card" : "Ancient Tomb"
-    }, {
-      "file" : "10-grixis-control.txt",
+      "file" : "14-grixis-control.txt",
       "name" : "Grixis Control",
       "card" : "Scalding Tarn"
     }, {
-      "file" : "11-phyrexian-dreadnought.txt",
-      "name" : "Phyrexian Dreadnought",
-      "card" : "Doorkeeper Thrull"
+      "file" : "15-underworld-breach.txt",
+      "name" : "Underworld Breach",
+      "card" : "Force of Will"
     }, {
-      "file" : "12-azorius-tempo.txt",
+      "file" : "16-azorius-tempo.txt",
       "name" : "Azorius Tempo",
       "card" : "Force of Will"
     }, {
-      "file" : "13-storm.txt",
-      "name" : "Storm",
-      "card" : "Stock Up"
+      "file" : "17-phyrexian-dreadnought.txt",
+      "name" : "Phyrexian Dreadnought",
+      "card" : "Doorkeeper Thrull"
     }, {
-      "file" : "14-goblins.txt",
+      "file" : "18-eldrazi-aggro.txt",
+      "name" : "Eldrazi Aggro",
+      "card" : "Ancient Tomb"
+    }, {
+      "file" : "19-goblins.txt",
       "name" : "Goblins",
       "card" : "Cavern of Souls"
     }, {
-      "file" : "15-artifacts-blue.txt",
+      "file" : "20-storm.txt",
+      "name" : "Storm",
+      "card" : "Stock Up"
+    }, {
+      "file" : "21-artifacts-blue.txt",
       "name" : "Artifacts Blue",
       "card" : "Ancient Tomb"
+    }, {
+      "file" : "22-landless-spy.txt",
+      "name" : "Landless Spy",
+      "card" : "Undercity Informer"
     } ]
   } ]
 }

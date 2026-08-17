@@ -1,0 +1,65 @@
+1 Clever Impersonator
+1 Anafenza, the Foremost
+1 Knight of Autumn
+1 Skyclave Apparition
+2 Glasspool Mimic
+3 Fable of the Mirror-Breaker
+1 Titan of Industry
+1 Elesh Norn, Mother of Machines
+1 Heliod, the Radiant Dawn
+1 Tranquil Frillback
+1 Harvester of Misery
+1 Vaultborn Tyrant
+1 Overlord of the Floodpits
+1 Overlord of the Balemurk
+1 Overlord of the Boilerbilges
+1 Overlord of the Hauntwoods
+1 Marang River Regent
+1 Summon: Leviathan
+1 The Spot, Living Portal
+1 Absorbing Man
+4 Abrupt Decay
+3 Fires of Invention
+4 Omen of the Sea
+4 Enigmatic Incarnation
+1 Binding the Old Gods
+4 Leyline Binding
+4 Nowhere to Run
+1 Plains
+1 Forest
+1 Blood Crypt
+1 Breeding Pool
+1 Hallowed Fountain
+1 Godless Shrine
+1 Sacred Foundry
+1 Stomping Ground
+1 Watery Grave
+1 Overgrown Tomb
+1 Temple Garden
+2 Indatha Triome
+2 Ketria Triome
+1 Raugrin Triome
+3 Zagoth Triome
+1 Jetmir's Garden
+3 Spara's Headquarters
+1 Xander's Lounge
+1 Ziatora's Proving Ground
+1 Floodfarm Verge
+2 Hushwood Verge
+1 Thornspire Verge
+1 Riverpyre Verge
+1 Wastewood Verge
+1 Willowrush Verge
+1 Mistrise Village
+
+1 Aven Mindcensor
+2 Rest in Peace
+2 Dovin's Veto
+1 Ashiok, Dream Render
+1 Narset's Reversal
+1 Thought Distortion
+1 Yorion, Sky Nomad
+2 Knockout Blow
+1 Kutzil's Flanker
+2 High Noon
+1 Clarion Conqueror

@@ -1,0 +1,23 @@
+16 Mountain
+1 Goblin King
+4 Mogg Fanatic
+4 Goblin Piledriver
+4 Goblin Warchief
+1 Goblin Sharpshooter
+1 Goblin Tinkerer
+4 Goblin Ringleader
+4 Goblin Matron
+1 Skirk Prospector
+4 Gempalm Incinerator
+4 Rishadan Port
+3 Siege-Gang Commander
+1 Goblin Goon
+4 Wasteland
+4 Goblin Lackey
+
+1 Goblin Goon
+3 Overload
+4 Pyroblast
+3 Tormod's Crypt
+2 Pyrokinesis
+2 Mogg Salvage

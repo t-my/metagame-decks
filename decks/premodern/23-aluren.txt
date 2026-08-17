@@ -1,34 +1,29 @@
-3 Cavern Harpy
-3 Man-o'-War
-1 Monk Realist
-4 Raven Familiar
-1 Sylvan Library
-4 Survival of the Fittest
-1 Bone Shredder
-4 Wall of Roots
-1 Uktabi Orangutan
-1 Squee, Goblin Nabob
-3 Reflecting Pool
-4 Meddling Mage
-4 Birds of Paradise
-2 Windswept Heath
 4 Aluren
-4 Yavimaya Coast
-3 Forest
-1 Plains
-1 Flooded Strand
+4 Raven Familiar
+4 Cavern Harpy
+1 Bone Shredder
+2 Llanowar Wastes
+3 City of Brass
+4 Havenwood Battleground
+2 Reflecting Pool
+2 Island
+1 Swamp
+3 Chain of Vapor
+2 Wall of Roots
+2 Gemstone Mine
+4 Wall of Blossoms
+2 Mesmeric Fiend
 2 Spike Feeder
-4 City of Brass
-1 Island
-2 Dromar's Cavern
-1 Mesmeric Fiend
-1 Undiscovered Paradise
+3 Polluted Delta
+4 Man-o'-War
+3 Cabal Therapy
+1 Intuition
+3 Yavimaya Coast
+4 Impulse
 
-2 Xantid Swarm
+1 Tranquil Domain
 2 Naturalize
-2 Swords to Plowshares
-1 Ray of Revelation
-2 Tormod's Crypt
-1 Gaea's Blessing
-2 Blue Elemental Blast
-3 Engineered Plague
+3 Blue Elemental Blast
+4 Xantid Swarm
+3 Compost
+2 Tsabo's Web

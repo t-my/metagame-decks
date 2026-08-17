@@ -1,38 +1,38 @@
-2 Forest
-1 Gemstone Caverns
-4 Blade of the Bloodchief
-4 Ancient Stirrings
 4 Sowing Mycospawn
-4 Eldrazi Temple
-2 Glaring Fleshraker
-1 Walking Ballista
+4 Ancient Stirrings
 1 Soul-Guide Lantern
+1 Windswept Heath
+1 Springleaf Drum
+1 Cavern of Souls
+4 Eldrazi Temple
+1 Verdant Catacombs
+1 Misty Rainforest
+3 Blade of the Bloodchief
+4 Grove of the Burnwillows
+2 Emrakul, the Promised End
+1 Walking Ballista
+1 Gemstone Caverns
+2 Unholy Heat
 4 Urza's Saga
 1 Stomping Ground
 1 Boseiju, Who Endures
 1 Haywire Mite
+2 Delighted Halfling
+1 Commercial District
 4 Basking Broodscale
 4 Malevolent Rumble
+2 Forest
 1 Vexing Bauble
-4 Misty Rainforest
-3 Emrakul, the Promised End
 4 Kozilek's Command
-4 Grove of the Burnwillows
-1 Springleaf Drum
-2 Traverse the Ulvenwald
-1 Commercial District
-2 Delighted Halfling
+4 Glaring Fleshraker
 
-1 Gemstone Caverns
-1 Vexing Bauble
-1 Pithing Needle
-2 Nature's Claim
-1 Grafdigger's Cage
 1 Cavern of Souls
-1 Thought-Knot Seer
-1 Soulless Jailer
-1 Bojuka Bog
-1 Kozilek's Return
-1 Disruptor Flute
+1 Emrakul, the Promised End
 2 Unholy Heat
-1 Writhing Chrysalis
+2 Vexing Bauble
+1 Grafdigger's Cage
+2 Nature's Claim
+1 Pithing Needle
+1 Pyroclasm
+2 Warping Wail
+2 Thief of Existence

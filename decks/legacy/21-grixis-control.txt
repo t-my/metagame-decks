@@ -1,0 +1,41 @@
+4 Orcish Bowmasters
+1 Brazen Borrower
+4 Ponder
+1 Thoughtseize
+2 Flow State
+4 Brainstorm
+4 Lightning Bolt
+2 Sheoldred's Edict
+4 Force of Will
+4 Polluted Delta
+1 Volcanic Island
+2 Swamp
+2 Badlands
+1 Undercity Sewers
+3 Bloodstained Mire
+2 Scalding Tarn
+1 Tamiyo, Inquisitive Student
+2 Island
+1 Mountain
+1 Underground Sea
+2 Kaito, Bane of Nightmares
+2 Cling to Dust
+2 Kolaghan's Command
+2 Baleful Strix
+1 Snapcaster Mage
+1 Lorien Revealed
+1 Narset, Parter of Veils
+1 Reanimate
+1 Fatal Push
+1 Nimble Obstructionist
+
+1 Thoughtseize
+2 Fatal Push
+2 Consign to Memory
+2 Meltdown
+2 Pyroblast
+2 Price of Progress
+1 Surgical Extraction
+1 From the Catacombs
+1 Opposition Agent
+1 Barrowgoyf

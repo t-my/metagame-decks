@@ -1,0 +1,29 @@
+6 Island
+4 Careful Study
+2 Wasteland
+2 Daze
+3 Forest
+2 Gilded Drake
+1 City of Brass
+2 Arrogant Wurm
+3 Squee, Goblin Nabob
+4 Basking Rootwalla
+2 Waterfront Bouncer
+1 Wonder
+2 Roar of the Wurm
+3 Lightning Bolt
+4 Survival of the Fittest
+2 Mountain
+4 Wild Mongrel
+4 Wooded Foothills
+4 Yavimaya Coast
+1 Anger
+1 Mana Leak
+3 Frantic Search
+
+2 Cave-In
+4 Naturalize
+3 Pyroclasm
+3 Tranquil Domain
+1 Red Elemental Blast
+2 Blue Elemental Blast

@@ -1,21 +1,24 @@
-4 Phyrexian Dreadnought
-4 Accumulated Knowledge
-4 Counterspell
-4 Stifle
 2 Flash of Insight
-4 Foil
-4 Impulse
-2 Opt
+4 Counterspell
 4 Gush
-1 Thwart
+1 Peek
 4 Vision Charm
+4 Phyrexian Dreadnought
+1 Misdirection
+1 Thwart
+2 Impulse
+1 Chain of Vapor
+1 Powder Keg
 2 Daze
+4 Stifle
 4 Portent
+4 Opt
+4 Foil
 17 Island
 
-2 Dominate
-3 Mishra's Factory
-2 Chain of Vapor
+1 Chain of Vapor
 3 Annul
 3 Essence Flare
 2 Brain Freeze
+4 Blue Elemental Blast
+2 Tsabo's Web
