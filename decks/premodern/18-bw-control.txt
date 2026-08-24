@@ -1,30 +1,32 @@
-4 Vindicate
-2 Dust Bowl
-4 Caves of Koilos
-4 Duress
-3 Skeletal Scrying
-1 Secluded Steppe
-9 Swamp
-9 Plains
-1 Phyrexian Furnace
-1 Seal of Cleansing
-4 Decree of Justice
-3 Wrath of God
 3 Eternal Dragon
-1 Haunting Echoes
+3 Exalted Angel
+1 Phyrexian Furnace
 4 Swords to Plowshares
-1 Cabal Therapy
-2 Exalted Angel
+3 Skeletal Scrying
+4 Duress
 4 Gerrard's Verdict
-
-2 Seal of Cleansing
+4 Vindicate
+3 Decree of Justice
+2 Wrath of God
+1 Akroma's Vengeance
 1 Haunting Echoes
-1 Powder Keg
-1 Tormod's Crypt
+2 Seal of Cleansing
+9 Plains
+8 Swamp
+4 Caves of Koilos
+2 Dust Bowl
+1 Barren Moor
+1 Secluded Steppe
+
+1 Phyrexian Furnace
+1 Haunting Echoes
+2 Circle of Protection: Red
+2 Engineered Plague
 2 Warmth
-3 Engineered Plague
-1 Phyrexian Arena
-1 Presence of the Master
+1 Abolish
+1 Disenchant
 1 Enlightened Tutor
-1 Defense Grid
+1 Infest
+1 Ivory Mask
 1 Sacred Ground
+1 Spiritual Focus

@@ -1,34 +1,41 @@
-3 Agadeem's Awakening
-3 Bitter Triumph
-4 Blooming Marsh
-4 Temple Garden
-2 Cache Grab
-1 Caves of Koilos
-1 Collective Brutality
-4 Concealed Courtyard
-1 Emptiness
-4 Esika's Chariot
-4 Formidable Speaker
-4 Greasefang, Okiba Boss
 1 Swamp
-4 Parhelion II
-1 Plains
-4 Professor of Symbology
-4 Multiversal Passage
-1 Forest
-1 Boseiju, Who Endures
-4 Thundering Broodwagon
+1 Jennifer Walters
+1 Emptiness
+4 Formidable Speaker
+2 Multiversal Passage
 1 Yathan Roadwatcher
+3 Thundering Broodwagon
+1 Overlord of the Balemurk
+2 Cache Grab
+3 Bitter Triumph
+1 Takenuma, Abandoned Mire
+1 Boseiju, Who Endures
+4 Greasefang, Okiba Boss
+4 Esika's Chariot
+4 Professor of Symbology
+1 Plains
+1 Brushland
+1 Overgrown Tomb
+2 Godless Shrine
+1 Collective Brutality
+4 Blooming Marsh
+4 Concealed Courtyard
+4 Parhelion II
+1 Agadeem's Awakening
+4 Temple Garden
 4 Thoughtseize
 
-2 Collective Brutality
-1 Fatal Push
-1 Beza, the Bounding Spring
 1 Decorum Dissertation
-1 Enter the Avatar State
-2 Abrupt Decay
+1 Professor Dellian Fel
 1 Origin of Metalbending
 1 Ruinous Waterbending
-1 True Ancestry
-2 Unlicensed Hearse
-2 Witherbloom Command
+1 Enter the Avatar State
+1 Pest Control
+1 Drana and Linvala
+1 Loran of the Third Path
+1 Unlicensed Hearse
+1 Witherbloom Command
+1 Vanishing Verse
+1 Remorseful Cleric
+1 Duress
+2 Abrupt Decay

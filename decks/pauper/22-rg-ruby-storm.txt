@@ -12,10 +12,9 @@
 3 Wrenn's Resolve
 2 Seize the Storm
 5 Mountain
+4 Geothermal Crevice
 4 Hickory Woodlot
 4 Sandstone Needle
-2 Geothermal Crevice
-2 Tinder Farm
 
 3 Pyroblast
 3 Weather the Storm

@@ -1,26 +1,27 @@
-1 Preordain
-2 Turn Aside
-2 Vines of Vastwood
-2 Apostle's Blessing
-2 Consider
-3 Distortion Strike
-3 Snakeskin Veil
-4 Relic's Roar
-4 Embiggen
-4 Might of Old Krosa
-4 Mutagenic Growth
-4 Ichorclaw Myr
-4 Blighted Agent
-4 Glistener Elf
-2 Bountiful Landscape
-2 Escape Tunnel
-2 Tangled Islet
-3 Thornwood Falls
-4 Forest
-4 Island
-
-4 Gut Shot
-3 Dispel
+1 Vines of Vastwood
+1 Rancor
 2 Spell Pierce
+3 Distortion Strike
+3 Relic's Roar
+4 Lotus Petal
+4 Snakeskin Veil
+4 Mutagenic Growth
+4 Might of Old Krosa
+4 Go Forth
+4 Embiggen
+1 Blight Mamba
+3 Ichorclaw Myr
+4 Glistener Elf
+4 Blighted Agent
+2 Island
+3 Bountiful Landscape
+4 Escape Tunnel
+5 Forest
+
+2 Faerie Macabre
+1 Tormod's Crypt
+3 Blue Elemental Blast
+2 Dispel
 2 Tamiyo's Safekeeping
-4 Pick Your Poison
+2 Nature's Claim
+3 Gut Shot

@@ -38,12 +38,12 @@
 1 Mindbreak Trap
 1 Null Rod
 
-1 Oko, Thief of Crowns
 1 Flusterstorm
 2 Null Rod
 2 Consign to Memory
-3 Abrupt Decay
+2 Abrupt Decay
 1 Dismember
-3 Ravenous Trap
-1 Veil of Summer
+4 Leyline of the Void
+1 The Tabernacle at Pendrell Vale
 1 Serra's Emissary
+1 Veil of Summer

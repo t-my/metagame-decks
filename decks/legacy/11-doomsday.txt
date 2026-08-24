@@ -1,0 +1,35 @@
+2 Murktide Regent
+2 Street Wraith
+4 Tamiyo, Inquisitive Student
+2 Thassa's Oracle
+1 Lion's Eye Diamond
+2 Lotus Petal
+4 Brainstorm
+1 Consider
+4 Dark Ritual
+2 Daze
+4 Force of Will
+4 Doomsday
+1 Edge of Autumn
+4 Flow State
+4 Ponder
+3 Thoughtseize
+1 Cavern of Souls
+1 Island
+1 Marsh Flats
+3 Misty Rainforest
+4 Polluted Delta
+1 Swamp
+1 Undercity Sewers
+4 Underground Sea
+
+3 Barrowgoyf
+1 Brazen Borrower
+1 Consign to Memory
+2 Dauthi Voidwalker
+2 Fatal Push
+2 Force of Negation
+1 Jace, Wielder of Mysteries
+1 Long Goodbye
+1 Massacre
+1 Snuff Out

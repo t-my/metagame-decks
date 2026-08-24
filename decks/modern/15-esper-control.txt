@@ -1,0 +1,35 @@
+1 Teferi, Time Raveler
+1 Spell Snare
+2 No More Lies
+2 Inquisition of Kozilek
+2 Ephemerate
+4 Relic of Progenitus
+4 Thoughtseize
+4 Prismatic Ending
+2 Orcish Bowmasters
+4 Quantum Riddler
+4 Psychic Frog
+4 Solitude
+4 Ketramose, the New Dawn
+1 Watery Grave
+1 Godless Shrine
+1 Swamp
+1 Plains
+1 Island
+1 Undercity Sewers
+1 Shadowy Backstreet
+1 Hallowed Fountain
+1 Otawara, Soaring City
+1 Meticulous Archive
+1 Takenuma, Abandoned Mire
+3 Flooded Strand
+4 Marsh Flats
+4 Polluted Delta
+
+1 Fatal Push
+3 White Orchid Phantom
+1 Grafdigger's Cage
+3 Wrath of the Skies
+2 Mystical Dispute
+4 Consign to Memory
+1 Spell Snare

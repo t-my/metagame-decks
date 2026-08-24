@@ -1,30 +1,31 @@
-2 Restless Cottage
+4 Unholy Annex/Ritual Chamber
 2 Bitter Triumph
 4 Overgrown Tomb
 1 Boseiju, Who Endures
 1 Culling Ritual
 1 Forest
 4 Graveyard Trespasser
-4 Badgermole Cub
+4 Fatal Push
 4 Mutavault
 1 Maelstrom Pulse
 4 Llanowar Wastes
-4 Professor Dellian Fel
-1 Sentinel of the Nameless City
+2 Restless Cottage
 3 Sheoldred, the Apocalypse
-4 Fatal Push
+1 Duress
 1 Takenuma, Abandoned Mire
 4 Blooming Marsh
-4 Unholy Annex/Ritual Chamber
 3 Abrupt Decay
-3 Swamp
+1 Castle Locthwain
+2 Swamp
 1 Urborg, Tomb of Yawgmoth
+4 Badgermole Cub
 4 Thoughtseize
+4 Professor Dellian Fel
 
 2 Culling Ritual
+1 Duress
 3 Invoke Despair
-1 Languish
-2 Duress
+2 Languish
 2 Nowhere to Run
 3 Unlicensed Hearse
 2 Cruelclaw's Heist

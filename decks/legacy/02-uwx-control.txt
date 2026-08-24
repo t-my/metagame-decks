@@ -1,38 +1,31 @@
-2 Tundra
+4 Wasteland
 4 Flooded Strand
-1 Meticulous Archive
-1 Polluted Delta
-2 Prismatic Vista
-2 Scalding Tarn
-5 Island
+3 Polluted Delta
+3 Island
+2 Tundra
 1 Plains
+1 Karakas
+1 Meticulous Archive
+1 Mystic Sanctuary
+4 Quantum Riddler
+4 Phelia, Exuberant Shepherd
+4 Tamiyo, Inquisitive Student
+2 Murktide Regent
 1 Snapcaster Mage
-1 Jace, the Mind Sculptor
-4 Flow State
-4 Brainstorm
-4 Swords to Plowshares
-3 Murktide Regent
+4 Daze
 4 Force of Will
 4 Ponder
-1 Lorien Revealed
-2 Triumph of Saint Katherine
-2 Teferi, Time Raveler
-4 Prismatic Ending
-2 Spell Pierce
-1 Force of Negation
-1 Prismari Charm
-1 Forth Eorlingas!
-1 Mountain
-1 Volcanic Island
-1 Mystic Sanctuary
+4 Brainstorm
+4 Swords to Plowshares
+4 Stifle
+1 Consign to Memory
 
-1 Force of Negation
-1 Grafdigger's Cage
-1 Containment Priest
-3 Consign to Memory
-1 Deafening Silence
-1 Tomik, Distinguished Advokist
-3 Red Elemental Blast
-1 Ruination
 2 Wrath of the Skies
-1 Meddling Mage
+2 Surgical Extraction
+2 Spell Snare
+1 Containment Priest
+2 Force of Negation
+2 Lavinia, Azorius Renegade
+2 Prismatic Ending
+1 Celestial Purge
+1 Supreme Verdict
