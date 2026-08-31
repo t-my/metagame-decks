@@ -1,0 +1,32 @@
+1 The Meathook Massacre
+2 Grim Bauble
+2 The Legend of Kuruk
+4 Cryogen Relic
+4 Fatal Push
+4 This Town Ain't Big Enough
+4 Thoughtseize
+4 Boomerang Basics
+4 Hopeless Nightmare
+4 Stormchaser's Talent
+4 Nowhere to Run
+4 Momentum Breaker
+4 Narset, Parter of Veils
+1 Takenuma, Abandoned Mire
+1 Urborg, Tomb of Yawgmoth
+4 Darkslick Shores
+4 Gloomlake Verge
+4 Shipwreck Marsh
+4 Swamp
+4 Clearwater Pathway
+4 Mutavault
+4 Watery Grave
+5 Island
+
+2 Day of Black Sun
+2 Duress
+2 Damping Sphere
+1 Ashiok, Dream Render
+2 Mystical Dispute
+3 Soul-Guide Lantern
+1 Yorion, Sky Nomad
+2 Change the Equation

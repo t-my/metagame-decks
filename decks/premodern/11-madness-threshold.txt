@@ -1,0 +1,25 @@
+2 Foil
+3 Gush
+3 Fire/Ice
+3 Daze
+3 Mental Note
+3 Mox Diamond
+3 Counterspell
+3 Opt
+4 Portent
+4 Lightning Bolt
+2 Quirion Dryad
+4 Werebear
+4 Nimble Mongoose
+2 Wasteland
+3 City of Brass
+4 Flooded Strand
+4 Gemstone Mine
+6 Island
+
+1 Tranquil Domain
+3 Hydroblast
+2 Naturalize
+3 Pyroblast
+3 Pyroclasm
+3 Tormod's Crypt

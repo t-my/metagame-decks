@@ -1,24 +1,25 @@
-4 Basking Rootwalla
-4 Bazaar of Baghdad
+4 Serum Powder
 4 Blazing Rootwalla
-4 Wasteland
-4 Vengevine
+1 Chalice of the Void
 4 Squee, Goblin Nabob
-4 Force of Vigor
-2 Noxious Revival
+4 Subtlety
+1 Gitaxian Probe
+4 Vengevine
 4 Hollow One
-4 Master of Death
+4 Force of Negation
 1 Mental Misstep
 4 Mindbreak Trap
 4 Force of Will
-4 Serum Powder
-4 Force of Negation
+4 Basking Rootwalla
+4 Master of Death
+4 Commandeer
+4 Bazaar of Baghdad
+4 Wasteland
 1 Strip Mine
-3 Commandeer
-1 Chalice of the Void
 
-1 Commandeer
-2 Subtlety
+1 Echoing Deeps
+4 Fury
+1 Snapback
 4 Ravenous Trap
 4 Pyrokinesis
-4 Fury
+1 Ghost Quarter

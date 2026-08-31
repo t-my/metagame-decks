@@ -1,0 +1,29 @@
+1 Spell Snare
+1 Abrade
+3 Stubborn Denial
+4 Opt
+4 Fiery Impulse
+4 Consider
+4 Prismari Charm
+4 Traumatic Critique
+4 Sleight of Hand
+4 Sunderflock
+4 Eddymurk Crab
+4 Hearth Elemental
+3 Riverglide Pathway
+3 Riverpyre Verge
+4 Spirebluff Canal
+4 Steam Vents
+5 Island
+
+2 Stock Up
+1 Spell Pierce
+1 Roast
+1 Pyroclasm
+1 Disdainful Stroke
+1 Annul
+1 Brazen Borrower
+1 Mystical Dispute
+2 Soul-Guide Lantern
+2 Stormwing Entity
+2 Ral, Crackling Wit

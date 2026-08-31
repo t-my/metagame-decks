@@ -1,27 +1,23 @@
-1 Snakeskin Veil
-2 Might of the Meek
-4 Ancestral Anger
-4 Blossoming Defense
-4 Full Bore
-4 Turn Inside Out
-4 Leyline of Resonance
-1 Pawpatch Recruit
-3 Frantic Scapegoat
-4 Slickshot Show-Off
-4 Hired Claw
-4 Emberheart Challenger
-4 Callous Sell-Sword
-1 Mountain
-4 Multiversal Passage
-4 Starting Town
+4 Llanowar Elves
+4 Mightform Harmonizer
+4 Tifa Lockhart
+4 Mossborn Hydra
+2 Thornspire Verge
+2 Mountain
 4 Stomping Ground
-4 Thornspire Verge
+4 Fabled Passage
+4 Elven Passage
+7 Forest
+4 Full Bore
+4 Snakeskin Veil
+4 Break Out
+4 Earthbender Ascension
+1 Sazh's Chocobo
+2 Bristly Bill, Spine Sower
+2 Traveling Chocobo
 
-3 Burst Lightning
-2 Giant Growth
-1 Hexing Squelcher
-1 Soul-Guide Lantern
-1 Overprotect
-1 Origin of Metalbending
-3 Pick Your Poison
-3 Pawpatch Recruit
+3 Torpor Orb
+3 Leatherhead, Swamp Stalker
+3 Surrak, Elusive Hunter
+3 Meltstrider's Resolve
+3 Keen-Eyed Curator

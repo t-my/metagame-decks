@@ -1,32 +1,30 @@
-3 Starting Town
-2 Ill-Timed Explosion
 4 Kona, Rescue Beastie
-2 Breeding Pool
-4 Ashling, Rekindled
-4 Cavern of Souls
-4 Kavaron, Memorial World
-4 Uthros, Titanic Godcore
-1 Mountain
-2 Steam Vents
-3 Marang River Regent
+2 Lost in the Maze
+4 Marang River Regent
+4 Consult the Star Charts
+2 Dispelling Exhale
 4 Stock Up
-1 Island
-4 Omniscience
-3 North Wind Avatar
+2 Spell Snare
+4 Evendo, Waking Haven
+4 Uthros, Titanic Godcore
+4 Willowrush Verge
+3 Bounce Off
+1 Forest
+2 Breeding Pool
+5 Island
+2 Cavern of Souls
 4 Formidable Speaker
-2 Spell Pierce
-3 Winternight Stories
-2 Stormcarved Coast
-1 Lost in the Maze
-3 Multiversal Passage
-
-1 Marang River Regent
+2 Multiversal Passage
 1 North Wind Avatar
-1 Lost in the Maze
-2 Origin of Metalbending
-1 Omni-Changeling
-2 Pyroclasm
-3 Spider-Sense
-1 Extinguisher Battleship
-1 Into the Flood Maw
-2 Jennifer Walters
+4 Omniscience
+2 Opt
+
+2 Heritage Reclamation
+2 Negate
+1 Fresh Start
+1 Plains
+3 Unable to Scream
+1 Disdainful Stroke
+3 Voice of Victory
+1 Auroral Procession
+1 Jeskai Revelation

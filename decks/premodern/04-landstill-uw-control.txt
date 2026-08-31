@@ -1,29 +1,32 @@
-4 Adarkar Wastes
 3 Decree of Justice
+2 Wrath of God
+4 Swords to Plowshares
+1 Humility
+1 Enlightened Tutor
+1 Seal of Cleansing
+1 Disenchant
+4 Counterspell
+3 Fact or Fiction
+3 Standstill
+4 Mana Leak
+4 Impulse
+1 Teferi's Response
+1 Powder Keg
+4 Mishra's Factory
+2 Dust Bowl
 4 Flooded Strand
-1 Prohibit
+4 Adarkar Wastes
 1 Coastal Tower
+2 Faerie Conclave
 5 Island
 4 Plains
-4 Counterspell
-3 Mana Leak
-3 Fact or Fiction
-4 Swords to Plowshares
-2 Wrath of God
-2 Faerie Conclave
-2 Disenchant
-4 Mishra's Factory
-3 Standstill
-2 Exalted Angel
-3 Wasteland
-2 Powder Keg
-3 Impulse
-2 Phyrexian Furnace
+1 Phyrexian Furnace
 
-4 Blue Elemental Blast
+1 Wrath of God
+1 Seal of Cleansing
+1 Phyrexian Furnace
+1 Forbid
+3 Annul
+3 Hydroblast
 1 Circle of Protection: Red
-2 Annul
 4 Meddling Mage
-2 Teferi's Response
-1 Cursed Totem
-1 Misdirection

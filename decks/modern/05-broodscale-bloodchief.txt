@@ -1,34 +1,33 @@
-4 Grove of the Burnwillows
-3 Delighted Halfling
-1 Glaring Fleshraker
-4 Sowing Mycospawn
-6 Forest
-4 Ancient Stirrings
-2 Vexing Bauble
-4 Malevolent Rumble
-4 Basking Broodscale
-4 Urza's Saga
-1 Springleaf Drum
-3 Blade of the Bloodchief
-4 Eldrazi Temple
-3 Emrakul, the Promised End
-1 Cavern of Souls
-2 Boseiju, Who Endures
-1 The Mycosynth Gardens
 1 Soul-Guide Lantern
+4 Basking Broodscale
+1 Gemstone Caverns
+2 Boseiju, Who Endures
+2 Devourer of Destiny
+4 Emrakul, the Promised End
+6 Forest
+3 Ugin's Labyrinth
+2 Glaring Fleshraker
 1 Haywire Mite
-1 Yavimaya, Cradle of Growth
-2 Dismember
 4 Kozilek's Command
-
+4 Malevolent Rumble
+1 Shifting Woodland
+2 Dismember
+4 Sowing Mycospawn
+1 Cavern of Souls
+4 Ancient Stirrings
+4 Urza's Saga
 1 Vexing Bauble
+4 Eldrazi Temple
+1 Springleaf Drum
+1 Yavimaya, Cradle of Growth
+3 Blade of the Bloodchief
+
 1 Dismember
-2 Thief of Existence
+2 Vexing Bauble
+2 Trinisphere
+2 Disruptor Flute
+3 Grafdigger's Cage
+1 Soulless Jailer
 1 Sire of Seven Deaths
 1 Pithing Needle
-1 Soulless Jailer
 2 Nature's Claim
-2 Warping Wail
-1 Gemstone Caverns
-1 Grafdigger's Cage
-2 Six

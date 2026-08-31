@@ -1,40 +1,40 @@
-2 Gruul Turf
-4 Simic Growth Chamber
-3 Forest
-2 The Mycosynth Gardens
-1 Echoing Deeps
-4 Spelunking
+3 Primeval Titan
 4 Arboreal Grazer
-1 Aftermath Analyst
-1 Malevolent Rumble
-1 Shifting Woodland
 1 Cultivator Colossus
+1 Aftermath Analyst
+4 Amulet of Vigor
+1 Vexing Bauble
+2 Summoner's Pact
+4 Green Sun's Zenith
+4 Scapeshift
+3 Malevolent Rumble
+4 Urza's Saga
+4 Spelunking
+3 Forest
+2 Simic Growth Chamber
 1 Hanweir Battlements
-1 Vesuva
 1 Tolaria West
 1 Dryad Arbor
-4 Scapeshift
-1 Valakut, the Molten Pinnacle
-4 Amulet of Vigor
-3 Primeval Titan
-4 Green Sun's Zenith
-2 Summoner's Pact
-1 Mirrorpool
+1 Gruul Turf
 4 Crumbling Vestige
-1 Dryad of the Ilysian Grove
-4 Urza's Saga
+1 Mirrorpool
+3 Golgari Rot Farm
+1 Selesnya Sanctuary
+1 Gemstone Caverns
 3 Boseiju, Who Endures
 1 Otawara, Soaring City
+1 Echoing Deeps
+1 Shifting Woodland
 
-1 Boseiju, Who Endures
-1 Scavenger Grounds
-1 Six
-1 Vexing Bauble
-1 Keen-Eyed Curator
-2 Stock Up
-2 Dismember
-1 Firespout
 1 Skyline Cascade
-1 Collector Ouphe
-1 Force of Vigor
 2 Trinisphere
+1 Gaddock Teeg
+1 Thrun, the Last Troll
+3 Dismember
+1 Relic of Progenitus
+1 Faerie Macabre
+1 Force of Vigor
+1 Culling Ritual
+1 Null Elemental Blast
+1 Abstergo Entertainment
+1 Insidious Fungus

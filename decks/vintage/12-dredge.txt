@@ -1,23 +1,24 @@
 4 Bazaar of Baghdad
+4 Prized Amalgam
+1 Force of Negation
 1 Mental Misstep
-4 Master of Death
+1 Chalice of the Void
+4 Creeping Chill
+4 Serum Powder
 4 Force of Will
-4 Force of Negation
+4 Noxious Revival
+1 Golgari Grave-Troll
+4 Narcomoeba
+4 Stinkweed Imp
+4 Ichorid
 4 Golgari Thug
 4 Grief
-1 Strip Mine
-4 Ichorid
-4 Narcomoeba
-4 Noxious Revival
-4 Prized Amalgam
-4 Serum Powder
-4 Shambling Shell
-4 Stinkweed Imp
-1 Chalice of the Void
 4 Hollow One
-1 Golgari Grave-Troll
+4 Silversmote Ghoul
+4 Shambling Shell
 
-4 Force of Vigor
+3 Wasteland
+1 Strip Mine
 4 Sickening Shoal
-4 Wasteland
-3 Endurance
+4 Force of Vigor
+3 Force of Negation

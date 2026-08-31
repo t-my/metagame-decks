@@ -1,33 +1,30 @@
+3 Fatal Push
+4 Bilbo, Thief in the Night
+1 Bloodstained Mire
 4 Brainstorm
 1 Brazen Borrower
 3 Daze
-3 Fatal Push
-3 Flow State
-1 Force of Negation
+2 Flow State
 4 Force of Will
-2 Island
-2 Kaito, Bane of Nightmares
 1 Marsh Flats
-2 Murktide Regent
-2 Nethergoyf
-4 Orcish Bowmasters
+4 Mishra's Bauble
+3 Misty Rainforest
+4 Moonshadow
+4 Nethergoyf
 4 Polluted Delta
 3 Ponder
-3 Scalding Tarn
 1 Snuff Out
-1 Swamp
-4 Tamiyo, Inquisitive Student
 4 Thoughtseize
 1 Undercity Sewers
-3 Underground Sea
+4 Underground Sea
 4 Wasteland
+1 Watery Grave
 
 1 Fatal Push
+1 Snuff Out
+2 Consign to Memory
 2 Force of Negation
-2 Barrowgoyf
-3 Consign to Memory
-1 Damping Sphere
-2 Duress
-1 Engineered Explosives
-1 Massacre
-2 Sheoldred's Edict
+2 Kaito, Bane of Nightmares
+2 Massacre
+3 Orcish Bowmasters
+2 Surgical Extraction

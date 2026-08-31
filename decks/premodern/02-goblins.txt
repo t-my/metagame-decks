@@ -1,0 +1,20 @@
+4 Wasteland
+3 Gempalm Incinerator
+3 Tangle Wire
+4 Mogg Fanatic
+1 Goblin Sledder
+2 Siege-Gang Commander
+4 Goblin Ringleader
+4 Goblin Piledriver
+3 Goblin King
+4 Skirk Prospector
+4 Rishadan Port
+4 Goblin Warchief
+4 Goblin Lackey
+16 Mountain
+
+3 Pyroblast
+3 Pyrokinesis
+3 Tormod's Crypt
+3 Overload
+3 Goblin Goon
