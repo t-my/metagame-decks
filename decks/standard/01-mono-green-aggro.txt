@@ -1,26 +1,28 @@
-4 Icetill Explorer
-4 Llanowar Elves
-4 Mightform Harmonizer
-4 Sazh's Chocobo
-1 Keen-Eyed Curator
-1 Surrak, Elusive Hunter
-4 Esper Origins
-1 Lumbering Worldwagon
-2 Shared Roots
-4 Earthbender Ascension
-3 Sapling Nursery
-2 Meltstrider's Resolve
 14 Forest
-4 Escape Tunnel
 4 Fabled Passage
 3 Ba Sing Se
-1 Demolition Field
+2 Escape Tunnel
+2 Elven Passage
+1 Promising Vein
+4 Mightform Harmonizer
+4 Icetill Explorer
+4 Sazh's Chocobo
+4 Llanowar Elves
+1 Surrak, Elusive Hunter
+1 Keen-Eyed Curator
+4 Earthbender Ascension
+4 Esper Origins
+3 Sapling Nursery
+2 Glimpse the Core
+1 Meltstrider's Resolve
+1 Bushwhack
+1 Lumbering Worldwagon
 
-2 Keen-Eyed Curator
-2 Surrak, Elusive Hunter
-2 Meltstrider's Resolve
-3 Mossborn Hydra
-2 Torpor Orb
+1 Keen-Eyed Curator
+1 Sapling Nursery
+3 Meltstrider's Resolve
 2 Warg Tactics
-1 Gigantic Big Bear
+4 Mossborn Hydra
+2 Torpor Orb
+1 Sandman, Shifting Scoundrel
 1 Leatherhead, Swamp Stalker

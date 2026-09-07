@@ -1,35 +1,32 @@
-2 Thor, God of Thunder
-4 Tablet of Discovery
-4 Accumulate Wisdom
-4 Combustion Technique
-4 Firebending Lesson
-4 Jeskai Revelation
-3 Abandon Attachments
-2 It'll Quench Ya!
-1 Spell Pierce
-3 Stock Up
-2 Avengers Disassembled
-1 Improvisation Capstone
-1 Iroh's Demonstration
-2 Artist's Talent
-4 Great Hall of the Biblioplex
-4 Spirebluff Canal
-4 Steam Vents
-3 Hallowed Fountain
-3 Riverpyre Verge
-2 Island
+1 Candy Trail
+1 Thror's Map
+1 Soul-Guide Lantern
+1 Spring-Loaded Sawblades
+2 Dusk Rose Reliquary
+2 Tezzeret, Cruel Captain
+3 Lodestone Needle
+4 Cryogen Relic
+4 Pinnacle Starcage
+4 United Battlefront
+4 Legion Extruder
+4 Weapons Manufacturing
+4 Aang's Iceberg
+1 Ironheart, Clever Champion
 1 Mountain
-1 Petrified Hamlet
 1 Plains
+1 Steam Vents
+2 Sundown Pass
+2 Island
+2 Cori Mountain Monastery
+3 Hallowed Fountain
+4 Sacred Foundry
+4 Castle Doom
+4 Starting Town
 
-1 Avengers Disassembled
-3 Flashfreeze
-3 Price of Freedom
-1 Disdainful Stroke
-1 Emeritus of Ideation
-1 Erode
-1 Fire Magic
 1 Ghost Vacuum
-1 Negate
-1 Ral, Crackling Wit
-1 Wan Shi Tong, Librarian
+1 Scene of the Crime
+4 Torpor Orb
+4 Page, Loose Leaf
+2 Authority of the Consuls
+1 Spring-Loaded Sawblades
+2 Tezzeret, Cruel Captain

@@ -1,18 +1,19 @@
 4 Lightning Bolt
-4 Fiery Temper
-4 Lava Dart
+3 Guttersnipe
+3 Fireblast
 4 Grab the Prize
-4 Guttersnipe
+4 Fiery Temper
 4 Highway Robbery
-4 Fireblast
-3 Melded Moxite
-2 Faithless Looting
+4 Kessig Flamebreather
+4 Lava Dart
+3 Faithless Looting
+19 Mountain
 4 Sneaky Snacker
 4 Voldaren Epicure
-19 Mountain
 
-4 Cast into the Fire
-2 Red Elemental Blast
+2 Cast into the Fire
+2 Smash to Smithereens
+3 Relic of Progenitus
+1 Red Elemental Blast
+3 Searing Blaze
 4 Pyroblast
-3 Molten Rain
-2 Searing Blaze

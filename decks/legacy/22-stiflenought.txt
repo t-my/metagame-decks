@@ -1,34 +1,35 @@
+2 Daze
+2 Prismatic Ending
+3 Dress Down
+3 Flow State
+3 Stifle
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+4 Ponder
+1 Curie, Emergent Intelligence
 2 Abhorrent Oculus
 2 Bilbo, Thief in the Night
-4 Brainstorm
-3 Doorkeeper Thrull
-1 Dress Down
-4 Flooded Strand
-3 Flow State
-4 Force of Will
-2 Island
+3 Phyrexian Dreadnought
+4 Tamiyo, Inquisitive Student
 1 Karakas
-1 Lorien Revealed
 1 Meticulous Archive
-1 Misty Rainforest
-1 Phlage, Titan of Fire's Fury
-4 Phyrexian Dreadnought
 1 Plains
-4 Ponder
-2 Prismatic Ending
-1 Scalding Tarn
-3 Stifle
-4 Swords to Plowshares
-3 Tamiyo, Inquisitive Student
-2 Tundra
 2 Volcanic Island
+2 Island
+2 Tundra
+2 Scalding Tarn
+4 Flooded Strand
 4 Wasteland
 
-1 Celestial Purge
-3 Consign to Memory
-1 Erode
+1 Wrath of the Skies
+2 Consign to Memory
+2 Erode
 2 Force of Negation
-1 Lavinia, Azorius Renegade
-3 Pyroblast
-2 Triumph of Saint Katherine
-2 Wrath of the Skies
+2 Pyroblast
+1 Containment Priest
+1 Counterbalance
+1 Fire Magic
+1 Soul-Guide Lantern
+1 Triumph of Saint Katherine
+1 Prismatic Ending

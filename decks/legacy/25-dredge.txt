@@ -1,0 +1,31 @@
+2 Island
+4 Careful Study
+4 Stinkweed Imp
+4 Golgari Grave-Troll
+3 Life from the Loam
+4 Narcomoeba
+3 Bridge from Below
+4 Brainstorm
+4 Force of Will
+2 Tropical Island
+1 Underground Sea
+4 Cabal Therapy
+1 Hogaak, Arisen Necropolis
+1 Thassa's Oracle
+1 Dread Return
+1 Misty Rainforest
+1 Scalding Tarn
+4 Otherworldly Gaze
+1 Undercity Sewers
+3 Poxwalkers
+1 Flooded Strand
+1 Polluted Delta
+4 Cephalid Coliseum
+2 Exhibition Tidecaller
+
+4 Unmask
+1 Ashen Rider
+4 Force of Vigor
+1 Force of Negation
+2 Boseiju, Who Endures
+3 Tamiyo, Inquisitive Student

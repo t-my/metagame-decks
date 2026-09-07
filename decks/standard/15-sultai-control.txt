@@ -1,37 +1,36 @@
-1 Cruelclaw's Heist
 1 Bitter Triumph
-1 Mazemind Tome
+1 Cruelclaw's Heist
 1 Maelstrom Pulse
-1 Inside Information
+1 Professor Dellian Fel
 1 The Soul Stone
-2 Professor Dellian Fel
+1 Mazemind Tome
+1 Urgent Necropsy
 2 Shoot the Sheriff
-3 Duress
 3 Requiting Hex
-3 Deadly Cover-Up
+3 Duress
+4 Deadly Cover-Up
 4 Together as One
 4 Unholy Annex/Ritual Chamber
 4 Firdoch Core
 4 Deceit
-1 Wastewood Verge
 1 Restless Cottage
+1 Deathcap Glade
 1 Ba Sing Se
-2 Restless Reef
-2 Multiversal Passage
 2 Overgrown Tomb
 2 Watery Grave
-3 Great Hall of the Biblioplex
+2 Restless Reef
+2 Starting Town
+2 Great Hall of the Biblioplex
+2 Multiversal Passage
 3 Blazemire Verge
 3 Bleachbone Verge
-5 Swamp
+4 Swamp
 
-2 Day of Black Sun
-1 The End
 1 Outrageous Robbery
-1 Ghost Vacuum
+3 Intimidation Tactics
+3 Strategic Betrayal
 2 Ancient Vendetta
-2 Intimidation Tactics
-2 Strategic Betrayal
+2 Day of Black Sun
 2 Qarsi Revenant
-1 Inside Information
+1 Professor Dellian Fel
 1 Duress

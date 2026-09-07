@@ -1,0 +1,30 @@
+1 Forest
+4 Cavern of Souls
+4 Ancient Tomb
+4 Seasoned Dungeoneer
+4 Caves of Chaos Adventurer
+4 Undermountain Adventurer
+4 Lotus Petal
+4 City of Traitors
+4 Simian Spirit Guide
+1 Mountain
+1 Plains
+3 Elvish Spirit Guide
+2 Once Upon a Time
+4 Karn, the Great Creator
+2 Karakas
+3 Chancellor of the Annex
+4 Trinisphere
+1 Eldrazi Confluence
+4 Chalice of the Void
+1 Broadside Bombardiers
+1 Chrome Mox
+
+3 Eldrazi Confluence
+3 Broadside Bombardiers
+1 Sarevok's Tome
+4 Disruptor Flute
+1 Ensnaring Bridge
+1 Liquimetal Coating
+1 Mycosynth Lattice
+1 Sphere of Resistance

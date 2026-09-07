@@ -1,0 +1,33 @@
+3 Once Upon a Time
+4 Green Sun's Zenith
+4 Natural Order
+1 Eladamri, Korvecdal
+1 Craterhoof Behemoth
+1 Temur Sabertooth
+1 Atraxa, Grand Unifier
+1 Elvish Visionary
+1 Vibrance
+2 Llanowar Elves
+3 Formidable Speaker
+3 Fyndhorn Elves
+4 Allosaurus Shepherd
+4 Wirewood Symbiote
+4 Quirion Ranger
+4 Badgermole Cub
+1 Boseiju, Who Endures
+2 Wooded Foothills
+2 Verdant Catacombs
+2 Windswept Heath
+2 Forest
+2 Misty Rainforest
+2 Dryad Arbor
+2 Bayou
+4 Gaea's Cradle
+
+2 Choke
+3 Force of Vigor
+2 Abrupt Decay
+1 Collector Ouphe
+1 Hogaak, Arisen Necropolis
+3 Endurance
+3 Thoughtseize
