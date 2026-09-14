@@ -1,0 +1,29 @@
+1 Cabal Therapy
+4 City of Brass
+1 Dragon Breath
+4 Duress
+4 Gemstone Mine
+4 Hermit Druid
+1 Krosan Reclamation
+4 Llanowar Wastes
+4 Lotus Petal
+4 Phyrexian Dreadnought
+4 Reanimate
+2 Reflecting Pool
+3 Shallow Grave
+3 Stifle
+1 Sutured Ghoul
+4 Underground River
+4 Vision Charm
+4 Worldly Tutor
+4 Yavimaya Coast
+
+2 Cabal Therapy
+1 Shallow Grave
+1 Stifle
+1 Sutured Ghoul
+1 Pyroblast
+2 Ray of Revelation
+1 Reality Ripple
+2 Red Elemental Blast
+4 Sylvan Safekeeper

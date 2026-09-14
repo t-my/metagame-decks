@@ -1,0 +1,34 @@
+1 Foil
+1 Gush
+1 Misdirection
+1 Mox Diamond
+2 Winter Orb
+2 Sylvan Library
+2 Fire/Ice
+3 Counterspell
+3 Opt
+3 Careful Study
+3 Sleight of Hand
+4 Daze
+4 Lightning Bolt
+2 Quirion Dryad
+4 Werebear
+4 Nimble Mongoose
+1 Treva's Ruins
+3 Wasteland
+4 City of Brass
+4 Gemstone Mine
+8 Island
+
+1 Submerge
+2 Disenchant
+2 Pyroblast
+2 Tormod's Crypt
+1 Chill
+1 Cursed Totem
+1 Dread of Night
+1 Hidden Gibbons
+1 Hydroblast
+1 Ray of Revelation
+1 Reap
+1 Stifle

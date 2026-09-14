@@ -1,40 +1,39 @@
-3 Primeval Titan
 4 Arboreal Grazer
+4 Dryad of the Ilysian Grove
+4 Primeval Titan
 1 Cultivator Colossus
-1 Aftermath Analyst
+1 Icetill Explorer
 4 Amulet of Vigor
 1 Vexing Bauble
 2 Summoner's Pact
-3 Green Sun's Zenith
-4 Scapeshift
-3 Malevolent Rumble
-4 Urza's Saga
+2 Green Sun's Zenith
+2 Scapeshift
 4 Spelunking
-3 Forest
-2 Simic Growth Chamber
-1 Hanweir Battlements
-1 Tolaria West
-1 Dryad Arbor
-4 Gruul Turf
-4 Crumbling Vestige
-1 Mirrorpool
-1 Selesnya Sanctuary
-1 Gemstone Caverns
+4 Urza's Saga
+4 Forest
+4 Selesnya Sanctuary
 3 Boseiju, Who Endures
-1 Otawara, Soaring City
+2 Crumbling Vestige
+2 Gruul Turf
+2 Simic Growth Chamber
+2 Valakut, the Molten Pinnacle
+1 Bojuka Bog
+1 Cavern of Souls
 1 Echoing Deeps
-1 Shifting Woodland
-1 Abstergo Entertainment
+1 Golgari Rot Farm
+1 Hanweir Battlements
+1 Mirrorpool
+1 Otawara, Soaring City
+1 Tolaria West
+1 Vesuva
 
-1 Skyline Cascade
+1 Boseiju, Who Endures
+4 Dismember
+2 Elesh Norn, Mother of Machines
 2 Trinisphere
-1 Gaddock Teeg
-3 Dismember
-1 Faerie Macabre
-1 Collector Ouphe
-1 Force of Vigor
+1 Dragonlord Dromoka
 1 Elder Gargaroth
-1 Null Elemental Blast
+1 Endurance
+1 Grafdigger's Cage
 1 Keen-Eyed Curator
-1 Ureni, the Song Unending
-1 Mj�lnir, Hammer of Thor
+1 Six

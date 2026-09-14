@@ -1,0 +1,38 @@
+1 Ancestral Recall
+4 Ancient Tomb
+4 Tezzeret, Cruel Captain
+1 Black Lotus
+1 Tinker
+4 Grim Monolith
+4 Transmute Artifact
+1 Karn, the Great Creator
+4 The One Ring
+4 Tezzeret the Seeker
+1 Manifold Key
+4 Mishra's Workshop
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Paradox Engine
+1 Sol Ring
+3 Sink into Stupor
+4 Relic of Sauron
+1 Mana Vault
+1 Island
+1 Mana Crypt
+1 Time Vault
+1 Time Walk
+4 Force of Will
+1 Tolarian Academy
+1 Argentum Masticore
+1 Urza's Saga
+1 Vexing Bauble
+
+3 Argentum Masticore
+1 Wurmcoil Engine
+2 Grafdigger's Cage
+2 Force of Negation
+3 Petrified Hamlet
+4 Defense Grid

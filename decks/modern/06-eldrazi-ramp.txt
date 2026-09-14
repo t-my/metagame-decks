@@ -1,30 +1,32 @@
-3 Devourer of Destiny
+3 Sire of Seven Deaths
 4 Kozilek's Command
-4 Fanatic of Rhonas
-4 Malevolent Rumble
+4 Utopia Sprawl
+1 Windswept Heath
 4 Sowing Mycospawn
-4 Ugin's Labyrinth
-4 Disciple of Freyalise
-2 Ugin, Eye of the Storms
-4 Slumbering Trudge
-1 Dryad Arbor
-1 Mosswort Bridge
-4 Green Sun's Zenith
-1 Ghost Quarter
-1 Cavern of Souls
-4 Eldrazi Temple
+1 Wooded Foothills
 4 Emrakul, the Promised End
-2 Turntimber Symbiosis
+1 Underground Mortuary
+4 Ugin's Labyrinth
+4 Eldrazi Temple
+2 Misty Rainforest
+1 Verdant Catacombs
+2 Ghost Quarter
+1 Cavern of Souls
+1 Bojuka Bog
+4 Icetill Explorer
 4 Forest
-1 Boseiju, Who Endures
-4 Fight Rigging
+2 Ugin, Eye of the Storms
+1 Overgrown Tomb
+4 Malevolent Rumble
+1 World Breaker
+3 Talisman of Resilience
+2 Fatal Push
+2 Esper Origins
 
-1 Soulless Jailer
-2 Torpor Orb
+1 Fatal Push
 3 Trinisphere
-1 Dismember
-2 Thought-Knot Seer
-1 Collector Ouphe
-2 Force of Vigor
-1 Elder Gargaroth
-2 Endurance
+2 Vexing Bauble
+2 Nature's Claim
+2 Culling Ritual
+3 Thoughtseize
+2 Grafdigger's Cage

@@ -1,0 +1,33 @@
+1 Fellwar Stone
+1 Moss Diamond
+1 Umbilicus
+1 Smokestack
+1 Sky Diamond
+1 Mishra's Helix
+1 Purging Scythe
+1 Fire Diamond
+4 Winter Orb
+4 Tinker
+4 Tangle Wire
+4 Thran Dynamo
+4 Tsabo's Web
+4 Mind Stone
+4 Sphere of Resistance
+1 Masticore
+1 Triskelion
+1 Karn, Silver Golem
+4 Goblin Welder
+1 Shivan Reef
+1 Yavimaya Coast
+2 Gemstone Mine
+2 Treva's Ruins
+3 Crosis's Catacombs
+4 City of Traitors
+4 Ancient Tomb
+
+3 Powder Keg
+3 Aura Flux
+3 Choke
+3 Rejuvenation Chamber
+1 Volcanic Spray
+2 Pyroclasm

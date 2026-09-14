@@ -1,29 +1,31 @@
-3 Bilbo, Thief in the Night
-3 Thoughtseize
-4 Daze
-3 Fatal Push
-3 Flow State
-2 Snuff Out
-4 Ponder
-4 Nethergoyf
-4 Polluted Delta
-4 Moonshadow
-2 Misty Rainforest
-3 Mishra's Bauble
-1 Swamp
 1 Undercity Sewers
-4 Underground Sea
-4 Force of Will
-4 Brainstorm
-2 Verdant Catacombs
-4 Wasteland
+4 Thoughtseize
+1 Swamp
+1 Snuff Out
+2 Flow State
+3 Scalding Tarn
+3 Ponder
+3 Mishra's Bauble
+4 Polluted Delta
+4 Nethergoyf
+3 Orcish Bowmasters
+4 Moonshadow
+2 Kaito, Bane of Nightmares
 1 Island
+4 Force of Will
+3 Fatal Push
+4 Daze
+4 Brainstorm
+3 Underground Sea
+2 Bloodstained Mire
+4 Wasteland
 
+1 Fatal Push
 2 Barrowgoyf
-2 Bloodchief's Thirst
 1 Brazen Borrower
 2 Consign to Memory
-2 Force of Negation
-2 Hydroblast
-2 Orcish Bowmasters
 2 Nihil Spellbomb
+2 Massacre
+2 Hydroblast
+2 Force of Negation
+1 Null Rod

@@ -1,32 +1,32 @@
-2 Claws of Gix
-4 Weapons Manufacturing
-4 Pinnacle Emissary
-1 Skateboard
-1 Welding Jar
-1 Arcbound Ravager
-1 Shivan Reef
-1 Steam Vents
-1 Pithing Needle
-2 Preordain
-4 Mox Opal
+2 Shivan Reef
+2 Island
 4 Tormod's Crypt
-4 Engineered Explosives
-4 Spirebluff Canal
-3 Metallic Rebuke
-4 Fiery Islet
-3 Emry, Lurker of the Loch
-1 Shadowspear
+1 Welding Jar
+1 Pithing Needle
+1 Steam Vents
+4 Mox Opal
+2 Salvage Titan
 4 Mishra's Bauble
-3 Island
+3 Emry, Lurker of the Loch
+3 Metallic Rebuke
+4 Pinnacle Emissary
+4 Fiery Islet
+4 Spirebluff Canal
+1 Shadowspear
 4 Urza's Saga
 4 Kappa Cannoneer
+4 Weapons Manufacturing
+1 Skateboard
+4 Engineered Explosives
+3 Claws of Gix
 
-3 Consign to Memory
-1 Vexing Bauble
 1 Blood Moon
-3 Galvanic Blast
+1 Grafdigger's Cage
 1 Whipflare
 1 Swan Song
-1 Grafdigger's Cage
-2 Damping Sphere
+1 Damping Sphere
 2 Mystical Dispute
+3 Consign to Memory
+1 Vexing Bauble
+3 Galvanic Blast
+1 Cursed Totem

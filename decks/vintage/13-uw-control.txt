@@ -1,47 +1,54 @@
-1 Mox Sapphire
-1 Mox Ruby
-1 Mox Jet
+1 Manifold Key
+1 Mana Crypt
 1 Mental Misstep
-1 Ancestral Recall
-1 Gitaxian Probe
-1 Brainstorm
-1 Black Lotus
-1 Prismatic Ending
-1 Spell Pierce
-1 Consign to Memory
-1 Time Walk
-1 Mox Pearl
+1 Merchant Scroll
+1 Mox Emerald
+1 Mox Jet
+1 Lotus Petal
 1 Sol Ring
+1 Black Lotus
+1 Chain of Vapor
+1 Time Vault
+1 Ancestral Recall
 1 Soul-Guide Lantern
-2 Stock Up
-2 Lorien Revealed
-2 See the Truth
+1 Gifts Ungiven
+1 Gitaxian Probe
+1 Mox Pearl
+1 Mox Ruby
+1 Swords to Plowshares
+1 Yawgmoth's Will
+1 Vexing Bauble
+1 Time Walk
+1 Demonic Tutor
+1 Prismatic Ending
+1 Sink into Stupor
+1 Mox Sapphire
+2 Flusterstorm
+3 Flow State
+3 Lorien Revealed
 3 Force of Negation
-3 Swords to Plowshares
+4 Stock Up
 4 Force of Will
-4 Flow State
-1 Wan Shi Tong, Librarian
-1 Snapcaster Mage
-3 Lavinia, Azorius Renegade
 4 Bilbo, Thief in the Night
-1 Polluted Delta
-1 Misty Rainforest
 1 Meticulous Archive
-1 Island
+1 Misty Rainforest
 1 Flooded Strand
-1 Karakas
 1 Urza's Saga
-1 Strip Mine
-4 Tundra
-4 Wasteland
+1 Tolarian Academy
+1 Polluted Delta
+1 Scalding Tarn
+1 Island
+2 Tundra
+2 Underground Sea
 
-1 Flusterstorm
-2 Null Rod
+2 Containment Priest
+2 Consign to Memory
+1 Hurkyl's Recall
 1 Lurrus of the Dream-Den
 1 Pithing Needle
-3 Containment Priest
-1 The Tabernacle at Pendrell Vale
-1 Annul
-3 Consign to Memory
+1 Steel Sabotage
+1 Petrified Hamlet
 1 Soul-Guide Lantern
-1 Swords to Plowshares
+3 Swords to Plowshares
+1 Prismatic Ending
+1 Flusterstorm
