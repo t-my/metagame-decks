@@ -1,25 +1,25 @@
-4 Voice of Victory
-4 Stadium Headliner
-2 Lightstall Inquisitor
-4 Belladonna Took
-4 Frontline Rush
-4 The Last Ronin's Technique
-3 Erode
-4 Song of Totentanz
-4 Warleader's Call
-4 Political Triumph
-6 Mountain
+4 Burst Lightning
 4 Inspiring Vantage
+2 Get Lost
+4 Clarion Conqueror
+4 Maelstrom of the Spirit Dragon
+3 Magda, the Hoardmaster
+4 Magmatic Hellkite
+4 Momo, Friendly Flier
+2 Cavern of Souls
+3 Nova Hellkite
+1 Plains
+1 Mountain
+4 Sarkhan, Dragon Ascendant
+4 Smaug the Magnificent
+4 Twinmaw Stormbrood
 4 Sacred Foundry
-2 Fountainport
 4 Sunbillow Verge
-3 Dalkovan Encampment
+4 Multiversal Passage
 
+1 Get Lost
+4 Seam Rip
+2 The Legend of Roku
 3 Rest in Peace
-2 Torch the Tower
-1 Requisition Raid
-2 Fire Magic
-2 Seam Rip
-2 Pyrrhic Strike
-1 Lorehold Charm
-2 Bilbo's Gambit
+3 Dawn's Truce
+2 Pyroclasm

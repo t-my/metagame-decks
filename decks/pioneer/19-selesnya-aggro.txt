@@ -1,0 +1,35 @@
+4 Brushland
+4 Razorverge Thicket
+4 Temple Garden
+3 Plains
+2 Forest
+2 Hushwood Verge
+1 Boseiju, Who Endures
+1 Eiganjo, Seat of the Empire
+4 Badgermole Cub
+4 Brightglass Gearhulk
+4 Kili the Resourceful
+4 Llanowar Elves
+3 Cloud, Midgar Mercenary
+2 Bofur, Reliable Guardian
+1 Nurturing Pixie
+1 Skrelv, Defector Mite
+4 Colossus Hammer
+3 Sigarda's Aid
+2 Nature's Rhythm
+1 Super-Soldier Serum
+1 Skateboard
+1 Celestial Armor
+1 Dragonfire Blade
+1 Lavaspur Boots
+1 Leyline Axe
+1 Shadowspear
+
+1 Pithing Needle
+2 Surge of Salvation
+1 Soul-Guide Lantern
+3 Pawpatch Recruit
+2 Deafening Silence
+2 Get Lost
+2 Haywire Mite
+2 Rest in Peace

@@ -1,25 +1,35 @@
 4 Emry, Lurker of the Loch
-3 Sink into Stupor
-4 Sewer-veillance Cam
-4 Force of Will
-4 Mox Opal
-4 Kappa Cannoneer
-4 Mishra's Bauble
-2 Urza's Bauble
-1 Skateboard
-4 Pinnacle Emissary
-4 Ancient Tomb
-4 Lotus Petal
-4 Seat of the Synod
-4 Urza's Saga
 4 Thoughtcast
-4 Goblin Welder
-2 Volcanic Island
+4 Force of Will
+1 Paradox Engine
+4 Lotus Petal
+4 Mox Opal
+1 Island
+4 Urza's Saga
+4 Grim Monolith
+3 The One Ring
+4 Seat of the Synod
+3 Ancient Tomb
+1 Manifold Key
+3 Paradoxical Outcome
+1 Aetherflux Reservoir
+1 Sink into Stupor
+4 Mishra's Bauble
+1 Skateboard
+1 Pyrite Spellbomb
+2 Thundertrap Trainer
+3 Urza's Bauble
+3 Petrified Hamlet
 
-1 Haywire Mite
-2 Tormod's Crypt
-3 Harbinger of the Seas
-2 Force of Negation
+1 Pyrite Spellbomb
 1 Pithing Needle
-3 Disruptor Flute
-3 Sudden Demise
+2 Force of Negation
+1 Soul-Guide Lantern
+1 Hydroblast
+1 Flusterstorm
+3 Consign to Memory
+1 Grafdigger's Cage
+1 Dismember
+1 Pyroblast
+1 Haywire Mite
+1 Flame of Anor

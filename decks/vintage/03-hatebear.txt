@@ -1,29 +1,29 @@
-4 Clarion Conqueror
-1 Vexing Bauble
-4 Witch Enchanter
+1 Mana Crypt
 4 Anointed Peacekeeper
-4 White Plume Adventurer
-4 Seasoned Dungeoneer
-4 Void Mirror
 4 Archon of Emeria
 1 Black Lotus
+1 Karakas
+4 Chancellor of the Annex
+4 Ancient Tomb
+4 Wasteland
+4 Cavern of Souls
 1 Mox Emerald
 1 Mox Jet
 1 Mox Pearl
 1 Mox Ruby
 1 Mox Sapphire
-1 Mana Crypt
-4 Cavern of Souls
-1 Strip Mine
-4 Chancellor of the Annex
-4 Chrome Mox
-1 Karakas
-4 Ancient Tomb
-4 Wasteland
 2 Plains
+4 Seasoned Dungeoneer
+1 Strip Mine
+1 Vexing Bauble
+4 Void Mirror
+4 White Plume Adventurer
+4 Witch Enchanter
+4 Chrome Mox
+4 Clarion Conqueror
 
-3 Containment Priest
 3 Archon of Absolution
+4 Leyline of the Void
 2 Null Rod
 3 Swords to Plowshares
-4 Leyline of the Void
+3 Containment Priest

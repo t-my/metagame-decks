@@ -1,32 +1,26 @@
-3 Incubation/Incongruity
-4 Nature's Rhythm
-1 Dundoolin Weaver
-1 Fblthp, the Lost
-1 Kinnan, Bonder Prodigy
-1 The Unbeatable Squirrel Girl
-1 Ulvenwald Oddity
-1 Prime Speaker Vannifar
-3 Enduring Vitality
-3 Formidable Speaker
-4 Elvish Mystic
-4 Fiend Artisan
-4 Llanowar Elves
-4 Shang-Chi, Master of Kung Fu
-4 Badgermole Cub
+4 Overgrown Tomb
+4 Nykthos, Shrine to Nyx
+4 Llanowar Wastes
+4 Blooming Marsh
+3 Forest
 2 Boseiju, Who Endures
-2 Lair of the Hydra
-2 Forest
-3 Nykthos, Shrine to Nyx
-4 Breeding Pool
-4 Botanical Sanctum
-4 Barkchannel Pathway
+1 Lair of the Hydra
+4 Badgermole Cub
+4 The Unbeatable Squirrel Girl
+4 Llanowar Elves
+4 Fiend Artisan
+4 Enduring Vitality
+4 Elvish Mystic
+3 Shang-Chi, Master of Kung Fu
+2 Formidable Speaker
+1 Craterhoof Behemoth
+4 Tyvar, Jubilant Brawler
+4 Nature's Rhythm
 
-1 Swan Song
-1 Abhorrent Oculus
-3 Spell Pierce
+3 Keen-Eyed Curator
+3 Surrak, Elusive Hunter
+3 Thoughtseize
+2 Abrupt Decay
+2 Fatal Push
+1 Ba Sing Se
 1 Kraul Harpooner
-1 Guerrilla Gorilla
-2 Keen-Eyed Curator
-2 Virulent Emissary
-2 Ouroboroid
-2 The Wondrous Wasp

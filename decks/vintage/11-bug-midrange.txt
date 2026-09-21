@@ -1,0 +1,39 @@
+4 Wasteland
+3 Tropical Island
+1 Ancestral Recall
+1 Gitaxian Probe
+1 Time Walk
+1 Demonic Tutor
+1 Mental Misstep
+1 Black Lotus
+1 Mox Sapphire
+1 Mox Emerald
+1 Life from the Loam
+1 Mox Jet
+1 Regrowth
+2 Force of Negation
+2 Spell Pierce
+2 Fatal Push
+2 Abrupt Decay
+2 Lorien Revealed
+3 Flow State
+4 Force of Will
+2 Bilbo, Thief in the Night
+4 Psychic Frog
+4 Deathrite Shaman
+4 Collector Ouphe
+1 Undercity Sewers
+1 Strip Mine
+2 Misty Rainforest
+2 Verdant Catacombs
+2 Polluted Delta
+3 Underground Sea
+
+2 Nihil Spellbomb
+1 The Tabernacle at Pendrell Vale
+1 Lurrus of the Dream-Den
+1 Snuff Out
+3 Force of Vigor
+2 Dismember
+3 Grafdigger's Cage
+2 Fatal Push

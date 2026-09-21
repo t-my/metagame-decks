@@ -5,10 +5,8 @@
 4 Stock Up
 1 Gitaxian Probe
 2 Scalding Tarn
-1 Hedge Maze
 1 Time Walk
-1 Thundering Falls
-4 Oath of Druids
+1 Polluted Delta
 1 Mox Sapphire
 1 Gaea's Blessing
 1 Mox Ruby
@@ -18,24 +16,28 @@
 2 Lorien Revealed
 2 Oko, Thief of Crowns
 4 Force of Will
-1 Dig Through Time
-1 Strip Mine
+1 Thundering Falls
 2 Atraxa, Grand Unifier
 1 Brainstorm
 1 Black Lotus
 1 Ancestral Recall
 2 Boseiju, Who Endures
-1 Polluted Delta
-3 Null Rod
+1 Strip Mine
 1 Vexing Bauble
 2 Forbidden Orchard
-1 Treasure Cruise
-2 Mindbreak Trap
 2 Force of Negation
+4 Oath of Druids
+3 Null Rod
+1 Hedge Maze
+1 Treasure Cruise
+1 Life from the Loam
+1 Dig Through Time
+1 Fastbond
 
-1 Mindbreak Trap
 2 Ancient Grudge
+3 Pyroblast
 2 Abrade
-4 Soul-Guide Lantern
-4 Pyroblast
 2 Veil of Summer
+4 Soul-Guide Lantern
+1 Minsc & Boo, Timeless Heroes
+1 Mindbreak Trap

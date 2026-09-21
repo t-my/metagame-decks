@@ -1,32 +1,31 @@
-2 Shivan Reef
-2 Island
-4 Tormod's Crypt
-1 Welding Jar
-1 Pithing Needle
-1 Steam Vents
-4 Mox Opal
-2 Salvage Titan
-4 Mishra's Bauble
-3 Emry, Lurker of the Loch
-3 Metallic Rebuke
-4 Pinnacle Emissary
-4 Fiery Islet
-4 Spirebluff Canal
-1 Shadowspear
-4 Urza's Saga
-4 Kappa Cannoneer
-4 Weapons Manufacturing
+2 Sink into Stupor
+4 Tamiyo, Inquisitive Student
+4 Cori-Steel Cutter
+4 Boomerang Basics
 1 Skateboard
-4 Engineered Explosives
-3 Claws of Gix
+3 Bilbo, Thief in the Night
+1 Aether Spellbomb
+3 Erayo, Soratami Ascendant
+4 Mox Opal
+1 Steam Vents
+3 Repeal
+4 Spirebluff Canal
+2 Metallic Rebuke
+3 Mox Amber
+4 Fiery Islet
+4 Emry, Lurker of the Loch
+2 Island
+1 Mountain
+1 Tormod's Crypt
+4 Mishra's Bauble
+4 Urza's Saga
+1 Pithing Needle
 
-1 Blood Moon
-1 Grafdigger's Cage
-1 Whipflare
-1 Swan Song
-1 Damping Sphere
-2 Mystical Dispute
+1 Metallic Rebuke
+1 Soul-Guide Lantern
 3 Consign to Memory
+3 Harbinger of the Seas
 1 Vexing Bauble
-3 Galvanic Blast
-1 Cursed Totem
+2 Avengers Disassembled
+2 Hurkyl's Recall
+2 Spell Snare

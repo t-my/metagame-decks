@@ -1,22 +1,29 @@
-15 Forest
-4 Llanowar Elves
-4 Fabled Passage
-4 Escape Tunnel
-2 Bristly Bill, Spine Sower
-2 Keen-Eyed Curator
-2 Lumbering Worldwagon
-1 Surrak, Elusive Hunter
-4 Sazh's Chocobo
-4 Esper Origins
 4 Icetill Explorer
+4 Llanowar Elves
 4 Mightform Harmonizer
+4 Sazh's Chocobo
+2 Mossborn Hydra
+1 Keen-Eyed Curator
+1 Surrak, Elusive Hunter
+4 Esper Origins
+2 Lumbering Worldwagon
+1 Snakeskin Veil
+2 Shared Roots
 4 Earthbender Ascension
-3 Ba Sing Se
-3 Sapling Nursery
-
-2 Surrak, Elusive Hunter
 1 Sapling Nursery
-2 Torpor Orb
-4 Mossborn Hydra
+13 Forest
+4 Ba Sing Se
+4 Escape Tunnel
+4 Fabled Passage
+1 Cavern of Souls
+
+2 Mossborn Hydra
+1 Keen-Eyed Curator
+1 Surrak, Elusive Hunter
+1 Snakeskin Veil
+2 Sapling Nursery
 4 Meltstrider's Resolve
-2 Gigantic Big Bear
+1 Sandman, Shifting Scoundrel
+1 Soul-Guide Lantern
+1 Torpor Orb
+1 Warg Tactics

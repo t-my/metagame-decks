@@ -1,0 +1,39 @@
+4 Wasteland
+4 Tundra
+4 Flooded Strand
+1 Plains
+1 Strip Mine
+1 Urza's Saga
+1 Time Walk
+1 Ancestral Recall
+1 Mental Misstep
+1 Gitaxian Probe
+1 Black Lotus
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Brainstorm
+1 Treasure Cruise
+1 Mox Emerald
+2 Spell Pierce
+3 Force of Negation
+3 Swords to Plowshares
+4 Lorien Revealed
+4 Force of Will
+4 Roiling Dragonstorm
+4 Flow State
+2 Bilbo, Thief in the Night
+4 Clarion Conqueror
+1 Karakas
+1 Island
+1 Meticulous Archive
+
+1 Fragmentize
+1 Prismatic Ending
+1 Path to Exile
+2 Pithing Needle
+3 Mystical Dispute
+2 Steel Sabotage
+4 Containment Priest
+1 Swords to Plowshares

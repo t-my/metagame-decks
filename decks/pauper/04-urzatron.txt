@@ -1,27 +1,26 @@
-1 Haunted Fengraf
-2 Forest
-4 Urza's Mine
+4 Barrels of Blasting Jelly
 1 Bojuka Bog
-2 Conduit Pylons
-4 Urza's Tower
-4 Urza's Power Plant
-4 Ancient Stirrings
-3 Barrels of Blasting Jelly
-4 Giant's Boulder
-4 Expedition Map
-3 Crop Rotation
-3 Candy Trail
-2 Bonder's Ornament
-1 Pulse of Murasa
-2 Generous Ent
-4 Boulderbranch Golem
-4 Pinnacle Kill-Ship
+3 Bonder's Ornament
 4 Bramble Wurm
-4 Maelstrom Colossus
+2 Conduit Pylons
+4 Expedition Map
+2 Pulse of Murasa
+2 Forest
+2 Generous Ent
+4 Giant's Boulder
+4 Malevolent Rumble
+4 Nyxborn Hydra
+4 Plunder the Trollshaws
+4 Urza's Power Plant
+4 Urza's Tower
+3 Crop Rotation
+1 Wooded Ridgeline
+4 Writhing Chrysalis
+4 Urza's Mine
 
-3 Hydroblast
-2 Relic of Progenitus
-2 Call Damage Control
-4 Revoke Existence
-2 Breath Weapon
-2 Scour from Existence
+3 Blue Elemental Blast
+2 Coalition Honor Guard
+4 Breath Weapon
+3 Faerie Macabre
+1 Hydroblast
+2 Ancient Grudge
