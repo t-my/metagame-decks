@@ -1,0 +1,54 @@
+2 Island
+2 Volcanic Island
+2 Underground Sea
+2 Polluted Delta
+1 Urza's Saga
+1 Flooded Strand
+1 Scalding Tarn
+1 Thundering Falls
+1 Tolarian Academy
+2 Hexing Squelcher
+1 Hullbreacher
+4 Lorien Revealed
+4 Flow State
+4 Stock Up
+4 Force of Will
+2 Force of Negation
+1 Chain of Vapor
+1 The Fantasticar
+1 Mystical Tutor
+1 Flusterstorm
+1 Time Walk
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Mox Ruby
+1 Mox Sapphire
+1 Mental Misstep
+1 Brainstorm
+1 Ancestral Recall
+1 Vexing Bauble
+1 Time Vault
+1 Sol Ring
+1 Mox Pearl
+1 Mox Jet
+1 Mox Emerald
+1 Timetwister
+1 Yawgmoth's Will
+1 Tinker
+1 Vampiric Tutor
+1 Black Lotus
+1 Bolas's Citadel
+1 Mana Crypt
+1 Manifold Key
+
+2 Hullbreacher
+1 Opposition Agent
+1 Mindbreak Trap
+1 Long Goodbye
+1 Dismember
+1 Commandeer
+2 Pyroblast
+2 Hurkyl's Recall
+2 Abrade
+1 Sphinx of the Steel Wind
+1 Portal to Phyrexia

@@ -1,25 +1,25 @@
-3 Silversmote Ghoul
-1 Golgari Grave-Troll
-4 Stinkweed Imp
-4 Golgari Thug
-4 Shambling Shell
-4 Force of Will
-2 Force of Negation
-4 Ichorid
-4 Narcomoeba
-4 Prized Amalgam
-4 Creeping Chill
-4 Hollow One
 4 Bazaar of Baghdad
 4 Serum Powder
 4 Noxious Revival
 1 Chalice of the Void
+4 Creeping Chill
+4 Narcomoeba
+4 Golgari Thug
 4 Grief
+4 Hollow One
+4 Ichorid
 1 Mental Misstep
+1 Unmask
+1 Golgari Grave-Troll
+4 Cabal Therapy
+4 Prized Amalgam
+3 Bridge from Below
+4 Shambling Shell
+4 Stinkweed Imp
+1 Once Upon a Time
 
-1 Force of Negation
 4 Force of Vigor
-1 Strip Mine
-1 Wasteland
-4 Sickening Shoal
 4 Leyline of the Void
+2 Mindbreak Trap
+4 Sickening Shoal
+1 Strip Mine

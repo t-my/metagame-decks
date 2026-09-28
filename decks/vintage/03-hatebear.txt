@@ -1,12 +1,13 @@
-1 Mana Crypt
-4 Anointed Peacekeeper
+4 Ancient Tomb
 4 Archon of Emeria
 1 Black Lotus
-1 Karakas
-4 Chancellor of the Annex
-4 Ancient Tomb
-4 Wasteland
 4 Cavern of Souls
+4 Chancellor of the Annex
+4 Chrome Mox
+4 Clarion Conqueror
+2 Karakas
+1 Karn, the Great Creator
+1 Mana Crypt
 1 Mox Emerald
 1 Mox Jet
 1 Mox Pearl
@@ -14,16 +15,19 @@
 1 Mox Sapphire
 2 Plains
 4 Seasoned Dungeoneer
+1 Sol Ring
 1 Strip Mine
+2 Swords to Plowshares
 1 Vexing Bauble
 4 Void Mirror
+4 Wasteland
 4 White Plume Adventurer
-4 Witch Enchanter
-4 Chrome Mox
-4 Clarion Conqueror
+3 Witch Enchanter
 
-3 Archon of Absolution
-4 Leyline of the Void
+2 Swords to Plowshares
+4 Archon of Absolution
+4 Containment Priest
+1 Grafdigger's Cage
 2 Null Rod
-3 Swords to Plowshares
-3 Containment Priest
+1 Portable Hole
+1 Stonecoil Serpent

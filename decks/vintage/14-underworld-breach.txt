@@ -1,54 +1,54 @@
-1 Ancestral Recall
-2 Bilbo, Thief in the Night
+1 Thoughtseize
+1 Vexing Bauble
 1 Black Lotus
-4 Stock Up
-1 Sol Ring
-1 Chain of Vapor
-1 Demonic Tutor
-1 Snow-Covered Island
-4 Flow State
-1 Mental Misstep
-2 Force of Negation
-1 Mana Crypt
-2 Flusterstorm
-4 Lorien Revealed
-1 Island
 1 Gitaxian Probe
+1 Time Walk
 1 Lotus Petal
-4 Force of Will
-1 Merchant Scroll
-1 Misty Rainforest
 1 Mox Emerald
 1 Mox Jet
 1 Mox Pearl
 1 Mox Ruby
 1 Mox Sapphire
-1 Consign to Memory
-1 Scalding Tarn
-1 Flooded Strand
-2 Gifts Ungiven
-1 Brain Freeze
-1 Vexing Bauble
-1 Time Walk
-1 Tolarian Academy
-1 Undercity Sewers
-1 Underground Sea
-2 Underworld Breach
-1 Urza's Saga
-2 Hexing Squelcher
+1 Demonic Tutor
+4 Bilbo, Thief in the Night
 3 Volcanic Island
-1 Sink into Stupor
-
-1 Consign to Memory
+2 Underworld Breach
+1 Tolarian Academy
+3 Scalding Tarn
+3 Polluted Delta
+1 Island
+1 Gifts Ungiven
+1 Force of Negation
+1 Vampiric Tutor
+1 Flusterstorm
+2 Pyroblast
 1 Abrade
-1 Hurkyl's Recall
-1 Long Goodbye
-2 Tormod's Crypt
-1 Shattering Spree
-1 Pyroblast
-1 Red Elemental Blast
-1 Dress Down
-2 Pithing Needle
-1 Virtue's Ruin
+1 Brain Freeze
+1 Urza's Saga
+4 Force of Will
+1 Undercity Sewers
+2 Underground Sea
+1 Mental Misstep
+1 Brainstorm
+1 Ancestral Recall
+1 Pyrite Spellbomb
+1 Merchant Scroll
+1 Mana Crypt
+1 Sol Ring
+1 Nihil Spellbomb
+2 Stock Up
+1 Boomerang Basics
+2 Lorien Revealed
+2 Hexing Squelcher
+
+1 Force of Negation
+1 Flusterstorm
+2 Pyroblast
+1 Hexing Squelcher
 1 Lurrus of the Dream-Den
-1 Yixlid Jailer
+1 Dress Down
+1 Strip Mine
+4 Consign to Memory
+1 Dismember
+1 Lithomantic Barrage
+1 Tormod's Crypt

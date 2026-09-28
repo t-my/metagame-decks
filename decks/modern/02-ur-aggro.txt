@@ -1,28 +1,28 @@
-2 Violent Urge
-1 Wooded Foothills
-2 Fiery Islet
-4 Scalding Tarn
-4 Arid Mesa
-3 Steam Vents
-1 Thundering Falls
 3 Mountain
-4 Dragon's Rage Channeler
-4 Monastery Swiftspear
-4 Cori-Steel Cutter
-4 Lightning Bolt
+4 Scalding Tarn
 4 Preordain
-4 Expressive Iteration
-3 Mutagenic Growth
-1 Unholy Heat
-4 Lava Dart
-4 Slickshot Show-Off
+4 Lightning Bolt
+4 Mutagenic Growth
+4 Monastery Swiftspear
+3 Bloodstained Mire
+3 Wooded Foothills
 4 Mishra's Bauble
+3 Steam Vents
+4 Lava Dart
+1 Fiery Islet
+3 Expressive Iteration
+4 Dragon's Rage Channeler
+1 Unholy Heat
+1 Thundering Falls
+4 Slickshot Show-Off
+2 Violent Urge
+4 Cori-Steel Cutter
 
-3 Unholy Heat
-2 Murktide Regent
-4 Consign to Memory
-1 Spell Pierce
+2 Unholy Heat
+2 Spell Pierce
 2 Surgical Extraction
-1 Mystical Dispute
-1 Spell Snare
+4 Consign to Memory
 1 Meltdown
+1 Eddymurk Crab
+1 Into the Flood Maw
+2 Spell Snare

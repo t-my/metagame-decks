@@ -1,43 +1,45 @@
-2 Wrenn and Six
-4 Wasteland
-2 Volcanic Island
-2 Tropical Island
-4 Stock Up
-1 Gitaxian Probe
-2 Scalding Tarn
-1 Time Walk
-1 Polluted Delta
-1 Mox Sapphire
-1 Gaea's Blessing
-1 Mox Ruby
-1 Mox Emerald
-2 Misty Rainforest
-1 Mental Misstep
-2 Lorien Revealed
-2 Oko, Thief of Crowns
-4 Force of Will
-1 Thundering Falls
-2 Atraxa, Grand Unifier
-1 Brainstorm
-1 Black Lotus
 1 Ancestral Recall
+1 Sol Ring
+4 Atraxa, Grand Unifier
+1 Black Lotus
 2 Boseiju, Who Endures
-1 Strip Mine
-1 Vexing Bauble
-2 Forbidden Orchard
-2 Force of Negation
+3 Show and Tell
+1 Polluted Delta
 4 Oath of Druids
-3 Null Rod
+1 Misty Rainforest
+2 Force of Negation
+1 Mental Misstep
+1 Gaea's Blessing
+1 Mana Crypt
 1 Hedge Maze
-1 Treasure Cruise
-1 Life from the Loam
-1 Dig Through Time
-1 Fastbond
+1 Island
+4 Flow State
+1 Gitaxian Probe
+4 Force of Will
+4 Forbidden Orchard
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Flusterstorm
+1 Oko, Thief of Crowns
+1 Flooded Strand
+1 Scalding Tarn
+1 Flash
+1 Ancient Tomb
+4 Stock Up
+1 Time Walk
+4 Tropical Island
+1 Soul-Guide Lantern
 
-2 Ancient Grudge
-3 Pyroblast
-2 Abrade
-2 Veil of Summer
-4 Soul-Guide Lantern
-1 Minsc & Boo, Timeless Heroes
+1 Force of Negation
+1 Flusterstorm
+1 Oko, Thief of Crowns
+2 Soul-Guide Lantern
+3 Consign to Memory
+3 Dismember
+1 Serra's Emissary
+1 Force of Vigor
+1 Pithing Needle
 1 Mindbreak Trap

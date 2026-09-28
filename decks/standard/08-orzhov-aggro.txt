@@ -1,31 +1,28 @@
-4 Haliya, Guided by Light
-4 Godless Shrine
-4 Case of the Uneaten Feast
-3 Concealed Courtyard
+4 Helping Hand
+4 Obsessive Pursuit
+4 Requiting Hex
+2 Moseo, Vein's New Dean
+3 Ruthless Lawbringer
+3 Haliya, Guided by Light
+4 Sephiroth, Fabled SOLDIER
+4 Umbral Collar Zealot
+4 Greedy Freebooter
+4 Lake-town Lookout
+4 The Sackville-Bagginses
+1 Dalkovan Encampment
+1 Plains
 2 Bleachbone Verge
-4 Hinterland Sanctifier
-3 Lunar Convocation
-4 Temple Garden
-4 Amalia Benavides Aguirre
-4 Starting Town
-2 Plains
-3 Overgrown Tomb
-1 Aunt May
-3 Erode
-4 Essence Channeler
-3 Professor Dellian Fel
-1 Swamp
-1 Elspeth, Storm Slayer
-1 Emptiness
-3 Moseo, Vein's New Dean
-2 Deep-Cavern Bat
+2 Shattered Sanctum
+2 Multiversal Passage
+4 Concealed Courtyard
+4 Godless Shrine
+4 Swamp
 
-1 Lunar Convocation
-3 Seam Rip
-1 Requisition Raid
-1 Strategic Betrayal
-2 Duress
-2 Starscape Cleric
 2 Curious Farm Animals
-1 Pyrrhic Strike
-2 Ghost Vacuum
+2 Seam Rip
+1 Ancient Vendetta
+1 Ghost Vacuum
+2 Get Lost
+2 Dusk Rose Reliquary
+2 Soul-Guide Lantern
+3 Duress

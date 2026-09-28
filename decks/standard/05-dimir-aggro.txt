@@ -1,32 +1,39 @@
-4 Spyglass Siren
-4 Floodpits Drowner
-4 Dream Beavers
-4 Enduring Curiosity
+5 Island
 2 The Wondrous Wasp
-1 Tishana's Tidebinder
-2 Wan Shi Tong, Librarian
-2 Bitter Triumph
-1 Spell Pierce
-4 Requiting Hex
-2 Shoot the Sheriff
-1 Spell Snare
 2 We Say Thee Nay!
+2 Dream Beavers
+2 Loch Mare
+3 Requiting Hex
+1 Dawnhand Dissident
+2 Multiversal Passage
+2 Cecil, Dark Knight
+1 Soulstone Sanctuary
 4 Kaito, Bane of Nightmares
-4 Island
-3 Hidden Lair
-4 Swamp
 4 Gloomlake Verge
-2 Restless Reef
+3 Enduring Curiosity
+3 Floodpits Drowner
+1 Hidden Lair
+6 Swamp
+4 Spyglass Siren
+1 Bitter Triumph
+1 Preacher of the Schism
+1 Restless Reef
+2 Tishana's Tidebinder
+2 Shoot the Sheriff
+1 Spell Pierce
 4 Watery Grave
-2 Soulstone Sanctuary
+1 Fountainport
 
-1 Tishana's Tidebinder
-2 Flashfreeze
-2 Strategic Betrayal
-3 Duress
-1 Raven Eagle
-1 Vren, the Relentless
-1 Ghost Vacuum
+1 Requiting Hex
 1 Annul
-2 Day of Black Sun
-1 Ancient Vendetta
+1 Raven Eagle
+3 Day of Black Sun
+1 Strategic Betrayal
+1 Stab
+1 Flashfreeze
+1 Essence Scatter
+1 Negate
+1 Duress
+1 Disdainful Stroke
+1 Ghost Vacuum
+1 Spell Snare

@@ -1,29 +1,31 @@
 4 Apex Devastator
-4 Creative Technique
-3 Boseiju, Who Endures
+4 Trumpeting Carnosaur
+2 Emrakul, the Aeons Torn
 2 Maelstrom Wanderer
-2 Crystal Vein
+1 Etali, Primal Conqueror
+4 Violent Outburst
+3 Tibalt's Trickery
+4 Creative Technique
+4 Throes of Chaos
+2 Call Forth the Tempest
 4 Ancient Tomb
 4 Dwarven Ruins
-1 Gemstone Caverns
-2 Hickory Woodlot
-2 Emrakul, the Aeons Torn
-4 Tibalt's Trickery
-1 Etali, Primal Conqueror
-4 Sandstone Needle
-4 Throes of Chaos
-1 Tinder Farm
-2 Call Forth the Tempest
-4 Violent Outburst
-4 Trumpeting Carnosaur
-3 Petrified Hamlet
 4 Mossfire Valley
+4 Sandstone Needle
+3 Boseiju, Who Endures
+3 Petrified Hamlet
+2 Crystal Vein
+2 Hickory Woodlot
+1 Gemstone Caverns
 1 Mountain
+1 Taiga
+1 Tinder Farm
 
+1 Tibalt's Trickery
 1 Boseiju, Who Endures
 1 Petrified Hamlet
-1 Blast Zone
+4 Leyline of the Void
 3 Fury
 2 Inevitable Betrayal
-4 Leyline of the Void
-3 Ingot Chewer
+2 Ingot Chewer
+1 Blast Zone
