@@ -1,29 +1,31 @@
-4 Consult the Star Charts
-3 Day of Judgment
 4 Island
-3 Emeritus of Ideation
-3 Erode
-4 Floodfarm Verge
-2 Fountainport
-4 Get Lost
 4 Hallowed Fountain
-2 Meticulous Archive
-4 No More Lies
-2 Petrified Hamlet
-2 Pinnacle Starcage
-2 Demolition Field
-3 Restless Anchorage
-3 Seam Rip
-4 Stock Up
-3 Three Steps Ahead
 4 Plains
-
+4 Floodfarm Verge
+3 Demolition Field
+2 Skycoach Waypoint
+2 Gleaming Bastion
+1 Meticulous Archive
+4 Emeritus of Truce
+4 Emeritus of Ideation
+4 Bender's Waterskin
+4 Seam Rip
+4 Three Steps Ahead
+4 No More Lies
+4 Opt
+2 Day of Judgment
 2 Pinnacle Starcage
-1 Seam Rip
-2 Beza, the Bounding Spring
-2 Voice of Victory
-2 Flashfreeze
+2 Get Lost
+1 Erode
+1 The Legend of Kuruk
+
 2 Disdainful Stroke
+2 Flashfreeze
 1 Negate
+2 Rest in Peace
+2 Spell Snare
+1 The Sentry, Golden Guardian
 1 Captain Marvel, Earth's Protector
-2 Wan Shi Tong, Librarian
+2 Annul
+1 Spell Pierce
+1 Petrified Hamlet

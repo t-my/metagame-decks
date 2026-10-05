@@ -1,37 +1,31 @@
-1 Fatal Push
-1 Spell Snare
-1 Prismatic Ending
-1 Force of Negation
-2 Kaito, Bane of Nightmares
-3 Thoughtseize
+1 Consign to Memory
+2 Force of Negation
+2 Prismatic Ending
 4 Brainstorm
+4 Force of Will
+4 Stifle
 4 Ponder
 4 Swords to Plowshares
-4 Force of Will
-3 Phelia, Exuberant Shepherd
-4 Orcish Bowmasters
-4 Quantum Riddler
+3 Murktide Regent
+4 Phelia, Exuberant Shepherd
 4 Tamiyo, Inquisitive Student
-1 Underground Sea
-1 Undercity Sewers
-1 Tundra
-1 Scrubland
-1 Swamp
+4 Quantum Riddler
+1 Karakas
+1 Meticulous Archive
 1 Plains
-2 Marsh Flats
+1 Arid Mesa
+1 Volcanic Island
+2 Tundra
 2 Island
-3 Wasteland
-3 Flooded Strand
-4 Polluted Delta
+3 Scalding Tarn
+4 Wasteland
+4 Flooded Strand
 
-1 Vindicate
-2 Barrowgoyf
-3 Consign to Memory
-1 Damping Sphere
-2 Rest in Peace
-1 Massacre
-1 Wrath of the Skies
+2 Wrath of the Skies
+2 Containment Priest
+2 Erode
 1 Hydroblast
-1 Fatal Push
-1 Force of Negation
-1 Thoughtseize
+2 Lavinia, Azorius Renegade
+2 Pyroblast
+2 Triumph of Saint Katherine
+2 Consign to Memory

@@ -1,0 +1,42 @@
+2 Flooded Strand
+1 Island
+2 Misty Rainforest
+2 Polluted Delta
+2 Scalding Tarn
+1 Undercity Sewers
+4 Underground Sea
+4 Street Wraith
+2 Thassa's Oracle
+1 Ancestral Recall
+1 Black Lotus
+1 Brainstorm
+1 Chain of Vapor
+4 Dark Ritual
+1 Demonic Consultation
+1 Demonic Tutor
+1 Dig Through Time
+4 Doomsday
+3 Flusterstorm
+2 Force of Negation
+4 Force of Will
+1 Gitaxian Probe
+1 Gush
+1 Mental Misstep
+1 Mindbreak Trap
+1 Mox Jet
+1 Mox Sapphire
+4 Ponder
+3 Preordain
+1 Thoughtseize
+1 Time Walk
+1 Vampiric Tutor
+
+1 Mindbreak Trap
+1 Thoughtseize
+1 The Tabernacle at Pendrell Vale
+1 Consign to Memory
+1 Dismember
+4 Leyline of the Void
+2 Null Rod
+1 Steel Sabotage
+3 Unable to Scream

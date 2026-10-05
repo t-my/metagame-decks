@@ -1,37 +1,36 @@
-7 Forest
-4 Brushland
-4 Windswept Heath
-3 Gaea's Cradle
-1 Plains
-1 City of Brass
-3 Armageddon
-4 Swords to Plowshares
+8 Forest
+2 Natural Order
+2 Sylvan Library
+4 Lightning Bolt
 4 Survival of the Fittest
-1 Ravenous Baloth
+1 Spore Frog
 1 Squee, Goblin Nabob
-1 Thornscape Battlemage
-1 Wirewood Symbiote
-1 Monk Realist
-1 Genesis
+1 Phantom Nishoba
 1 Nantuko Vigilante
-1 Masticore
-1 Priest of Titania
-1 Auramancer
-1 Silvos, Rogue Elemental
-2 Deranged Hermit
-2 Fyndhorn Elves
-2 Llanowar Elves
-2 Quirion Ranger
-3 Wall of Roots
-3 Glowrider
+1 Krosan Tusker
+1 Grim Lavamancer
+1 Goblin Sharpshooter
+1 Gigapede
+1 Genesis
+1 Deranged Hermit
+1 Anger
+1 Quirion Ranger
+3 Arrogant Wurm
+3 Wild Mongrel
 4 Birds of Paradise
+4 Basking Rootwalla
+2 Mountain
+4 Wooded Foothills
+4 Wasteland
+4 Karplusan Forest
 
-1 Sphere of Law
-3 Naturalize
-1 Absolute Law
-1 Warmth
-4 Presence of the Master
-2 Tormod's Crypt
-1 Armageddon
-1 Ravenous Baloth
-1 Glowrider
+1 Voracious Cobra
+3 Red Elemental Blast
+2 Naturalize
+2 Phyrexian Furnace
+2 Pyroclasm
+1 Hull Breach
+1 Pyroblast
+1 Tormod's Crypt
+1 Tranquil Domain
+1 Tsabo's Web

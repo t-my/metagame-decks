@@ -1,47 +1,48 @@
-4 Wasteland
-1 Urza's Saga
-3 Underground Sea
-1 Meticulous Archive
-1 Nihil Spellbomb
-2 Tundra
-1 Treasure Cruise
-1 Time Walk
-1 Thoughtseize
-3 Swords to Plowshares
-1 Strip Mine
-2 Spell Pierce
-1 Scalding Tarn
-4 Psychic Frog
-1 Polluted Delta
-2 Orcish Bowmasters
-1 Null Rod
-1 Mox Sapphire
-1 Mox Pearl
-1 Mox Jet
-1 Misty Rainforest
-1 Mental Misstep
-3 Lorien Revealed
-1 Karakas
-1 Island
-1 Gitaxian Probe
-4 Force of Will
-3 Force of Negation
-1 Flusterstorm
-4 Flow State
-1 Demonic Tutor
-1 Brainstorm
-1 Black Lotus
-2 Bilbo, Thief in the Night
 1 Ancestral Recall
+2 Bilbo, Thief in the Night
+1 Black Lotus
+1 Demonic Tutor
 1 Flooded Strand
-
+4 Flow State
+1 Flusterstorm
+3 Force of Negation
+3 Lorien Revealed
+3 Swords to Plowshares
+2 Spell Pierce
+1 Karakas
+2 Orcish Bowmasters
 1 Nihil Spellbomb
-1 Swords to Plowshares
+1 Meticulous Archive
+1 Misty Rainforest
+1 Mox Jet
+1 Mox Pearl
+1 Mox Sapphire
+1 Mental Misstep
 1 Null Rod
-1 The Tabernacle at Pendrell Vale
-1 Prismatic Ending
-4 Containment Priest
+3 Underground Sea
+1 Polluted Delta
+4 Psychic Frog
+1 Scalding Tarn
+1 Island
+1 Strip Mine
+1 Gitaxian Probe
+1 Thoughtseize
+1 Time Walk
+1 Treasure Cruise
+2 Tundra
+1 Urza's Saga
+1 Vexing Bauble
+4 Wasteland
+4 Force of Will
+
+1 Swords to Plowshares
+1 Nihil Spellbomb
+1 Null Rod
+2 Consign to Memory
 1 Lurrus of the Dream-Den
 1 Mystical Dispute
-2 Fatal Push
-2 Consign to Memory
+1 Long Goodbye
+1 Prismatic Ending
+1 Fatal Push
+1 The Tabernacle at Pendrell Vale
+4 Containment Priest

@@ -1,31 +1,28 @@
-4 Adarkar Wastes
-4 Exalted Angel
-3 Decree of Justice
-4 Portent
-3 Fact or Fiction
-1 Flash of Insight
-4 Counterspell
-2 Mana Leak
-1 Prohibit
-1 Absorb
-4 Swords to Plowshares
-2 Disenchant
+1 Forbid
+1 Enlightened Tutor
+2 Powder Keg
+2 Decree of Justice
 2 Wrath of God
-2 Akroma's Vengeance
-2 Phyrexian Furnace
-6 Island
-6 Plains
+3 Nevinyrral's Disk
+3 Fact or Fiction
+4 Counterspell
+4 Mana Leak
+4 Swords to Plowshares
+4 Standstill
+2 Exalted Angel
+1 Thawing Glaciers
+2 Dust Bowl
+2 Plains
+2 Adarkar Wastes
 4 Flooded Strand
-2 Coastal Tower
-2 Temple of the False God
-1 Wasteland
+4 Wasteland
+4 Mishra's Factory
+4 Faerie Conclave
+5 Island
 
-1 Phyrexian Furnace
-1 Wasteland
+1 Conversion
+1 Aura Fracture
+2 Arcane Laboratory
+3 Phyrexian Furnace
 4 Meddling Mage
-3 Hydroblast
-1 Sphere of Law
-2 Annul
-1 Aura of Silence
-1 Scour
-1 Exile
+4 Blue Elemental Blast

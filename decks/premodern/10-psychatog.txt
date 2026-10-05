@@ -1,26 +1,28 @@
-4 Psychatog
 4 Accumulated Knowledge
+1 Chain of Vapor
 4 Counterspell
-4 Duress
-2 Fact or Fiction
+3 Duress
 3 Foil
 4 Gush
-4 Impulse
-4 Portent
-2 Sickening Dreams
-3 Smother
-2 Zombie Infestation
+3 Impulse
 10 Island
+2 Lim-Dul's Vault
+3 Opt
 4 Polluted Delta
+4 Portent
+1 Powder Keg
+4 Psychatog
+1 Sickening Dreams
+3 Smother
 2 Swamp
-4 Underground River
+3 Underground River
+1 Wonder
 
-1 Smother
-2 Tsabo's Web
+1 Duress
+1 Sickening Dreams
 3 Annul
+2 Blue Elemental Blast
 3 Engineered Plague
-1 Haunting Echoes
-2 Ivory Tower
-1 Lobotomy
-1 Phyrexian Furnace
-1 Tormod's Crypt
+2 Hydroblast
+2 Tsabo's Web
+1 Zombie Infestation

@@ -1,24 +1,24 @@
-3 Ba Sing Se
-2 Dyadrine, Synthesis Amalgam
 4 Earthbender Ascension
-10 Forest
-3 Esper Origins
-1 Hushwood Verge
-4 Fabled Passage
-3 Escape Tunnel
-4 Mightform Harmonizer
-3 Mossborn Hydra
-1 Plains
-4 Sazh's Chocobo
 2 Shared Roots
-4 Erode
+4 Sazh's Chocobo
+1 Plains
 4 Icetill Explorer
+4 Mightform Harmonizer
 4 Llanowar Elves
+3 Mossborn Hydra
+1 Hushwood Verge
+10 Forest
+4 Fabled Passage
+3 Esper Origins
+3 Escape Tunnel
+4 Erode
 4 Temple Garden
+2 Dyadrine, Synthesis Amalgam
+3 Ba Sing Se
 
 1 Mossborn Hydra
-2 Torpor Orb
-4 Sapling Nursery
-4 Sheltered by Ghosts
 2 Surrak, Elusive Hunter
+4 Sheltered by Ghosts
+4 Sapling Nursery
 2 Rest in Peace
+2 Torpor Orb

@@ -1,32 +1,30 @@
-4 Ajani, Nacatl Pariah
 4 Amped Raptor
-4 Guide of Souls
-4 Ocelot Pride
-4 Voice of Victory
-2 Hexing Squelcher
-2 Sand Scout
-1 Phlage, Titan of Fire's Fury
-4 Swords to Plowshares
-3 Once Upon a Time
-1 Forth Eorlingas!
-2 Goblin Bombardment
-2 Static Prison
-4 Arid Mesa
 4 Wasteland
-2 Karakas
-2 Lazotep Quarry
-2 Marsh Flats
-2 Plains
-2 Plateau
 1 Elegant Parlor
 1 Mountain
-1 Savannah
-1 Sunbaked Canyon
-1 Windswept Heath
+4 Ajani, Nacatl Pariah
+2 Lazotep Quarry
+2 Windswept Heath
+4 Guide of Souls
+3 Plateau
+3 Static Prison
+2 Sunbaked Canyon
+2 Marsh Flats
+3 Goblin Bombardment
+4 Ocelot Pride
+2 Karakas
+4 Swords to Plowshares
+4 Sand Scout
+1 Plains
+4 Voice of Victory
+2 Samut, Hazoret's Champion
+4 Arid Mesa
 
-3 Gaddock Teeg
+2 Pyroblast
+1 Red Elemental Blast
+2 Surgical Extraction
+1 Erode
 3 Price of Progress
-3 Pyroblast
-2 Abrade
-2 Containment Priest
-2 Faerie Macabre
+2 Null Rod
+1 Abrade
+3 Containment Priest

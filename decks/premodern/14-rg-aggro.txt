@@ -1,27 +1,26 @@
-4 Basking Rootwalla
-4 Grim Lavamancer
-4 Mogg Fanatic
-4 Wild Mongrel
-1 Ravenous Baloth
-1 Cursed Scroll
-4 Incinerate
+1 Rancor
+2 Naturalize
+3 Seal of Fire
+3 Sylvan Library
 4 Lightning Bolt
-3 Naturalize
-2 Lava Dart
+4 Incinerate
 4 Call of the Herd
-2 Sylvan Library
-5 Mountain
-4 Forest
+3 Grim Lavamancer
+4 Wild Mongrel
+4 Basking Rootwalla
+4 Mogg Fanatic
+2 Bloodstained Mire
+2 Forest
+4 Wasteland
+4 Treetop Village
 4 Karplusan Forest
 4 Wooded Foothills
-2 Bloodstained Mire
-2 Treetop Village
-2 Wasteland
+4 Mountain
 
+2 Ravenous Baloth
+2 Tranquil Domain
+2 Overload
+2 Earthquake
+4 Red Elemental Blast
+2 Tormod's Crypt
 1 Naturalize
-3 Tormod's Crypt
-3 Tranquil Domain
-2 Crumble
-2 Pyroblast
-2 Red Elemental Blast
-2 Simoon

@@ -1,29 +1,31 @@
-4 Starting Town
-4 Castle Doom
-4 Sacred Foundry
-3 Hallowed Fountain
-2 Cori Mountain Monastery
-2 Island
-2 Sundown Pass
-1 Steam Vents
-1 Plains
-1 Mountain
+1 Thror's Map
+1 Soul-Guide Lantern
+1 Solitary Cell
+1 Candy Trail
+2 Chandra, Chill of Compliance
+2 Dusk Rose Reliquary
+2 Tezzeret, Cruel Captain
+2 Spring-Loaded Sawblades
+4 United Battlefront
+4 Legion Extruder
+4 Cryogen Relic
+4 Pinnacle Starcage
 4 Aang's Iceberg
 4 Weapons Manufacturing
-4 Legion Extruder
-4 United Battlefront
-4 Pinnacle Starcage
-4 Cryogen Relic
-3 Lodestone Needle
-2 Spring-Loaded Sawblades
-2 Tezzeret, Cruel Captain
-2 Dusk Rose Reliquary
-1 Thror's Map
-1 Candy Trail
-1 Soul-Guide Lantern
+1 Plains
+1 Cori Mountain Monastery
+1 Mountain
+1 Island
+2 Mystic Monastery
+3 Sacred Foundry
+3 Steam Vents
+4 Starting Town
+4 Floodfarm Verge
+4 Hallowed Fountain
 
-2 Tezzeret, Cruel Captain
-4 Page, Loose Leaf
-4 Seam Rip
+2 Seam Rip
 1 Scene of the Crime
 4 Torpor Orb
+4 Page, Loose Leaf
+2 Chandra, Chill of Compliance
+2 Tezzeret, Cruel Captain

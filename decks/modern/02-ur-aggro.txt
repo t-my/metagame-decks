@@ -1,28 +1,31 @@
-3 Mountain
-4 Scalding Tarn
-4 Preordain
-4 Lightning Bolt
-4 Mutagenic Growth
-4 Monastery Swiftspear
-3 Bloodstained Mire
-3 Wooded Foothills
-4 Mishra's Bauble
-3 Steam Vents
-4 Lava Dart
-1 Fiery Islet
-3 Expressive Iteration
-4 Dragon's Rage Channeler
-1 Unholy Heat
+4 Unholy Heat
 1 Thundering Falls
-4 Slickshot Show-Off
-2 Violent Urge
-4 Cori-Steel Cutter
+3 Steam Vents
+4 Spirebluff Canal
+1 Spell Pierce
+4 Preordain
+4 Mishra's Bauble
+4 Ragavan, Nimble Pilferer
+3 Murktide Regent
+3 Polluted Delta
+3 Lightning Bolt
+4 Expressive Iteration
+1 Force of Negation
+3 Spell Snare
+2 Subtlety
+4 Dragon's Rage Channeler
+4 Counterspell
+1 Consign to Memory
+4 Scalding Tarn
+3 Island
 
-2 Unholy Heat
-2 Spell Pierce
-2 Surgical Extraction
-4 Consign to Memory
-1 Meltdown
-1 Eddymurk Crab
-1 Into the Flood Maw
-2 Spell Snare
+3 Consign to Memory
+1 Surgical Extraction
+1 Obsidian Charmaw
+1 Fire Magic
+1 Hurkyl's Recall
+2 Meltdown
+1 Stern Scolding
+3 Mystical Dispute
+1 Blood Moon
+1 Flow State
