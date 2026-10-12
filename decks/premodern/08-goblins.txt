@@ -1,27 +1,23 @@
-1 Barbarian Ring
-1 Forest
-3 Gempalm Incinerator
-1 Goblin King
-4 Goblin Lackey
-4 Goblin Matron
-4 Goblin Piledriver
-4 Goblin Ringleader
-1 Goblin Sharpshooter
-1 Goblin Tinkerer
-4 Goblin Warchief
-4 Karplusan Forest
-4 Mogg Fanatic
-8 Mountain
-2 Naturalize
-4 Rishadan Port
 3 Siege-Gang Commander
+1 Goblin Sharpshooter
+4 Goblin Ringleader
 1 Skirk Prospector
-2 Wasteland
-4 Wooded Foothills
+4 Goblin Warchief
+3 Wasteland
+4 Goblin Lackey
+4 Mogg Fanatic
+4 Gempalm Incinerator
+4 Goblin Matron
+4 Rishadan Port
+17 Mountain
+2 Goblin Goon
+4 Goblin Piledriver
+1 Goblin Tinkerer
 
-2 Naturalize
-2 Pyroblast
-3 Pyrokinesis
-2 Red Elemental Blast
+1 Goblin Goon
+2 Overload
+3 Red Elemental Blast
+2 Anarchy
 3 Tormod's Crypt
-3 Tranquil Domain
+3 Pyrokinesis
+1 Mogg Salvage

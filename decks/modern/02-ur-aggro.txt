@@ -1,31 +1,32 @@
-4 Unholy Heat
-1 Thundering Falls
 3 Steam Vents
 4 Spirebluff Canal
 1 Spell Pierce
-4 Preordain
-4 Mishra's Bauble
+3 Scalding Tarn
 4 Ragavan, Nimble Pilferer
-3 Murktide Regent
-3 Polluted Delta
+2 Polluted Delta
+2 Misty Rainforest
+4 Mishra's Bauble
 3 Lightning Bolt
-4 Expressive Iteration
+3 Murktide Regent
+3 Island
+4 Preordain
 1 Force of Negation
 3 Spell Snare
-2 Subtlety
+4 Expressive Iteration
 4 Dragon's Rage Channeler
 4 Counterspell
 1 Consign to Memory
-4 Scalding Tarn
-3 Island
+2 Subtlety
+1 Thundering Falls
+4 Unholy Heat
 
 3 Consign to Memory
-1 Surgical Extraction
-1 Obsidian Charmaw
+1 Test of Talents
 1 Fire Magic
-1 Hurkyl's Recall
-2 Meltdown
+1 Meltdown
 1 Stern Scolding
+2 Obsidian Charmaw
+1 Ral, Crackling Wit
 3 Mystical Dispute
+1 Surgical Extraction
 1 Blood Moon
-1 Flow State

@@ -1,44 +1,44 @@
-4 Wasteland
+1 Ancestral Recall
 3 Bilbo, Thief in the Night
 1 Black Lotus
-4 Underground Sea
-1 Undercity Sewers
-1 Time Walk
-4 Flow State
-1 Swamp
-1 Strip Mine
-1 Spell Pierce
-4 Psychic Frog
-2 Ponder
-4 Polluted Delta
 2 Orcish Bowmasters
-1 Mox Jet
-2 Nihil Spellbomb
-1 Mox Sapphire
-1 Mox Pearl
-1 Null Rod
-1 Misty Rainforest
-1 Mental Misstep
-3 Lorien Revealed
-1 Island
-1 Gitaxian Probe
-4 Force of Will
-3 Force of Negation
-3 Fatal Push
 1 Demonic Tutor
+3 Fatal Push
+4 Flow State
+3 Force of Negation
+2 Nihil Spellbomb
+1 Mental Misstep
+1 Island
+3 Lorien Revealed
+1 Gitaxian Probe
+1 Misty Rainforest
+1 Mox Jet
+1 Mox Pearl
+1 Mox Sapphire
+4 Force of Will
+1 Null Rod
+4 Polluted Delta
+4 Psychic Frog
+1 Spell Pierce
+1 Strip Mine
 1 Brainstorm
+1 Time Walk
+1 Undercity Sewers
+4 Underground Sea
 1 Urza's Saga
-1 Ancestral Recall
+4 Wasteland
+2 Ponder
+1 Swamp
 
+1 Fatal Push
 1 Nihil Spellbomb
 1 Null Rod
-1 Fatal Push
-1 Sheoldred's Edict
-1 Pithing Needle
-1 Lurrus of the Dream-Den
+1 Annul
+3 Consign to Memory
+1 Feed the Swarm
 1 Flusterstorm
 2 Grafdigger's Cage
-1 Feed the Swarm
-3 Consign to Memory
-1 Annul
+1 Lurrus of the Dream-Den
+1 Pithing Needle
+1 Sheoldred's Edict
 1 The Tabernacle at Pendrell Vale

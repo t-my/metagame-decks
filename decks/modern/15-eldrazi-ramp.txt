@@ -1,0 +1,41 @@
+3 Forest
+3 Talisman of Impulse
+2 Stomping Ground
+4 Eldrazi Temple
+1 Ghost Quarter
+1 Misty Rainforest
+1 Bojuka Bog
+2 Herigast, Erupting Nullkite
+1 Sanctum of Ugin
+2 Kozilek's Return
+1 World Breaker
+3 Emrakul, the Promised End
+3 Karn, the Great Creator
+2 Unholy Heat
+1 Boseiju, Who Endures
+1 Commercial District
+4 Malevolent Rumble
+4 Sowing Mycospawn
+1 Shifting Woodland
+4 Ugin's Labyrinth
+1 Windswept Heath
+1 Wooded Foothills
+4 Kozilek's Command
+1 Devourer of Destiny
+2 Sire of Seven Deaths
+1 Ugin, Eye of the Storms
+2 Icetill Explorer
+1 Emrakul, the Exigent Doom
+4 Utopia Sprawl
+
+2 Blood Moon
+1 Ensnaring Bridge
+2 Nature's Claim
+1 Liquimetal Coating
+1 Torpor Orb
+1 Grafdigger's Cage
+1 Tormod's Crypt
+2 Trinisphere
+1 Vexing Bauble
+1 Null Elemental Blast
+2 Surgical Extraction

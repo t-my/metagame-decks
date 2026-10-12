@@ -1,18 +1,19 @@
-4 Grim Lavamancer
+4 Jackal Pup
 4 Mogg Fanatic
-4 Black Vise
-4 Fireblast
-4 Incinerate
-4 Lightning Bolt
-4 Flame Rift
-4 Pyrostatic Pillar
+4 Grim Lavamancer
+4 Wasteland
 4 Seal of Fire
-2 Sulfuric Vortex
-18 Mountain
-4 Mishra's Factory
+3 Goblin Vandal
+2 Pillage
+3 Cursed Scroll
+4 Lightning Bolt
+4 Incinerate
+4 Fireblast
+4 Rishadan Port
+16 Mountain
 
+2 Pillage
 4 Ensnaring Bridge
-4 Overload
-3 Price of Progress
-2 Pyroblast
+3 Overload
 2 Red Elemental Blast
+4 Pyroblast

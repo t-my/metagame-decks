@@ -1,33 +1,39 @@
-1 Deep-Cavern Bat
-4 Amalia Benavides Aguirre
-4 Hinterland Sanctifier
-2 Voice of Victory
-3 Haliya, Guided by Light
-2 Emptiness
-2 Liliana the Faultless
-3 Moseo, Vein's New Dean
-3 Essence Channeler
-2 Starscape Cleric
-3 Erode
-4 Case of the Uneaten Feast
-3 Lunar Convocation
-2 Ajani Resolute
-4 Plains
-4 Godless Shrine
-3 Concealed Courtyard
-1 Shattered Sanctum
-1 Bleachbone Verge
-4 Starting Town
-3 Multiversal Passage
+4 Haliya, Guided by Light
 1 Swamp
-1 Dalkovan Encampment
+4 Case of the Uneaten Feast
+1 Shattered Sanctum
+2 Bleachbone Verge
+1 Fountainport
+1 Lupinflower Village
+4 Lunar Convocation
+1 Essence Channeler
+4 Amalia Benavides Aguirre
+4 Starting Town
+4 Hinterland Sanctifier
+3 Concealed Courtyard
+1 Liliana the Faultless
+3 Erode
+2 Ajani Resolute
+2 Enlightened Confidant
+4 Godless Shrine
+1 Elspeth, Storm Slayer
+3 Moseo, Vein's New Dean
+1 Starscape Cleric
+1 Seam Rip
+3 Plains
+3 Multiversal Passage
+1 Strategic Betrayal
+1 Kutzil's Flanker
 
-1 Deep-Cavern Bat
-1 Erode
-1 Cruelclaw's Heist
-2 Ghost Vacuum
-2 Enduring Innocence
-2 Seam Rip
-2 Strategic Betrayal
-1 Decorum Dissertation
-3 Cathar Commando
+1 Ajani Resolute
+1 Elspeth, Storm Slayer
+2 Starscape Cleric
+1 Seam Rip
+1 Strategic Betrayal
+1 Requisition Raid
+2 Duress
+2 Curious Farm Animals
+1 Pyrrhic Strike
+1 Ghost Vacuum
+1 Requiting Hex
+1 Bloodthirsty Conqueror

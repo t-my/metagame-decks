@@ -1,0 +1,25 @@
+17 Island
+2 Daze
+4 Foil
+4 Gush
+4 Opt
+1 Peek
+4 Portent
+4 Stifle
+4 Vision Charm
+4 Phyrexian Dreadnought
+1 Thwart
+4 Counterspell
+2 Impulse
+1 Misdirection
+2 Flash of Insight
+1 Chain of Vapor
+1 Powder Keg
+
+1 Chain of Vapor
+2 Brain Freeze
+3 Hydroblast
+1 Blue Elemental Blast
+3 Annul
+2 Back to Basics
+3 Essence Flare

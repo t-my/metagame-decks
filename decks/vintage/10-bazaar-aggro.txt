@@ -1,4 +1,3 @@
-4 Wasteland
 4 Blazing Rootwalla
 1 Chalice of the Void
 4 Mindbreak Trap
@@ -8,17 +7,17 @@
 4 Master of Death
 4 Serum Powder
 4 Subtlety
-4 Force of Negation
+4 Vengevine
 4 Force of Will
 4 Commandeer
 1 Strip Mine
-4 Basking Rootwalla
 1 Gitaxian Probe
 4 Bazaar of Baghdad
-4 Vengevine
+4 Force of Negation
+4 Basking Rootwalla
+4 Wasteland
 
-2 Ravenous Trap
+3 Ravenous Trap
 4 Pyrokinesis
-4 Echoing Deeps
 4 Fury
-1 Noxious Revival
+4 Echoing Deeps

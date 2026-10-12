@@ -1,28 +1,25 @@
+4 Swords to Plowshares
+4 Wasteland
 4 Brushland
-1 Elfhame Palace
-4 Forest
+4 Treetop Village
+3 Thermokarst
+4 Winter's Grasp
+4 Mox Diamond
+3 Forest
+2 Naturalize
+4 Oath of Druids
+3 Sylvan Library
+4 Rishadan Port
 4 Mishra's Factory
 1 Plains
-3 Rishadan Port
-3 Treetop Village
-4 Wasteland
-4 Windswept Heath
-1 Naturalize
-4 Oath of Druids
-3 Smokestack
-4 Sphere of Resistance
-2 Swords to Plowshares
-3 Sylvan Library
 4 Terravore
-3 Thermokarst
-1 Verdant Touch
-3 Wild Growth
-4 Winter's Grasp
+4 Windswept Heath
+4 Sphere of Resistance
 
 2 Naturalize
-2 Swords to Plowshares
-4 Call of the Herd
-3 Glowrider
-1 Reprisal
-1 Sphere of Law
-2 Zuran Orb
+2 Call of the Herd
+2 Glowrider
+2 Sphere of Law
+2 Choke
+2 Tranquil Domain
+3 Warmth
