@@ -1,0 +1,46 @@
+1 Gitaxian Probe
+1 Demonic Tutor
+1 Mental Misstep
+1 Brainstorm
+1 Mox Sapphire
+1 Mox Jet
+1 Mox Emerald
+1 Black Lotus
+1 Time Walk
+1 Treasure Cruise
+1 Ancestral Recall
+2 Abrupt Decay
+2 Fatal Push
+2 Spell Pierce
+3 Force of Negation
+4 Force of Will
+1 Orcish Bowmasters
+1 Marwyn, the Preserver
+1 Bilbo, Thief in the Night
+2 Collector Ouphe
+3 Avatar of Burgeoning Echoes
+4 Psychic Frog
+4 Deathrite Shaman
+1 Bayou
+1 Boseiju, Who Endures
+1 Hedge Maze
+1 Island
+1 Strip Mine
+1 Urza's Saga
+2 Tropical Island
+2 Misty Rainforest
+3 Underground Sea
+3 Polluted Delta
+4 Wasteland
+
+1 The Tabernacle at Pendrell Vale
+1 Lurrus of the Dream-Den
+2 Consign to Memory
+2 Force of Vigor
+2 Grafdigger's Cage
+2 Nihil Spellbomb
+1 Dismember
+1 Null Rod
+1 Snuff Out
+1 Abrupt Decay
+1 Fatal Push

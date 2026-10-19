@@ -1,0 +1,38 @@
+1 Anurid Brushhopper
+2 Rishadan Port
+4 Windswept Heath
+3 Gemstone Mine
+1 Cataclysm
+4 Swords to Plowshares
+2 Plains
+1 Rith's Grove
+1 Naturalize
+4 Mox Diamond
+2 Karplusan Forest
+2 Werebear
+3 Forest
+4 Sylvan Library
+4 Wasteland
+1 Secluded Steppe
+1 Disenchant
+2 Treetop Village
+4 Terravore
+1 Tranquil Thicket
+3 Weathered Wayfarer
+3 Call of the Herd
+3 Nimble Mongoose
+1 Battlefield Forge
+3 Armageddon
+
+1 Naturalize
+2 Aura of Silence
+1 Cursed Totem
+1 Tranquil Domain
+1 Pyroblast
+3 Pyroclasm
+1 Ray of Revelation
+1 Red Elemental Blast
+1 Reprisal
+1 Worship
+1 Zuran Orb
+1 Tormod's Crypt

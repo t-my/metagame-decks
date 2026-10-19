@@ -1,37 +1,32 @@
-1 Gideon's Memorial
-2 Get Lost
-2 Elspeth, Storm Slayer
-2 Chandra, Torch of Defiance
-2 Day of Judgment
-2 Chandra, Chill of Compliance
-2 Ajani Unrelenting
-2 Authority of the Consuls
-2 Erode
-2 The Theorist, Jace Beleren
-2 Pinnacle Starcage
-2 Way of the Pyromancer
-2 Split Up
-3 No More Lies
-3 Lightning Helix
-4 Stock Up
-1 Riverpyre Verge
-1 Deserted Beach
-1 Cori Mountain Monastery
-1 Plains
-1 Multiversal Passage
-1 Mountain
-1 Stormcarved Coast
-2 Sunbillow Verge
-4 Steam Vents
+1 The Fire Crystal
+2 Spring-Loaded Sawblades
+2 The Mind Stone
+3 Repurposing Bay
+3 Authority of the Consuls
+3 Pinnacle Starcage
+4 Perilous Snare
+4 Clay-Fired Bricks
+4 Simulacrum Synthesizer
+4 United Battlefront
+4 Cryogen Relic
+2 Pinnacle Emissary
+1 Meticulous Archive
+1 Petrified Hamlet
+1 Island
+2 Uthros, Titanic Godcore
+3 Plains
 4 Hallowed Fountain
-4 Sacred Foundry
+4 Castle Doom
+4 Starting Town
 4 Floodfarm Verge
 
-3 Voice of Victory
-2 Rest in Peace
-2 Fire Magic
-2 Precise Redaction
-2 Price of Freedom
-2 Flashfreeze
-1 Erode
-1 Pinnacle Starcage
+2 Hide on the Ceiling
+2 Seam Rip
+2 Erode
+2 Negate
+1 Disdainful Stroke
+2 Voice of Victory
+1 Torpor Orb
+1 Rest in Peace
+1 Split Up
+1 Spring-Loaded Sawblades

@@ -1,31 +1,33 @@
-4 Wasteland
-4 Underground Sea
-3 Misty Rainforest
-2 Polluted Delta
-2 Flooded Strand
-2 Scalding Tarn
-1 Undercity Sewers
-1 Mystic Sanctuary
-1 Island
-4 Tamiyo, Inquisitive Student
-3 Orcish Bowmasters
-3 Murktide Regent
-4 Ponder
-4 Force of Will
-4 Fatal Push
-4 Brainstorm
-4 Thoughtseize
+1 Swamp
 3 Flow State
-2 Kaito, Bane of Nightmares
-2 Force of Negation
-2 Daze
-1 Snuff Out
-
-1 Orcish Bowmasters
-1 Snuff Out
+3 Kaito, Bane of Nightmares
 1 Barrowgoyf
-4 Consign to Memory
-2 Ghost Quarter
-3 Hydroblast
-1 Liliana's Defeat
-2 Massacre
+4 Tamiyo, Inquisitive Student
+3 Ponder
+4 Nethergoyf
+1 Undercity Sewers
+1 Bitter Triumph
+4 Orcish Bowmasters
+4 Force of Will
+3 Fatal Push
+1 Bloodstained Mire
+1 Island
+4 Brainstorm
+1 Misty Rainforest
+1 Scalding Tarn
+1 Verdant Catacombs
+4 Thoughtseize
+3 Daze
+4 Underground Sea
+4 Polluted Delta
+4 Wasteland
+
+2 Barrowgoyf
+1 Flusterstorm
+2 Ashiok, Dream Render
+1 Mystical Dispute
+2 Sheoldred's Edict
+2 Force of Negation
+1 Stern Scolding
+3 Consign to Memory
+1 Toxic Deluge

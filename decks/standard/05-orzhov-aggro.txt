@@ -1,0 +1,34 @@
+1 Swamp
+3 Plains
+4 Case of the Uneaten Feast
+4 Hinterland Sanctifier
+4 Lunar Convocation
+4 Amalia Benavides Aguirre
+4 Starting Town
+4 Multiversal Passage
+1 Shattered Sanctum
+3 Erode
+1 Starscape Cleric
+2 Ajani Resolute
+2 Bleachbone Verge
+4 Godless Shrine
+1 Deep-Cavern Bat
+3 Moseo, Vein's New Dean
+1 Liliana the Faultless
+2 Seam Rip
+4 Haliya, Guided by Light
+3 Enlightened Confidant
+1 Essence Channeler
+3 Concealed Courtyard
+1 Elspeth, Storm Slayer
+
+1 Erode
+1 Starscape Cleric
+1 Ajani Resolute
+2 Seam Rip
+1 Requisition Raid
+2 Strategic Betrayal
+2 Curious Farm Animals
+2 Pyrrhic Strike
+2 Duress
+1 Decorum Dissertation

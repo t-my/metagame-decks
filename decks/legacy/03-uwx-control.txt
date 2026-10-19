@@ -1,32 +1,34 @@
-4 Flooded Strand
-4 Wasteland
-3 Tundra
-2 Scalding Tarn
-2 Polluted Delta
-2 Island
-1 Karakas
-1 Meticulous Archive
-1 Plains
-1 Mystic Sanctuary
-4 Tamiyo, Inquisitive Student
-3 Quantum Riddler
-3 Phelia, Exuberant Shepherd
-1 Triumph of Saint Katherine
-1 Murktide Regent
+1 Wrath of the Skies
+1 Consign to Memory
+2 Force of Negation
+2 Prismatic Ending
+4 Ponder
 4 Brainstorm
 4 Force of Will
 4 Stifle
-4 Ponder
 4 Swords to Plowshares
-2 Tune the Narrative
-2 Wrath of the Skies
-2 Daze
-1 Erode
+2 Murktide Regent
+4 Quantum Riddler
+4 Tamiyo, Inquisitive Student
+4 Phelia, Exuberant Shepherd
+1 Karakas
+1 Marsh Flats
+1 Meticulous Archive
+1 Misty Rainforest
+1 Plains
+1 Polluted Delta
+1 Scalding Tarn
+2 Island
+3 Tundra
+4 Wasteland
+4 Flooded Strand
 
-2 Erode
-2 The One Ring
-1 Rest in Peace
-3 Force of Negation
+1 Surgical Extraction
 2 Containment Priest
-3 Consign to Memory
-2 Terminus
+2 Erode
+2 Hydroblast
+2 Triumph of Saint Katherine
+1 Damping Sphere
+1 Lavinia, Azorius Renegade
+2 Wrath of the Skies
+2 Consign to Memory

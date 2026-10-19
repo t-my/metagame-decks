@@ -1,31 +1,33 @@
-4 Ral, Monsoon Mage
-4 Ruby Medallion
-4 Desperate Ritual
-4 Manamorphose
-4 Pyretic Ritual
-2 Twinned Vision
-2 Valakut Awakening
-4 Hex Magic
-4 Reckless Impulse
-4 Wrenn's Resolve
-3 Past in Flames
-2 Wish
-4 Scalding Tarn
-3 Arid Mesa
-3 Bloodstained Mire
-3 Mountain
-2 Elegant Parlor
+2 Artist's Talent
+2 Arid Mesa
 1 Boseiju, Who Endures
 1 Commercial District
-1 Sacred Foundry
+4 Ral, Monsoon Mage
+3 Past in Flames
+4 Hex Magic
+2 Wooded Foothills
+2 Bloodstained Mire
+4 Mountain
+4 Pyretic Ritual
+4 Manamorphose
+1 Raucous Theater
+3 Reckless Impulse
+1 Gemstone Caverns
+4 Desperate Ritual
+3 Twinned Vision
+1 Valakut Awakening
+2 Wish
+2 Scalding Tarn
+3 Wrenn's Resolve
+4 Ruby Medallion
 1 Stomping Ground
+2 Blood Crypt
 
 1 Past in Flames
-4 Orim's Chant
-3 Prismatic Ending
-2 Wear/Tear
-1 Abrade
-1 Fire Magic
-1 Galvanic Relay
+3 Fatal Push
+3 Nature's Claim
+1 Inquisition of Kozilek
 1 Grapeshot
-1 Stormscale Scion
+1 Empty the Warrens
+2 Vexing Bauble
+3 Thoughtseize

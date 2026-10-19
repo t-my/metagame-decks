@@ -1,0 +1,29 @@
+2 Blastoderm
+4 Cabal Therapy
+2 Duress
+1 Dust Bowl
+7 Forest
+1 Gaea's Blessing
+1 Genesis
+1 Haunting Echoes
+4 Krosan Tusker
+4 Llanowar Wastes
+2 Nantuko Vigilante
+4 Pernicious Deed
+4 Ravenous Baloth
+3 Smother
+1 Snuff Out
+7 Swamp
+4 Treetop Village
+1 Volrath's Stronghold
+3 Wall of Blossoms
+4 Wall of Roots
+
+1 Genesis
+1 Haunting Echoes
+1 Nantuko Vigilante
+2 Chainer's Edict
+4 Engineered Plague
+2 Naturalize
+2 Tormod's Crypt
+2 Tranquil Domain

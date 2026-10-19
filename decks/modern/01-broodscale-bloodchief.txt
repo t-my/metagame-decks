@@ -1,32 +1,38 @@
-4 Ancient Stirrings
+1 Soul-Guide Lantern
 4 Basking Broodscale
-3 Blade of the Bloodchief
-2 Boseiju, Who Endures
-3 Devourer of Destiny
-2 Dismember
-4 Eldrazi Temple
-4 Emrakul, the Promised End
 6 Forest
-1 Gemstone Caverns
+2 Devourer of Destiny
+2 Dismember
+4 Emrakul, the Promised End
+4 Eldrazi Temple
+2 Delighted Halfling
 1 Haywire Mite
+1 Sire of Seven Deaths
 4 Kozilek's Command
 4 Malevolent Rumble
 1 Shifting Woodland
-1 Sire of Seven Deaths
-1 Soul-Guide Lantern
-4 Sowing Mycospawn
+1 Cavern of Souls
+2 Boseiju, Who Endures
+2 Blade of the Bloodchief
 1 Springleaf Drum
-4 Ugin's Labyrinth
+1 Thought-Knot Seer
+3 Ugin's Labyrinth
 4 Urza's Saga
 1 Vexing Bauble
+3 Ancient Stirrings
+4 Sowing Mycospawn
 1 Yavimaya, Cradle of Growth
+1 Talisman of Resilience
 
-1 Dismember
+1 Sire of Seven Deaths
+1 Thought-Knot Seer
 1 Vexing Bauble
-1 Cavern of Souls
-2 Disruptor Flute
-2 Grafdigger's Cage
+1 Grafdigger's Cage
+2 Engineered Explosives
+1 Chalice of the Void
+1 Pithing Needle
+2 Thief of Existence
 2 Nature's Claim
-2 Thought-Knot Seer
-3 Trinisphere
 1 Warping Wail
+1 Hex Parasite
+1 Bojuka Bog

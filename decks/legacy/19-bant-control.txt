@@ -1,29 +1,36 @@
-2 Force of Negation
-4 Leyline Binding
-4 Force of Will
-4 Ponder
+1 Life from the Loam
+1 Force of Negation
+1 Daze
 4 Swords to Plowshares
-4 Up the Beanstalk
+4 Ponder
 4 Brainstorm
+4 Leyline Binding
+4 Up the Beanstalk
+4 Force of Will
+1 Phelia, Exuberant Shepherd
+2 Murktide Regent
+2 Orcish Bowmasters
 3 Tamiyo, Inquisitive Student
-3 Murktide Regent
-4 Phelia, Exuberant Shepherd
 4 Quantum Riddler
-1 Savannah
-1 Polluted Delta
 1 Island
-1 Meticulous Archive
-1 Volcanic Island
-1 Xander's Lounge
 1 Plains
+1 Xander's Lounge
+1 Tundra
+1 Savannah
+1 Scrubland
+1 Meticulous Archive
+1 Boseiju, Who Endures
+1 Underground Sea
+2 Wasteland
 2 Tropical Island
-3 Tundra
 4 Misty Rainforest
 4 Flooded Strand
 
+2 Barrowgoyf
 3 Carpet of Flowers
-3 Wrath of the Skies
-2 Pyroblast
-3 Containment Priest
 3 Consign to Memory
-1 Force of Negation
+2 Surgical Extraction
+1 Hydroblast
+1 Containment Priest
+1 Null Rod
+2 Wrath of the Skies

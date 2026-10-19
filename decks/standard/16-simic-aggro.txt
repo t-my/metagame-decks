@@ -1,30 +1,23 @@
-1 Meltstrider's Resolve
-1 Sapling Nursery
-1 Repulsive Mutation
-3 Shared Roots
-4 Earthbender Ascension
-4 Icetill Explorer
-4 Mossborn Hydra
+2 Meltstrider's Resolve
+3 Garruk's Uprising
+3 Repulsive Mutation
+4 Compel Brutality
+2 Ghalta, Primal Hunger
+3 Scrapshooter
 4 Llanowar Elves
-4 Sazh's Chocobo
-4 Avatar of Burgeoning Echoes
-4 Mightform Harmonizer
-1 Elven Passage
-1 Ba Sing Se
+4 Outcaster Trailblazer
+4 Quantum Riddler
+4 Slumbering Trudge
+4 Flourishing Bloom-Kin
 1 Island
-2 Botanical Sanctum
-3 Escape Tunnel
-4 Fabled Passage
+2 Ba Sing Se
+2 Hedge Maze
 4 Breeding Pool
-10 Forest
+14 Forest
 
-1 Disdainful Stroke
+2 Surrak, Elusive Hunter
+2 Leatherhead, Swamp Stalker
 2 Keen-Eyed Curator
-2 Into the Flood Maw
-1 Soul-Guide Lantern
-1 Warg Tactics
-2 Origin of Metalbending
-2 Torpor Orb
-1 Meltstrider's Resolve
-2 Sapling Nursery
-1 Repulsive Mutation
+3 Warg Tactics
+3 Spell Snare
+3 Smuggler's Surprise

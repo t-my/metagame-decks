@@ -1,0 +1,23 @@
+9 Mountain
+1 Lava Dart
+4 Bloodstained Mire
+2 Barbarian Ring
+4 Seal of Fire
+4 Lightning Bolt
+4 Incinerate
+4 Fireblast
+2 Sulfuric Vortex
+4 Mogg Fanatic
+4 Jackal Pup
+4 Grim Lavamancer
+4 Ball Lightning
+4 Urza's Bauble
+4 Wooded Foothills
+2 Cursed Scroll
+
+1 Red Elemental Blast
+4 Pyroblast
+2 Overload
+3 Price of Progress
+3 Pyrokinesis
+2 Flaring Pain

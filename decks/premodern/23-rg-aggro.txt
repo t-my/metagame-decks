@@ -1,0 +1,27 @@
+2 Rancor
+2 Sylvan Library
+3 Fire/Ice
+3 Naturalize
+3 Seal of Fire
+4 Call of the Herd
+4 Lightning Bolt
+3 Grim Lavamancer
+4 Basking Rootwalla
+4 Mogg Fanatic
+4 Wild Mongrel
+2 Forest
+2 Bloodstained Mire
+2 City of Brass
+3 Mountain
+3 Treetop Village
+4 Karplusan Forest
+4 Wasteland
+4 Wooded Foothills
+
+2 Ravenous Baloth
+1 Reverent Silence
+2 Simoon
+2 Tranquil Domain
+4 Pyroblast
+3 Tormod's Crypt
+1 Naturalize
