@@ -1,34 +1,28 @@
-2 Erode
-4 No More Lies
-4 Get Lost
-4 Essence Flux
-2 Sage of the Skies
-3 Aang, Swift Savior
-3 Bilbo, Thief in the Night
-3 Skycoach Conductor
-4 Quantum Riddler
-4 Clarion Conqueror
-4 Momo, Friendly Flier
+4 Adarkar Wastes
+2 Brazen Borrower
+3 Curious Obsession
 1 Eiganjo, Seat of the Empire
-1 Agna Qel'a
-1 Abandoned Air Temple
-1 Petrified Hamlet
-2 Adarkar Wastes
-2 Plains
-3 Island
-4 Seachrome Coast
-4 Hengegate Pathway
+2 Enduring Curiosity
+4 Geistlight Snare
 4 Hallowed Fountain
+4 Hengegate Pathway
+2 Island
+4 Mausoleum Wanderer
+1 Otawara, Soaring City
+1 Plains
+4 Rattlechains
+4 Seachrome Coast
+4 Seam Rip
+2 Sheltered by Ghosts
+4 Spectral Sailor
+4 Spell Queller
+4 Supreme Phantom
+2 Mutavault
 
-1 Wan Shi Tong, Librarian
+1 Plains
+2 Destroy Evil
+2 Disdainful Stroke
+3 Enduring Innocence
+2 Portable Hole
+3 Skyclave Apparition
 2 Rest in Peace
-2 Dovin's Veto
-1 Sheltered by Ghosts
-2 Surge of Salvation
-1 Three Steps Ahead
-1 Narset, Parter of Veils
-1 Knockout Blow
-1 High Noon
-1 Elesh Norn, Mother of Machines
-1 Damping Sphere
-1 Settle the Wreckage

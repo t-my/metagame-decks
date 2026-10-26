@@ -1,32 +1,33 @@
 2 Windswept Heath
 4 Amped Raptor
-1 Flooded Strand
-2 Plains
-4 Voice of Victory
+4 Guide of Souls
+1 Elegant Parlor
+4 Swords to Plowshares
+2 Lazotep Quarry
 2 Hexing Squelcher
-3 Goblin Bombardment
+3 Sand Scout
 1 Phlage, Titan of Fire's Fury
 1 Mountain
-4 Wasteland
+3 Plateau
 2 Static Prison
 1 Galvanic Discharge
 4 Ocelot Pride
-3 Plateau
+4 Wasteland
 4 Ajani, Nacatl Pariah
 4 Arid Mesa
 2 Karakas
-3 Sand Scout
-2 Lazotep Quarry
-4 Swords to Plowshares
-1 Elegant Parlor
-4 Guide of Souls
-1 Tundra
+3 Goblin Bombardment
+4 Voice of Victory
+2 Plains
+1 Flooded Strand
 1 Marsh Flats
+1 Tundra
 
 2 Consign to Memory
 2 Surgical Extraction
-1 Erode
-3 Pyroblast
-3 Mindbreak Trap
-3 Disruptor Flute
 1 Abrade
+3 Pyroblast
+2 Null Rod
+3 Deafening Silence
+1 Erode
+1 Celestial Purge

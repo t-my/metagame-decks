@@ -1,0 +1,58 @@
+2 Forest
+2 Watery Grave
+2 Swamp
+2 Island
+2 Dreamroot Cascade
+1 Mistrise Village
+1 Ba Sing Se
+1 Kishla Village
+1 Great Arashin City
+1 Deathcap Glade
+1 Breeding Pool
+1 Overgrown Tomb
+1 Elven Passage
+1 Realm of Koh
+1 Petrified Hamlet
+1 Opulent Palace
+1 Agna Qel'a
+1 Shipwreck Marsh
+3 Tarmogoyf
+2 Marang River Regent
+1 Uldaros Theorix
+1 Edge Rover
+1 Kheru Goldkeeper
+4 Puppet Crafting
+3 Nutrient Block
+3 Awaken the Honored Dead
+2 Nameless Inversion
+2 Theorix Charm
+2 Rakshasa's Bargain
+2 Momentum Breaker
+1 Jace's Machinations
+1 Vraska's Final Mercy
+1 Extrapolate the Impossible
+1 The Theorist, Jace Beleren
+1 Basilisk Collar
+1 Singularity Rupture
+1 Lich's Relic
+1 Countersculpt
+1 The Aetherspark
+1 Hunter's Axe
+1 The Echoverse Fulcrum
+1 Rise of the Deathbringer
+
+1 Nutrient Block
+1 Rakshasa's Bargain
+1 Basilisk Collar
+1 Lich's Relic
+1 Countersculpt
+1 Hunter's Axe
+1 The Echoverse Fulcrum
+1 Rise of the Deathbringer
+1 Inside Information
+1 Day of Black Sun
+1 Vibranium Energy Daggers
+1 The Fire Nation Drill
+1 Ancient Vendetta
+1 Disdainful Stroke
+1 Soul-Guide Lantern
