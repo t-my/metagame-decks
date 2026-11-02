@@ -1,35 +1,39 @@
-4 Polluted Delta
-4 Wasteland
-3 Underground Sea
-1 Flooded Strand
-1 Undercity Sewers
-1 Swamp
-1 Marsh Flats
-1 Bloodstained Mire
-1 Island
-1 Scalding Tarn
-1 Misty Rainforest
-4 Nethergoyf
-4 Moonshadow
-2 Orcish Bowmasters
-2 Bilbo, Thief in the Night
-1 Snuff Out
-2 Ponder
-2 Kaito, Bane of Nightmares
-3 Daze
-4 Thoughtseize
-4 Brainstorm
+1 Force of Negation
+1 Lorien Revealed
+2 Flow State
+2 Hymn to Tourach
+3 Kaito, Bane of Nightmares
+3 Thoughtseize
+4 Ponder
 4 Fatal Push
-4 Mishra's Bauble
+4 Brainstorm
 4 Force of Will
 1 Brazen Borrower
-
-1 Nihil Spellbomb
+1 Snapcaster Mage
+2 Baleful Strix
 2 Barrowgoyf
+3 Tamiyo, Inquisitive Student
+4 Orcish Bowmasters
+1 Undercity Sewers
+1 Badlands
+1 Swamp
+1 Volcanic Island
+2 Wasteland
+2 Island
+3 Scalding Tarn
+4 Polluted Delta
+4 Underground Sea
+
+1 Pyroblast
+1 Meltdown
 2 Consign to Memory
-1 Karakas
-2 Force of Negation
-2 Hydroblast
+1 Damping Sphere
+1 Hydroblast
+1 Fire Magic
+1 Engineered Explosives
+1 Nihil Spellbomb
+1 Price of Progress
+1 Opposition Agent
 2 Dauthi Voidwalker
-1 Null Rod
-2 Massacre
+1 Force of Negation
+1 Barrowgoyf

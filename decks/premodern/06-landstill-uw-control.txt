@@ -1,35 +1,30 @@
-4 Accumulated Knowledge
-4 Adarkar Wastes
-1 Akroma's Vengeance
-1 Coastal Tower
-4 Counterspell
-3 Decree of Justice
-2 Disenchant
-1 Dust Bowl
-3 Fact or Fiction
-1 Faerie Conclave
-4 Flooded Strand
-1 Forbid
-2 Force Spike
-1 Humility
-2 Impulse
-5 Island
-1 Kor Haven
-1 Mana Leak
-4 Mishra's Factory
-1 Phyrexian Furnace
-4 Plains
-1 Powder Keg
-2 Prohibit
 4 Swords to Plowshares
-1 Wasteland
+4 Plains
+4 Flooded Strand
+4 Mishra's Factory
+3 Mana Leak
+2 Faerie Conclave
+2 Phyrexian Furnace
+4 Impulse
+5 Island
+4 Counterspell
+3 Standstill
+1 Coastal Tower
+4 Adarkar Wastes
+3 Fact or Fiction
+2 Powder Keg
+2 Disenchant
+3 Decree of Justice
+1 Exalted Angel
 2 Wrath of God
+1 Prohibit
+2 Dust Bowl
 
-1 Phyrexian Furnace
-2 Annul
-2 Blue Elemental Blast
-2 Circle of Protection: Red
+1 Disenchant
 2 Exalted Angel
 2 Hydroblast
-3 Meddling Mage
-1 Teferi's Response
+1 Circle of Protection: Red
+4 Meddling Mage
+2 Teferi's Response
+2 Blue Elemental Blast
+1 Annul

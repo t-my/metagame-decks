@@ -1,26 +1,26 @@
-4 Break Out
-4 Thoughtseize
-4 Fatal Push
-4 Violent Urge
-2 Keen-Eyed Curator
-4 Grim Flayer
-4 Fear of Missing Out
-4 Patchwork Beastie
-4 Wildfire Wickerfolk
-4 Tarmogoyf
-1 Swamp
-1 Boseiju, Who Endures
+3 Lively Dirge
+4 Deadly Dispute
+4 Witch's Oven
+1 Umbral Collar Zealot
+2 Gilded Goose
+4 Greedy Freebooter
+4 Shambling Ghast
+4 Mayhem Devil
+4 Cauldron Familiar
+4 Biotech Specialist
+4 The Sackville-Bagginses
 2 Stomping Ground
-2 Cragcrown Pathway
-4 Starting Town
-4 Copperline Gorge
+2 Swamp
+2 Blazemire Verge
 4 Blooming Marsh
+4 Blackcleave Cliffs
+4 Starting Town
 4 Overgrown Tomb
 
-2 Duress
-2 Overlord of the Balemurk
-3 Karn, Argent Defender
-2 Haywire Mite
-2 Guerrilla Gorilla
-2 Tyvar, Jubilant Brawler
-2 Cling to Dust
+1 Sheoldred, the Apocalypse
+2 Dark Betrayal
+2 Tormod's Crypt
+1 Fatal Push
+4 Thoughtseize
+2 Witherbloom Charm
+3 Ygra, Eater of All

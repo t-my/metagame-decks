@@ -42,7 +42,7 @@
 1 Steel Sabotage
 1 Feed the Swarm
 1 Petrified Hamlet
-1 Dismember
+1 Snuff Out
 2 Long Goodbye
 1 Lurrus of the Dream-Den
 1 The Tabernacle at Pendrell Vale

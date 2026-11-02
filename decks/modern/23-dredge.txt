@@ -1,0 +1,27 @@
+1 Polluted Delta
+2 Swamp
+4 Dark Matter Manipulator
+4 Darklight Phoenix
+3 Moonshadow
+3 Masked Meower
+3 Timeline Culler
+4 Bloodghast
+4 Bloodstained Mire
+4 Flare of Malice
+2 Phyrexian Tower
+1 Raucous Theater
+4 Stitcher's Supplier
+4 Faithless Looting
+4 Marsh Flats
+4 Carrion Feeder
+4 Vengevine
+3 Blood Crypt
+1 Spymaster's Vault
+1 Verdant Catacombs
+
+2 Fatal Push
+2 Meltdown
+2 Brotherhood's End
+3 Dauthi Voidwalker
+4 Thoughtseize
+2 Feed the Swarm

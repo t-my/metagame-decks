@@ -1,39 +1,31 @@
-3 Forest
-3 Talisman of Impulse
-2 Stomping Ground
-4 Utopia Sprawl
-3 Mwonvuli Acid-Moss
-1 Ghost Quarter
-1 Bojuka Bog
-4 Eldrazi Temple
-1 Sanctum of Ugin
-2 Kozilek's Return
-1 World Breaker
-3 Emrakul, the Promised End
-2 Unholy Heat
-1 Misty Rainforest
-1 Boseiju, Who Endures
-1 Commercial District
-4 Malevolent Rumble
-4 Sowing Mycospawn
-1 Wooded Foothills
-1 Shifting Woodland
-4 Ugin's Labyrinth
-2 Herigast, Erupting Nullkite
-1 Windswept Heath
+1 Valakut Awakening
+2 Portent of Calamity
+3 Stock Up
+3 Yggdrasil, Rebirth Engine
+3 Spell Snare
+4 Through the Breach
 4 Kozilek's Command
-1 Devourer of Destiny
-2 Sire of Seven Deaths
-1 Ugin, Eye of the Storms
-2 Icetill Explorer
-1 Improvisation Capstone
+4 Talisman of Creativity
+2 Emrakul, the Exigent Doom
+2 Nulldrifter
+3 Devourer of Destiny
+4 Emrakul, the Aeons Torn
+4 Ulamog, the Defiler
+1 Thundering Falls
+1 Gemstone Caverns
+1 Mountain
+1 Otawara, Soaring City
+1 Mistrise Village
+2 Steam Vents
+2 Island
+4 Scalding Tarn
+4 Eldrazi Temple
+4 Ugin's Labyrinth
 
-2 Blood Moon
-2 Nature's Claim
-2 Surgical Extraction
-1 Grafdigger's Cage
-2 Trinisphere
-2 Fade from History
-1 Torpor Orb
-1 Vexing Bauble
-2 Null Elemental Blast
+3 Trinisphere
+1 Spell Pierce
+2 Mystical Dispute
+4 Consign to Memory
+2 Grafdigger's Cage
+2 Kozilek's Return
+1 Mistrise Village

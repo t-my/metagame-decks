@@ -1,40 +1,44 @@
-1 Lush Portico
-2 Goblin Bombardment
-1 Yawgmoth, Thran Physician
-3 City of Brass
-1 Forest
-1 Dryad Arbor
-1 Misty Rainforest
-1 Temple Garden
-1 Stomping Ground
+2 Wooded Foothills
+2 Verdant Catacombs
+4 Leyline of Abundance
+1 Fiend Artisan
+4 Nature's Rhythm
+1 Nurturing Peatland
+4 Green Sun's Zenith
+4 Delighted Halfling
+2 Birds of Paradise
+4 Badgermole Cub
 2 Overgrown Tomb
-2 Delighted Halfling
-3 Orcish Bowmasters
-4 Verdant Catacombs
-2 Young Wolf
-4 Cauldron Familiar
-3 Carrion Feeder
-1 Haywire Mite
-1 Explosive Prodigy
+1 Temple Garden
+2 Dryad Arbor
+1 Misty Rainforest
+2 Forest
+1 Duskwatch Recruiter
+1 Ouroboroid
+3 Windswept Heath
+1 Endurance
+1 Tyvar, the Pummeler
+1 Gemstone Caverns
+1 Vizier of Remedies
+1 Craterhoof Behemoth
+1 Formidable Speaker
+1 Shang-Chi, Master of Kung Fu
+4 Tyvar, Jubilant Brawler
 2 Boseiju, Who Endures
-4 Gilded Goose
-4 Chord of Calling
-1 Godless Shrine
-2 Ajani, Nacatl Pariah
-4 Windswept Heath
-4 Birthing Ritual
-4 Samwise Gamgee
-1 Sylvan Safekeeper
+4 Devoted Druid
+1 Underground Mortuary
+1 Lush Portico
 
-1 Fatal Push
-1 High Noon
-1 Vexing Bauble
-2 Endurance
-1 Sanctum Prelate
-1 Prismatic Ending
+1 Endurance
+1 Kraul Harpooner
+2 Fatal Push
+1 Thoughtseize
 1 Abrupt Decay
-2 Thoughtseize
-1 Voice of Victory
-2 Force of Vigor
-1 Reclamation Sage
-1 Crystal Barricade
+1 Grist, the Hunger Tide
+1 Dauthi Voidwalker
+1 Karn, Argent Defender
+2 Chalice of the Void
+1 Cloak and Dagger, Entwined
+1 Chomping Changeling
+1 Sanctifier en-Vec
+1 Keen-Eyed Curator

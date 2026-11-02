@@ -1,31 +1,31 @@
-2 Starscape Cleric
-4 Case of the Uneaten Feast
-4 Hinterland Sanctifier
 4 Amalia Benavides Aguirre
-4 Shattered Sanctum
-3 Concealed Courtyard
-3 Plains
-3 Lunar Convocation
-1 Zoraline, Cosmos Caller
-1 Bleachbone Verge
-3 Voice of Victory
-1 Dalkovan Encampment
-4 Starting Town
+4 Enlightened Confidant
 4 Haliya, Guided by Light
-2 Leonardo, Cutting Edge
+4 Hinterland Sanctifier
+4 Starscape Cleric
+2 Liliana the Faultless
+1 Aunt May
 2 Erode
-3 Moseo, Vein's New Dean
-3 Enlightened Confidant
-3 Liliana the Faultless
-2 Swamp
-4 Godless Shrine
-
-1 Lunar Convocation
-3 Duress
-1 Raise the Past
-3 Strategic Betrayal
+4 Case of the Uneaten Feast
 1 Seam Rip
-2 Curious Farm Animals
-1 Decorum Dissertation
-2 Ajani Resolute
-1 Requisition Raid
+1 Professor Dellian Fel
+4 Godless Shrine
+4 Plains
+4 Starting Town
+2 Great Arashin City
+3 Moseo, Vein's New Dean
+4 Concealed Courtyard
+4 Multiversal Passage
+1 Bloodthirsty Conqueror
+3 Lunar Convocation
+
+1 Erode
+3 Seam Rip
+2 Cathar Commando
+2 Clarion Conqueror
+2 Duress
+1 Intimidation Tactics
+1 Pyrrhic Strike
+1 Space-Time Anomaly
+1 Vicious Rivalry
+1 Lunar Convocation

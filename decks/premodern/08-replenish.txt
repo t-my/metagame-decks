@@ -1,25 +1,23 @@
-2 Tsabo's Web
-4 Swords to Plowshares
-3 Frantic Search
-3 Intuition
-2 Stifle
-1 Abeyance
-4 Replenish
-4 Attunement
-4 Opalescence
-4 Parallax Wave
-2 Decree of Silence
-2 Seal of Cleansing
-5 Island
-5 Plains
+3 Abeyance
 4 Adarkar Wastes
 4 Ancient Tomb
+4 Attunement
+3 Decree of Silence
 4 Flooded Strand
+3 Frantic Search
+3 Intuition
+5 Island
+4 Opalescence
+4 Parallax Wave
+5 Plains
+4 Replenish
+3 Seal of Cleansing
 3 Skycloud Expanse
+4 Swords to Plowshares
 
-2 Seal of Cleansing
+3 Defense Grid
+2 Envelop
 3 Exalted Angel
+2 Hydroblast
 3 Meddling Mage
-3 Orim's Chant
-2 Blue Elemental Blast
-2 Defense Grid
+2 Sphere of Law
