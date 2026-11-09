@@ -1,38 +1,38 @@
-1 Mox Amber
-1 Cling to Dust
-1 Enter the Infinite
-2 Quandrix Command
-2 Duress
-2 Consult the Star Charts
-2 Bitter Triumph
-2 Professor Dellian Fel
-3 Countersculpt
-3 The Theorist, Jace Beleren
-4 Kasmina, Enigma Sage
-4 Jace's Machinations
-4 Fatal Push
-4 Thoughtseize
-1 Thassa's Oracle
-1 Forest
-1 Hedge Maze
-1 Island
-1 Urborg, Tomb of Yawgmoth
-1 Underground Mortuary
-1 Undercity Sewers
-1 Swamp
-1 Restless Cottage
-2 Willowrush Verge
-2 Overgrown Tomb
-3 Starting Town
-3 Watery Grave
-3 Breeding Pool
 3 Gloomlake Verge
+3 Breeding Pool
+3 Watery Grave
+3 Starting Town
+2 Overgrown Tomb
+2 Willowrush Verge
+1 Restless Cottage
+1 Swamp
+1 Undercity Sewers
+1 Underground Mortuary
+1 Urborg, Tomb of Yawgmoth
+1 Island
+1 Hedge Maze
+1 Forest
+1 Thassa's Oracle
+4 Thoughtseize
+4 Fatal Push
+4 Jace's Machinations
+4 Kasmina, Enigma Sage
+3 The Theorist, Jace Beleren
+3 Countersculpt
+2 Professor Dellian Fel
+2 Bitter Triumph
+2 Consult the Star Charts
+2 Duress
+2 Quandrix Command
+1 Enter the Infinite
+1 Cling to Dust
+1 Mox Amber
 
-1 Spell Pierce
-4 Ray of Enfeeblement
-2 Go Blank
-2 Mystical Dispute
-2 Path of Peril
-2 Terminal Criticism
-1 Ashiok, Dream Render
 1 Into the Flood Maw
+1 Ashiok, Dream Render
+2 Terminal Criticism
+2 Path of Peril
+2 Mystical Dispute
+2 Go Blank
+4 Ray of Enfeeblement
+1 Spell Pierce

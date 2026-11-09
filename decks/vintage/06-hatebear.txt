@@ -4,7 +4,7 @@
 1 Black Lotus
 4 Ancient Tomb
 4 Chancellor of the Annex
-4 Chrome Mox
+4 Wasteland
 4 Cavern of Souls
 1 Karakas
 1 Mox Emerald
@@ -17,10 +17,10 @@
 1 Strip Mine
 1 Vexing Bauble
 4 Void Mirror
-4 Wasteland
 4 White Plume Adventurer
 4 Witch Enchanter
 4 Clarion Conqueror
+4 Chrome Mox
 
 1 Archon of Absolution
 4 Leyline of the Void

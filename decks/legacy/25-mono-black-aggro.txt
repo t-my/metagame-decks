@@ -1,0 +1,27 @@
+1 Sheoldred's Edict
+2 Cabal Therapy
+2 Bitter Triumph
+3 Fatal Push
+4 Thoughtseize
+4 Mishra's Bauble
+4 Dark Ritual
+3 Barrowgoyf
+3 Dark Confidant
+4 Orcish Bowmasters
+4 Moonshadow
+4 Dauthi Voidwalker
+4 Nethergoyf
+1 Marsh Flats
+1 Raucous Theater
+2 Badlands
+3 Polluted Delta
+3 Swamp
+4 Bloodstained Mire
+4 Wasteland
+
+3 Damping Sphere
+4 Leyline of the Void
+1 Massacre
+1 Meltdown
+3 Price of Progress
+3 Torpor Orb

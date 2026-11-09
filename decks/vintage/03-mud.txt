@@ -1,38 +1,39 @@
-1 Time Vault
+1 Trinisphere
 1 Black Lotus
-4 Tezzeret, Cruel Captain
+1 Tolarian Academy
 4 Glaring Fleshraker
-4 Grim Monolith
+4 The One Ring
+1 Inventors' Fair
 1 Karn, the Great Creator
-1 Strip Mine
-1 Mana Crypt
+4 Talon Gates of Madara
 1 Sol Ring
-2 Manifold Key
-4 Sensei's Divining Top
+3 Manifold Key
+4 Mishra's Workshop
 1 Mox Emerald
 1 Mox Jet
+4 Sensei's Divining Top
 1 Mox Pearl
 1 Mox Ruby
 1 Mox Sapphire
 1 Mystic Forge
-1 Pithing Needle
 4 Scrawling Crawler
-4 Mishra's Workshop
+2 Mox Opal
 1 Mana Vault
-1 Lodestone Golem
-2 Talon Gates of Madara
+1 Mana Crypt
+4 Tezzeret, Cruel Captain
 1 The Fantasticar
-4 The One Ring
+4 Grim Monolith
+1 Time Vault
 1 Chalice of the Void
-1 Tolarian Academy
+4 Ancient Tomb
 1 Urza's Saga
 1 Vexing Bauble
-4 Ancient Tomb
-4 Wasteland
 
-3 Argentum Masticore
-4 Sphere of Resistance
-3 Grafdigger's Cage
-2 Dismember
-2 Stonecoil Serpent
-1 Trinisphere
+2 Argentum Masticore
+1 Soul-Guide Lantern
+1 Pithing Needle
+3 Mindbreak Trap
+1 Mycosynth Lattice
+2 Grafdigger's Cage
+2 Portable Hole
+3 Dismember

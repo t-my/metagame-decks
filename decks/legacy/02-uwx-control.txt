@@ -1,37 +1,32 @@
-2 Back to Basics
-2 Plains
-1 Erode
-1 Mountain
-4 Flow State
-2 Force of Negation
-1 Forth Eorlingas!
-4 Island
-1 Mystic Sanctuary
-2 Narset, Parter of Veils
-4 Force of Will
-1 Prismatic Ending
-4 Prismatic Vista
 4 Flooded Strand
-1 Supreme Verdict
-3 Tamiyo, Inquisitive Student
-1 Teferi, Time Raveler
-1 Terminus
-1 Tundra
-4 Brainstorm
-1 Wrath of the Skies
-4 Ponder
-2 Scalding Tarn
-4 Swords to Plowshares
+4 Misty Rainforest
+4 Wasteland
+2 Tundra
+2 Island
+1 Meticulous Archive
+1 Plains
+1 Karakas
 1 Volcanic Island
-2 Quantum Riddler
-2 Chandra, Chill of Compliance
+4 Tamiyo, Inquisitive Student
+4 Quantum Riddler
+4 Phelia, Exuberant Shepherd
+2 Murktide Regent
+4 Ponder
+4 Swords to Plowshares
+4 Stifle
+4 Brainstorm
+4 Force of Will
+3 Daze
+2 Consign to Memory
+1 Force of Negation
 
-1 Wrath of the Skies
-3 Pyroblast
-2 Blue Elemental Blast
-3 Consign to Memory
-2 Containment Priest
-1 Grafdigger's Cage
-1 Null Rod
-1 Blood Moon
-1 Surgical Extraction
+1 Consign to Memory
+1 Force of Negation
+2 Rest in Peace
+1 Forth Eorlingas!
+2 Wrath of the Skies
+2 Triumph of Saint Katherine
+2 Pyroblast
+1 Containment Priest
+1 Lavinia, Azorius Renegade
+2 Hydroblast

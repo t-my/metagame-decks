@@ -1,25 +1,25 @@
-4 Accumulated Knowledge
-1 Chain of Vapor
+3 Daze
+3 Foil
 4 Counterspell
-1 Daze
-2 Flash of Insight
-4 Foil
 4 Gush
-1 Misdirection
+4 Impulse
 4 Opt
-4 Phyrexian Dreadnought
-4 Portent
-1 Powder Keg
-17 Snow-Covered Island
 4 Stifle
-1 Thwart
 4 Vision Charm
+4 Portent
+4 Quirion Dryad
+4 Phyrexian Dreadnought
+1 Gemstone Mine
+2 City of Brass
+4 Yavimaya Coast
+11 Island
 
-3 Annul
-2 Back to Basics
-1 Blue Elemental Blast
-2 Brain Freeze
-2 Essence Flare
-3 Hydroblast
-1 Tormod's Crypt
 1 Tsabo's Web
+3 Annul
+1 Compost
+3 Essence Flare
+1 Flash of Insight
+3 Hydroblast
+1 Misdirection
+1 Naturalize
+1 Powder Keg

@@ -1,34 +1,29 @@
-1 Carnage, Crimson Chaos
-4 Moonshadow
-1 Multiversal Passage
-2 Inspiring Vantage
-4 Bloodghast
-3 Concealed Courtyard
-4 Blood Crypt
 1 Inti, Seneschal of the Sun
-3 Godless Shrine
+4 Dark Matter Manipulator
 4 Marauding Mako
-3 Starting Town
-4 Sacred Foundry
-4 Iron-Shield Elf
-2 Requiting Hex
-1 Swamp
-4 Cool but Rude
-2 Erode
-4 Practiced Offense
+4 Moonshadow
+4 Bloodghast
 4 Hardened Academic
-1 Mountain
-1 Casey Jones, Vigilante
-2 Tersa Lightshatter
+4 Iron-Shield Elf
 1 Carnage, Crimson Chaos
+2 Erode
+2 Requiting Hex
+4 Cool but Rude
+4 Practiced Offense
+4 Blood Crypt
+4 Sacred Foundry
+4 Starting Town
+2 Concealed Courtyard
+2 Godless Shrine
+2 Inspiring Vantage
+2 Multiversal Passage
+1 Swamp
+1 Mountain
 
-1 Day of Judgment
-1 Duress
+3 Duress
+3 Case of the Crimson Pulse
 2 Doorkeeper Thrull
+2 Get Lost
+2 Strategic Betrayal
 1 Shoot the Sheriff
-1 Ghost Vacuum
-2 Monument to Endurance
-3 Strategic Betrayal
-1 Slagstorm
-2 Voice of Victory
-1 Sheltered by Ghosts
+2 Day of Judgment

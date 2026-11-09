@@ -1,0 +1,29 @@
+6 Swamp
+5 Forest
+4 Wasteland
+4 Treetop Village
+4 Llanowar Wastes
+2 Bloodstained Mire
+1 Windswept Heath
+1 Grand Coliseum
+1 Phyrexian Tower
+3 Terravore
+3 Gamekeeper
+4 Call of the Herd
+4 Duress
+4 Pernicious Deed
+4 Cabal Therapy
+4 Innocent Blood
+2 Oath of Druids
+1 Smother
+1 Skeletal Scrying
+1 Diabolic Edict
+1 Grizzly Fate
+
+1 Skeletal Scrying
+4 Engineered Plague
+1 Haunting Echoes
+2 Phyrexian Furnace
+3 Naturalize
+3 Ravenous Baloth
+1 Tranquil Domain

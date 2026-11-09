@@ -1,29 +1,30 @@
 4 Quirion Dryad
-2 Psychatog
-3 Mox Diamond
-4 Accumulated Knowledge
-4 Counterspell
-4 Gush
-4 Opt
-4 Swords to Plowshares
-2 Daze
-2 Fire/Ice
-2 Foil
-4 Portent
-2 Armageddon
-8 Island
-4 Flooded Strand
-3 City of Brass
-3 Gemstone Mine
-1 Plains
-
 3 Meddling Mage
-2 Call of the Herd
+3 Psychatog
+4 Counterspell
+4 Swords to Plowshares
+3 Daze
+3 Gush
+3 Opt
+2 Fire/Ice
+1 Foil
+1 Lat-Nam's Legacy
+4 Portent
+3 Sleight of Hand
+2 Armageddon
+7 Island
+4 Flooded Strand
+4 Gemstone Mine
+3 City of Brass
+1 Plains
+1 Reflecting Pool
+
+1 Meddling Mage
+1 Armageddon
+3 Chill
+2 Engineered Plague
 2 Hydroblast
 2 Pyroclasm
-1 Phyrexian Furnace
-1 Ray of Revelation
+2 Ray of Revelation
+1 Reprisal
 1 Seal of Cleansing
-1 Tranquil Domain
-1 Tsabo's Web
-1 Warmth

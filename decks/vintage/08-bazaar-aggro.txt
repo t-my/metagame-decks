@@ -1,25 +1,24 @@
-4 Wasteland
-4 Vengevine
-1 Strip Mine
-4 Squee, Goblin Nabob
-4 Serum Powder
-3 Noxious Revival
-4 Mindbreak Trap
-1 Mental Misstep
-4 Master of Death
-4 Hollow One
-2 Commandeer
-4 Force of Will
-4 Force of Vigor
-4 Force of Negation
-1 Chalice of the Void
-4 Blazing Rootwalla
 4 Bazaar of Baghdad
+1 Strip Mine
+4 Wasteland
+4 Hollow One
+1 Chalice of the Void
+4 Force of Negation
+4 Force of Vigor
+4 Force of Will
+1 Mental Misstep
+4 Noxious Revival
+4 Serum Powder
 4 Basking Rootwalla
+4 Blazing Rootwalla
+4 Master of Death
+4 Squee, Goblin Nabob
+4 Vengevine
+4 Mindbreak Trap
+1 Gitaxian Probe
 
-2 Commandeer
-4 Ravenous Trap
-2 Pyrokinesis
-1 Karakas
-2 Petrified Field
+2 Archive Trap
+4 Leyline of the Void
 4 Fury
+4 Ravenous Trap
+1 Echoing Deeps

@@ -1,0 +1,28 @@
+4 Goblin Lackey
+4 Goblin Matron
+4 Goblin Piledriver
+4 Goblin Ringleader
+4 Goblin Warchief
+4 Mogg Fanatic
+3 Gempalm Incinerator
+3 Siege-Gang Commander
+1 Goblin King
+1 Goblin Sharpshooter
+1 Goblin Tinkerer
+1 Skirk Prospector
+3 Naturalize
+8 Mountain
+4 Karplusan Forest
+4 Wasteland
+4 Wooded Foothills
+2 Rishadan Port
+1 Forest
+
+1 Naturalize
+3 Pyroblast
+3 Tormod's Crypt
+2 Anarchy
+2 Pyrokinesis
+2 Tranquil Domain
+1 Caller of the Claw
+1 Red Elemental Blast

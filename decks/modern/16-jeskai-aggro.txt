@@ -1,37 +1,38 @@
-1 Consign to Memory
-1 Teferi, Time Raveler
-1 Prismatic Ending
-2 Galvanic Discharge
-2 Thraben Charm
-3 Ephemerate
-3 Goblin Bombardment
-1 Starfield Shepherd
-2 Voice of Victory
 3 Ragavan, Nimble Pilferer
-3 Quantum Riddler
-4 Solitude
-4 Ajani, Nacatl Pariah
-4 Guide of Souls
-4 Ocelot Pride
-1 Marsh Flats
-1 Mountain
-1 Elegant Parlor
-1 Dalkovan Encampment
 1 Arena of Glory
-1 Scalding Tarn
-1 Steam Vents
-1 Meticulous Archive
+3 Quantum Riddler
 2 Plains
+1 Dalkovan Encampment
+1 Elegant Parlor
+3 Ephemerate
+2 Galvanic Discharge
+3 Goblin Bombardment
+4 Guide of Souls
+1 Mountain
+1 Marsh Flats
+1 Meticulous Archive
 2 Hallowed Fountain
+4 Ocelot Pride
+4 Flooded Strand
+1 Consign to Memory
 2 Sacred Foundry
 4 Arid Mesa
-4 Flooded Strand
+4 Solitude
+1 Starfield Shepherd
+4 Ajani, Nacatl Pariah
+1 Teferi, Time Raveler
+2 Thraben Charm
+2 Voice of Victory
+1 Scalding Tarn
+1 Steam Vents
+1 Prismatic Ending
 
-2 Wrath of the Skies
+2 Consign to Memory
+1 Teferi, Time Raveler
+1 Prismatic Ending
 1 Surgical Extraction
 2 High Noon
 1 March of Otherworldly Light
-4 Obsidian Charmaw
-2 Spell Snare
-2 Consign to Memory
-1 Prismatic Ending
+3 Obsidian Charmaw
+1 Spell Snare
+3 Wrath of the Skies

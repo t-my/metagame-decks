@@ -1,42 +1,44 @@
 1 Ancestral Recall
-1 Trinisphere
 1 Black Lotus
-1 Manifold Key
-1 Tolarian Academy
-1 Tinker
-3 Grim Monolith
-1 Karn, the Great Creator
-4 The One Ring
 2 Talon Gates of Madara
+2 Mox Opal
 4 Mishra's Workshop
+1 Karn, the Great Creator
+1 Lodestone Golem
+1 Mana Crypt
+1 Mana Vault
+1 Manifold Key
 1 Mox Emerald
 1 Mox Jet
 1 Mox Pearl
 1 Mox Ruby
 1 Mox Sapphire
+1 Otawara, Soaring City
+4 Paradoxical Outcome
 1 Sol Ring
-3 Relic of Sauron
-4 Phyrexian Metamorph
 3 Sink into Stupor
+1 Tezzeret, Cruel Captain
+1 The Fantasticar
+4 Phyrexian Metamorph
 1 Time Vault
-1 Mana Vault
-1 Mana Crypt
 1 Time Walk
-4 Force of Will
-4 Coveted Jewel
-4 Transmute Artifact
-4 Ancient Tomb
+1 Tinker
+1 Tolarian Academy
+1 Trinisphere
 1 Urza's Saga
 1 Vexing Bauble
-1 Paradox Engine
-1 Chaos Defiler
+4 The One Ring
+4 Ancient Tomb
+2 Grim Monolith
+4 Force of Will
+4 Coveted Jewel
 
-1 Talon Gates of Madara
-2 Simulacrum Synthesizer
+2 Wurmcoil Engine
 2 Defense Grid
-2 Hullbreacher
-2 Force of Negation
+1 Mycosynth Lattice
+2 Kappa Cannoneer
 1 Grafdigger's Cage
-2 Void Mirror
-1 Darksteel Angel
+1 Pithing Needle
 2 Argentum Masticore
+2 Force of Negation
+2 Hullbreacher

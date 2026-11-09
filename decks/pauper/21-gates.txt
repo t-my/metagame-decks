@@ -1,25 +1,27 @@
-3 Guardian of the Guildpact
-4 Kor Skyfisher
-1 Relic of Progenitus
-4 Gatecreeper Vine
-2 Armadillo Cloak
+7 Island
+4 Contaminated Landscape
+3 Citadel Gate
+3 Sea Gate
+2 Black Dragon Gate
+1 Swamp
 1 Plains
+4 Baleful Strix
+4 Squadron Hawk
 4 Sacred Cat
-2 Prismatic Strands
-4 Dawnbringer Cleric
-4 Basilisk Gate
-4 Citadel Gate
-4 Cliffgate
-2 Heap Gate
-4 Manor Gate
-4 Lembas
-2 Forest
-3 Writhing Chrysalis
-4 Thraben Charm
-4 Clockwork Percussionist
+2 Outlaw Medic
+4 The Modern Age
+4 Deep Analysis
+4 Counterspell
+4 Cast Down
+4 Brainstorm
+3 Mantle of Tides
+1 Suffocating Fumes
+1 Opaline Bracers
 
-1 Relic of Progenitus
-4 Dust to Dust
-3 Cast into the Fire
-4 Circle of Protection: Red
-3 Tormod's Crypt
+3 Arms of Hadar
+4 Blue Elemental Blast
+1 Exclude
+2 Nihil Spellbomb
+1 Thraben Charm
+1 Staunch Throneguard
+3 Vandalblast

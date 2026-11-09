@@ -1,31 +1,31 @@
-3 Akroma, Angel of Wrath
-2 Animate Dead
-1 Avatar of Woe
-4 Cabal Therapy
-4 Careful Study
-3 City of Brass
-4 Dark Ritual
-4 Exhume
-3 Gemstone Mine
-2 Life/Death
-4 Lotus Petal
-3 Petradon
 4 Phantom Nishoba
 4 Putrid Imp
-4 Reanimate
-1 Sickening Dreams
-3 Swamp
-4 Underground River
-1 Undiscovered Paradise
-1 Unmask
+3 Akroma, Angel of Wrath
+3 Petradon
+1 Avatar of Woe
 1 Verdant Force
+4 Lotus Petal
+4 Dark Ritual
+4 Cabal Therapy
+4 Careful Study
+4 Exhume
+4 Reanimate
+2 Life/Death
+1 Sickening Dreams
+1 Unmask
+2 Animate Dead
+4 Gemstone Mine
+4 Underground River
+3 Swamp
+2 City of Brass
+1 Undiscovered Paradise
 
 1 Akroma, Angel of Wrath
 1 Sickening Dreams
+4 Oath of Druids
+2 Multani, Maro-Sorcerer
+2 Naturalize
+2 Tormod's Crypt
 1 Crumble
 1 Duress
-1 Ihsan's Shade
 1 Iridescent Angel
-2 Multani, Maro-Sorcerer
-3 Naturalize
-4 Oath of Druids

@@ -1,0 +1,25 @@
+10 Island
+1 Swamp
+4 Underground River
+4 Gush
+4 Accumulated Knowledge
+4 Foil
+4 Portent
+4 Polluted Delta
+4 Psychatog
+2 Smother
+4 Opt
+4 Counterspell
+4 Duress
+1 Deep Analysis
+2 Sickening Dreams
+1 Chain of Vapor
+3 Impulse
+
+1 Smother
+2 Annul
+4 Hydroblast
+2 Tsabo's Web
+2 Powder Keg
+2 Engineered Plague
+2 Legacy's Allure

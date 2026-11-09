@@ -1,31 +1,29 @@
-4 Amalia Benavides Aguirre
+1 Swamp
+1 Ajani Resolute
+2 Liliana the Faultless
 4 Enlightened Confidant
 4 Haliya, Guided by Light
-4 Hinterland Sanctifier
-4 Starscape Cleric
-2 Liliana the Faultless
+3 Erode
+4 Multiversal Passage
 1 Aunt May
-2 Erode
+4 Amalia Benavides Aguirre
+4 Starting Town
+4 Concealed Courtyard
+2 Deep-Cavern Bat
+4 Hinterland Sanctifier
 4 Case of the Uneaten Feast
-1 Seam Rip
-1 Professor Dellian Fel
+2 Starscape Cleric
+4 Lunar Convocation
+1 Great Arashin City
 4 Godless Shrine
 4 Plains
-4 Starting Town
-2 Great Arashin City
 3 Moseo, Vein's New Dean
-4 Concealed Courtyard
-4 Multiversal Passage
-1 Bloodthirsty Conqueror
-3 Lunar Convocation
 
-1 Erode
-3 Seam Rip
-2 Cathar Commando
-2 Clarion Conqueror
-2 Duress
-1 Intimidation Tactics
-1 Pyrrhic Strike
-1 Space-Time Anomaly
-1 Vicious Rivalry
-1 Lunar Convocation
+2 Sheltered by Ghosts
+2 Strategic Betrayal
+1 Seam Rip
+2 Pyrrhic Strike
+2 Shattered Acolyte
+3 Duress
+1 Ghost Vacuum
+2 Space-Time Anomaly
