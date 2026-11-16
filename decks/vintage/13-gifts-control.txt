@@ -1,0 +1,57 @@
+2 Flooded Strand
+2 Volcanic Island
+2 Tundra
+2 Scalding Tarn
+1 Underground Sea
+1 Thundering Falls
+1 Tolarian Academy
+1 Urza's Saga
+1 Island
+1 Polluted Delta
+1 Misty Rainforest
+4 Force of Will
+4 Stock Up
+3 Mana Drain
+2 Mindbreak Trap
+2 Lorien Revealed
+2 Flusterstorm
+2 Underworld Breach
+2 Gifts Ungiven
+1 Brainstorm
+1 Mox Pearl
+1 Soul-Guide Lantern
+1 Force of Negation
+1 Vexing Bauble
+1 Chain of Vapor
+1 Portable Hole
+1 Swords to Plowshares
+1 Time Walk
+1 Black Lotus
+1 Brain Freeze
+1 Mana Crypt
+1 Pyroblast
+1 Dig Through Time
+1 Ancestral Recall
+1 Gitaxian Probe
+1 Abrade
+1 Mental Misstep
+1 Merchant Scroll
+1 Demonic Tutor
+1 Sol Ring
+1 Mox Sapphire
+1 Mox Ruby
+1 Mox Jet
+
+1 Soul-Guide Lantern
+1 Portable Hole
+1 Swords to Plowshares
+1 Pyroblast
+2 Null Rod
+1 Overencumbered
+1 Lurrus of the Dream-Den
+1 Pithing Needle
+1 Red Elemental Blast
+1 The Tabernacle at Pendrell Vale
+2 Consign to Memory
+1 Wear/Tear
+1 Petrified Hamlet

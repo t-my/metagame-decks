@@ -1,0 +1,43 @@
+1 Gitaxian Probe
+1 Demonic Tutor
+1 Mox Jet
+1 Mental Misstep
+1 Ancestral Recall
+1 Spell Pierce
+1 Brainstorm
+1 Mox Sapphire
+1 Mox Ruby
+1 Black Lotus
+1 Mox Pearl
+1 Time Walk
+1 Kolaghan's Command
+2 Nihil Spellbomb
+2 Pyroblast
+2 Lorien Revealed
+3 Fatal Push
+3 Force of Negation
+4 Flow State
+4 Force of Will
+2 Bilbo, Thief in the Night
+2 Orcish Bowmasters
+3 Ragavan, Nimble Pilferer
+4 Psychic Frog
+1 Badlands
+1 Strip Mine
+2 Polluted Delta
+3 Volcanic Island
+3 Underground Sea
+3 Bloodstained Mire
+4 Wasteland
+
+1 Redirect Lightning
+1 By Force
+1 Grafdigger's Cage
+1 The Tabernacle at Pendrell Vale
+1 Snuff Out
+1 Null Rod
+1 Lurrus of the Dream-Den
+2 Feed the Swarm
+1 Lithomantic Barrage
+4 Consign to Memory
+1 Nihil Spellbomb

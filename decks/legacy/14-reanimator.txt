@@ -1,29 +1,28 @@
-4 Unmask
+2 Hapless Researcher
 3 Archon of Cruelty
-2 Polluted Delta
-2 Badlands
-2 Swamp
-2 Cabal Therapy
-4 Dark Ritual
-4 Reanimate
-4 Thoughtseize
-2 Marsh Flats
-4 Faithless Looting
-1 Raph & Mikey, Troublemakers
-1 Raucous Theater
-4 Griselbrand
-4 Shallow Grave
-2 Verdant Catacombs
-1 Bloodstained Mire
-1 Undercity Sewers
-1 Underground Sea
 4 Atraxa, Grand Unifier
-4 Animate Dead
-4 Lotus Petal
+4 Tamiyo, Inquisitive Student
+4 Force of Will
+4 Brainstorm
+3 Daze
+4 Chart a Course
+4 Thoughtseize
+4 Reanimate
+2 Careful Study
+3 Animate Dead
+1 Island
+1 Swamp
+2 Bloodstained Mire
+1 Flooded Strand
+4 Polluted Delta
+3 Underground Sea
+2 Scalding Tarn
+3 Wasteland
+2 Undercity Sewers
 
-2 Bitter Triumph
-2 Collective Brutality
-4 Show and Tell
-1 Magus of the Moon
-3 Stronghold Gambit
-3 Hexing Squelcher
+4 Fatal Push
+1 Blue Elemental Blast
+3 Show and Tell
+2 Orcish Bowmasters
+3 Emperor of Bones
+2 Disruptor Flute

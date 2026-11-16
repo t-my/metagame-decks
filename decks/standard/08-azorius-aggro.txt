@@ -1,28 +1,29 @@
-1 Abandoned Air Temple
-1 Curious Farm Animals
-4 Daydream
-2 Erode
-4 Floodfarm Verge
-9 Plains
-1 Guiding Hydra
-4 Momo, Friendly Flier
-1 Nurturing Pixie
-3 Practiced Offense
-4 Quantum Riddler
-4 Hallowed Fountain
-1 Seam Rip
+1 Erode
+2 Seam Rip
 4 Springleaf Drum
+4 Daydream
+4 Practiced Offense
+1 Guiding Hydra
+1 Nurturing Pixie
+2 The Wondrous Wasp
+4 Quantum Riddler
+4 Sage of the Skies
 4 Starfield Shepherd
 4 Steamcore Scholar
-3 Gleaming Bastion
-4 Sage of the Skies
-2 The Theorist, Jace Beleren
+4 Momo, Friendly Flier
+1 Island
+2 Multiversal Passage
+4 Floodfarm Verge
+4 Gleaming Bastion
+4 Hallowed Fountain
+6 Plains
 
-1 Erode
-3 Seam Rip
-2 Avatar's Wrath
-2 Clarion Conqueror
-2 Spell Pierce
-1 Sphinx of False Conclusions
+1 Spell Pierce
+1 Pyrrhic Strike
+1 Ghost Vacuum
 2 Spider-Sense
-2 Disdainful Stroke
+2 No More Lies
+2 Clarion Conqueror
+3 The Theorist, Jace Beleren
+2 Seam Rip
+1 The Wondrous Wasp

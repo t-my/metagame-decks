@@ -1,30 +1,42 @@
-4 Terravore
-4 Mox Diamond
-4 Sphere of Resistance
-4 Swords to Plowshares
-1 Naturalize
-3 Thermokarst
-3 Winter's Grasp
-4 Oath of Druids
-4 Sylvan Library
-1 Seal of Cleansing
-4 Brushland
-4 Mishra's Factory
-4 Rishadan Port
-4 Treetop Village
-4 Wasteland
-4 Windswept Heath
-3 Forest
-1 Plains
-
-1 Seal of Cleansing
-3 Call of the Herd
-2 Cursed Totem
-2 Gaea's Blessing
-1 Aura of Silence
-1 Circle of Protection: Red
-1 Crumble
-1 Disenchant
+2 Adarkar Wastes
+1 Akroma, Angel of Wrath
+2 Brushland
+1 Constant Mists
+4 Counterspell
+1 Decree of Justice
 1 Enlightened Tutor
+1 Exalted Angel
+3 Fact or Fiction
+1 Faerie Conclave
+3 Flooded Strand
+2 Forest
+3 Gaea's Blessing
+1 Grand Coliseum
+4 Island
+2 Lat-Nam's Legacy
+2 Mishra's Factory
+4 Oath of Druids
+1 Phantom Nishoba
+2 Plains
+3 Power Sink
+1 Ray of Revelation
+1 Scroll Rack
+4 Swords to Plowshares
+1 Sylvan Library
+1 Treetop Village
+1 Treva's Ruins
+2 Windswept Heath
+2 Wrath of God
+2 Yavimaya Coast
+1 Memory Lapse
+
+1 Aura of Silence
+2 Blue Elemental Blast
+1 Cursed Totem
+2 Hydroblast
+1 Multani, Maro-Sorcerer
+2 Seal of Cleansing
+1 Teferi's Response
+1 Tormod's Crypt
+3 Annul
 1 Phyrexian Furnace
-1 Zuran Orb

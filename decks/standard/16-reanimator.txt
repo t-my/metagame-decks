@@ -1,33 +1,33 @@
-1 Prismari Charm
-1 Bitter Triumph
-3 The Theorist, Jace Beleren
-3 Requiting Hex
-4 Ajani Unrelenting
-4 Rewrite Regrets
-1 Overlord of the Boilerbilges
-1 Emeritus of Ideation
-2 Overlord of the Balemurk
-4 Ashling, Rekindled
 4 Deceit
 4 Superior Spider-Man
-4 Seasoned Cryomancer
-1 Swamp
-1 Starting Town
-1 Island
-2 Blazemire Verge
-3 Riverpyre Verge
-4 Watery Grave
-4 Gloomlake Verge
-4 Steam Vents
-4 Blood Crypt
-
-3 Duress
-2 Terminal Criticism
-1 Garruk, Veiled Butcher
-1 M.O.D.O.K.
-1 Wan Shi Tong, Librarian
-1 Day of Black Sun
-3 Strategic Betrayal
+3 Doomsday Excruciator
+3 Seasoned Cryomancer
+2 Emeritus of Ideation
 1 Harvester of Misery
-1 Ill-Timed Explosion
-1 The Theorist, Jace Beleren
+1 Uldaros Theorix
+3 Bitter Triumph
+3 Requiting Hex
+2 Theorix Charm
+3 Day of Black Sun
+3 Winternight Stories
+1 Deadly Cover-Up
+1 Insatiable Avarice
+1 Strategic Betrayal
+7 Swamp
+4 Gloomlake Verge
+4 Restless Reef
+4 Watery Grave
+3 Shipwreck Marsh
+2 Undercity Sewers
+1 Cavern of Souls
+
+1 Deadly Cover-Up
+1 Strategic Betrayal
+3 Duress
+2 Disdainful Stroke
+2 Flashfreeze
+2 Qarsi Revenant
+1 Ancient Vendetta
+1 Ghost Vacuum
+1 M.O.D.O.K.
+1 Negate

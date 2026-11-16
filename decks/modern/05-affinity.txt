@@ -1,33 +1,35 @@
-1 Steam Vents
+4 Anthropological Mission
+4 Boomerang Basics
+1 Conjurer's Bauble
+4 Cori-Steel Cutter
+4 Emry, Lurker of the Loch
+1 Tormod's Crypt
+2 Steam Vents
+1 Soul-Guide Lantern
+4 Scalding Tarn
+4 Repeal
+3 Mox Amber
 4 Mox Opal
-4 Kappa Cannoneer
-2 Metallic Rebuke
-3 Preordain
-1 Pithing Needle
-1 Shadowspear
-1 Sink into Stupor
-1 Skateboard
-2 Island
-4 Fiery Islet
-4 Urza's Saga
-4 Weapons Manufacturing
-4 Engineered Explosives
-4 Tormod's Crypt
-2 Welding Jar
-2 Galvanic Blast
-3 Claws of Gix
-3 Spirebluff Canal
+1 Mountain
 4 Mishra's Bauble
-2 Shivan Reef
-4 Pinnacle Emissary
+1 Island
+1 Skateboard
+2 Galvanic Blast
+4 Tamiyo, Inquisitive Student
+1 Thassa's Oracle
+1 Thundering Falls
+1 Fiery Islet
+4 Urza's Saga
+2 Flooded Strand
+2 Polluted Delta
 
-1 Galvanic Blast
-1 Whipflare
-3 Consign to Memory
-1 Swan Song
-1 Disruptor Flute
-1 Mystical Dispute
-1 Vexing Bauble
-2 Blood Moon
-2 Obsidian Charmaw
-2 Strix Serenade
+1 Pyroclasm
+4 Consign to Memory
+1 Fire Magic
+1 Pithing Needle
+2 Force of Negation
+2 Metallic Rebuke
+1 Flame of Anor
+1 Aether Spellbomb
+1 Shadowspear
+1 Test of Talents

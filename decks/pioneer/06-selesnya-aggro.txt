@@ -1,29 +1,31 @@
-2 Abandoned Air Temple
-4 Archon of Emeria
-4 Aven Interrupter
-4 Badgermole Cub
+1 Eiganjo, Seat of the Empire
 1 Boseiju, Who Endures
-1 Scavenging Ooze
+3 Ouroboroid
 4 Collected Company
-2 Dromoka's Command
-2 Duskwatch Recruiter
-4 Elvish Mystic
 4 Enduring Innocence
-4 Razorverge Thicket
-2 Hushwood Verge
-2 Plains
-4 Llanowar Elves
+4 Professor of Symbology
+4 Elvish Mystic
 4 Skyclave Apparition
-3 Forest
-4 Brushland
-1 Surrak, Elusive Hunter
+2 Starting Town
+4 Razorverge Thicket
 4 Temple Garden
+2 Aven Interrupter
+3 Thalia, Guardian of Thraben
+4 Brushland
+4 Llanowar Elves
+3 Plains
+1 Forest
+2 Abandoned Air Temple
+1 Elspeth, Storm Slayer
+1 March of Otherworldly Light
+4 Badgermole Cub
 
-1 Scavenging Ooze
-1 Surrak, Elusive Hunter
-2 Erode
-1 Extraction Specialist
-2 Knight of Autumn
-3 Seam Rip
-4 Solarium Sentry
-1 Unlicensed Hearse
+1 Elspeth, Storm Slayer
+3 Solarium Sentry
+1 Split Up
+1 Origin of Metalbending
+2 Seam Rip
+1 Germination Practicum
+2 Unlicensed Hearse
+3 Clarion Conqueror
+1 The Wandering Emperor

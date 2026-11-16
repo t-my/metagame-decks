@@ -1,32 +1,35 @@
-4 Flooded Strand
-4 Misty Rainforest
-4 Wasteland
 2 Tundra
-2 Island
-1 Meticulous Archive
-1 Plains
-1 Karakas
-1 Volcanic Island
-4 Tamiyo, Inquisitive Student
-4 Quantum Riddler
-4 Phelia, Exuberant Shepherd
-2 Murktide Regent
-4 Ponder
 4 Swords to Plowshares
-4 Stifle
-4 Brainstorm
+3 Island
+3 Stifle
+4 Ponder
+4 Phelia, Exuberant Shepherd
+3 Prismatic Vista
+1 Meticulous Archive
+1 Karakas
+1 Murktide Regent
+1 Plains
 4 Force of Will
+4 Quantum Riddler
+1 Force of Negation
+4 Flooded Strand
+4 Tamiyo, Inquisitive Student
 3 Daze
-2 Consign to Memory
-1 Force of Negation
-
 1 Consign to Memory
-1 Force of Negation
-2 Rest in Peace
-1 Forth Eorlingas!
+4 Brainstorm
 2 Wrath of the Skies
-2 Triumph of Saint Katherine
-2 Pyroblast
-1 Containment Priest
+4 Wasteland
+2 Teferi, Time Raveler
+
+1 Force of Negation
+1 Consign to Memory
+1 Damping Sphere
+2 Containment Priest
+1 Null Rod
 1 Lavinia, Azorius Renegade
-2 Hydroblast
+2 Rest in Peace
+1 Erode
+2 Blue Elemental Blast
+1 Supreme Verdict
+1 Narset, Parter of Veils
+1 Back to Basics

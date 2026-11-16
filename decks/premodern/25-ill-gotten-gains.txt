@@ -1,0 +1,26 @@
+4 Lion's Eye Diamond
+4 Lotus Petal
+4 Brain Freeze
+4 Cabal Ritual
+4 Dark Ritual
+4 Intuition
+4 Mental Note
+4 Opt
+1 Chain of Vapor
+4 Ill-Gotten Gains
+4 Sleight of Hand
+2 Deep Analysis
+1 Recoup
+4 Island
+4 Polluted Delta
+4 Underground River
+2 Cephalid Coliseum
+1 Cabal Pit
+1 Swamp
+
+2 Chain of Vapor
+3 Arcane Denial
+3 Extract
+3 Hydroblast
+2 Mana Short
+2 Smother

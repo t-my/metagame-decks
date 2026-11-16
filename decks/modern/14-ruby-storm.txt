@@ -1,30 +1,35 @@
-2 Scalding Tarn
-1 Artist's Talent
-1 Blood Crypt
 4 Ruby Medallion
-1 Elegant Parlor
-4 Ral, Monsoon Mage
-4 Hex Magic
+5 Mountain
+4 Desperate Ritual
+1 Gemstone Caverns
+2 Glimpse the Impossible
+1 Sacred Foundry
 3 Past in Flames
-1 Raucous Theater
 4 Pyretic Ritual
 4 Manamorphose
 4 Reckless Impulse
-4 Desperate Ritual
-3 Bloodstained Mire
-1 Sacred Foundry
-2 Twinned Vision
-2 Valakut Awakening
-2 Wish
-3 Arid Mesa
+2 Wooded Foothills
+3 Wish
 4 Wrenn's Resolve
-3 Wooded Foothills
-3 Mountain
+2 Elegant Parlor
+3 Bloodstained Mire
+4 Scalding Tarn
+4 Ral, Monsoon Mage
+1 Artist's Talent
+2 Valakut Awakening
+1 Grapeshot
+2 Hex Magic
 
 1 Past in Flames
-1 Brotherhood's End
 1 Grapeshot
+1 Alchemist's Gambit
 1 Empty the Warrens
-4 Prismatic Ending
-3 Wear/Tear
-4 Thoughtseize
+1 Brotherhood's End
+1 Shattering Spree
+1 March of Otherworldly Light
+1 Stormscale Scion
+2 Wear/Tear
+2 Prismatic Ending
+1 Hexing Squelcher
+1 Untimely Malfunction
+1 Orim's Chant

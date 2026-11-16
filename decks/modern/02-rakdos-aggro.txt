@@ -1,29 +1,35 @@
-1 Arid Mesa
-4 Mishra's Bauble
-4 Marsh Flats
-4 Dark Matter Manipulator
-4 Detective's Phoenix
-4 Fear of Missing Out
-4 Flare of Malice
-1 Troll of Khazad-dum
-4 Thoughtseize
-4 Moonshadow
 2 Swamp
-4 Nethergoyf
-1 Raucous Theater
-4 Stitcher's Supplier
+4 Bloodstained Mire
+4 Fear of Missing Out
+4 Mishra's Bauble
+1 Polluted Delta
+4 Thoughtseize
+2 Marsh Flats
+3 Nethergoyf
+2 Raucous Theater
+4 Lightning Bolt
+1 Arid Mesa
 4 Street Wraith
 1 Mountain
-2 Lightning Bolt
+4 Moonshadow
 1 Verdant Catacombs
 3 Blood Crypt
-4 Bloodstained Mire
-
-2 Inquisition of Kozilek
-2 Nihil Spellbomb
-2 Glistening Deluge
-1 Ingot Chewer
-2 Meltdown
+1 Nihil Spellbomb
 2 Fatal Push
-2 Ob Nixilis, the Adversary
-2 Blood Moon
+2 Troll of Khazad-dum
+1 Death's Shadow
+2 Unholy Heat
+4 Dark Matter Manipulator
+4 Detective's Phoenix
+
+1 Fatal Push
+1 Rough/Tumble
+1 Inquisition of Kozilek
+1 Blood Moon
+1 Liliana of the Veil
+1 Obsidian Charmaw
+1 Ob Nixilis, the Adversary
+1 Glistening Deluge
+2 Meltdown
+1 End of the Hunt
+4 Leyline of the Void
