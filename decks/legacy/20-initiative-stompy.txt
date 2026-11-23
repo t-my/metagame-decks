@@ -1,0 +1,27 @@
+1 Forest
+4 Cavern of Souls
+4 Ancient Tomb
+4 Seasoned Dungeoneer
+4 Caves of Chaos Adventurer
+4 Undermountain Adventurer
+4 Lotus Petal
+4 City of Traitors
+4 Simian Spirit Guide
+1 Mountain
+1 Plains
+4 Elvish Spirit Guide
+2 Once Upon a Time
+1 Karakas
+4 Chancellor of the Annex
+4 Trinisphere
+3 Forth Eorlingas!
+1 Chrome Mox
+4 Chalice of the Void
+2 Redirect Lightning
+
+4 Karn, the Great Creator
+1 Liquimetal Coating
+1 Eldrazi Confluence
+4 Solitude
+1 Ensnaring Bridge
+4 Kozilek's Command

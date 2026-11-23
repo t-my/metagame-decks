@@ -1,0 +1,35 @@
+1 Vesuva
+1 Tolaria West
+2 Forest
+4 Gruul Turf
+1 Valakut, the Molten Pinnacle
+4 Amulet of Vigor
+4 Simic Growth Chamber
+4 Green Sun's Zenith
+2 Summoner's Pact
+4 Crumbling Vestige
+1 Mirrorpool
+1 Hanweir Battlements
+4 Arboreal Grazer
+2 Dryad of the Ilysian Grove
+4 Urza's Saga
+1 Yavimaya, Cradle of Growth
+1 Roiling Canopy
+3 Boseiju, Who Endures
+1 Otawara, Soaring City
+4 Spelunking
+1 Echoing Deeps
+1 Cultivator Colossus
+4 Scapeshift
+4 Primeval Titan
+1 Dryad Arbor
+
+2 Firespout
+3 Dismember
+1 Bojuka Bog
+2 Force of Vigor
+3 Trinisphere
+1 Endurance
+1 Six
+1 Vexing Bauble
+1 Ba Sing Se

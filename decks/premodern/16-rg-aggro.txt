@@ -1,0 +1,29 @@
+1 Powder Keg
+1 Naturalize
+1 Earthquake
+2 Fire/Ice
+4 Incinerate
+4 Lava Dart
+4 Lightning Bolt
+4 Call of the Herd
+4 Seal of Fire
+1 Jackal Pup
+1 Nantuko Vigilante
+3 Grim Lavamancer
+4 Mogg Fanatic
+4 Quirion Dryad
+2 City of Brass
+3 Forest
+3 Treetop Village
+4 Wooded Foothills
+4 Karplusan Forest
+6 Mountain
+
+1 Tranquil Domain
+1 Anarchy
+2 Compost
+1 Hull Breach
+3 Pyroblast
+2 Pyroclasm
+3 Ravenous Baloth
+2 Tormod's Crypt

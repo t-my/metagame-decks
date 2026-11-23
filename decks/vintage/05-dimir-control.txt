@@ -1,47 +1,47 @@
-2 Orcish Bowmasters
-4 Psychic Frog
-2 Bilbo, Thief in the Night
+1 Ancestral Recall
 1 Black Lotus
+4 Wasteland
+1 Urza's Saga
+1 Strip Mine
+1 Brainstorm
+2 Spell Pierce
+4 Force of Negation
+2 Lorien Revealed
+4 Polluted Delta
+1 Mental Misstep
+1 Island
+2 Flow State
 1 Mox Jet
 1 Mox Pearl
 1 Mox Sapphire
-1 Nihil Spellbomb
-3 Fatal Push
-1 Spell Pierce
+1 Mystical Dispute
+1 Gitaxian Probe
+4 Psychic Frog
 4 Force of Will
-1 Brainstorm
-1 Ancestral Recall
-1 Mental Misstep
-3 Force of Negation
-2 Mystical Dispute
-1 Merchant Scroll
+3 Fatal Push
 1 Demonic Tutor
 1 Time Walk
-1 Ponder
-1 Thoughtseize
-1 Gitaxian Probe
-1 Feed the Swarm
-2 Lorien Revealed
-4 Flow State
-1 Island
-1 Swamp
-1 Strip Mine
-1 Bloodstained Mire
-4 Polluted Delta
-1 Karakas
-4 Underground Sea
-4 Wasteland
+2 Bilbo, Thief in the Night
 1 Undercity Sewers
-
+4 Underground Sea
+1 Scalding Tarn
 1 Nihil Spellbomb
-1 Fatal Push
-1 Mystical Dispute
-1 Tormod's Crypt
-2 The Tabernacle at Pendrell Vale
-1 Snuff Out
+1 Swamp
 1 Null Rod
-1 Steel Sabotage
+1 Timetwister
+4 Orcish Bowmasters
+1 Treasure Cruise
+
+1 Mystical Dispute
+1 Nihil Spellbomb
+1 Null Rod
+2 Consign to Memory
+1 Dismember
+1 Dauthi Voidwalker
 1 Lurrus of the Dream-Den
-1 Sheoldred's Edict
-1 Long Goodbye
-3 Consign to Memory
+1 Snuff Out
+2 Grafdigger's Cage
+1 The Tabernacle at Pendrell Vale
+1 Steel Sabotage
+1 Annul
+1 Feed the Swarm

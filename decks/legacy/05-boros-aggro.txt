@@ -1,33 +1,32 @@
-2 Sand Scout
-4 Guide of Souls
-4 Ocelot Pride
-4 Amped Raptor
-1 Phlage, Titan of Fire's Fury
 4 Ajani, Nacatl Pariah
-4 Voice of Victory
-3 Hexing Squelcher
-4 Swords to Plowshares
-1 Erode
-3 Goblin Bombardment
-2 Static Prison
-2 Plains
-1 Mountain
-1 Flooded Strand
+4 Amped Raptor
 2 Windswept Heath
-2 Karakas
-2 Plateau
-4 Arid Mesa
-1 Marsh Flats
-4 Wasteland
-2 Sunbaked Canyon
 1 Elegant Parlor
+4 Wasteland
+4 Swords to Plowshares
+4 Guide of Souls
+2 Plateau
+1 Plains
+2 Lavinia, Azorius Renegade
+1 Mountain
+2 Marsh Flats
 2 Lazotep Quarry
+4 Ocelot Pride
+2 Karakas
+2 Hexing Squelcher
+4 Sand Scout
+2 Static Prison
+2 Goblin Bombardment
+2 Tundra
+4 Voice of Victory
+1 Flooded Strand
+4 Arid Mesa
 
-3 Price of Progress
-1 Pyroblast
+3 Surgical Extraction
 1 Red Elemental Blast
-2 Surgical Extraction
-2 Containment Priest
 3 Deafening Silence
-1 Wrath of the Skies
-2 Disruptor Flute
+3 Dress Down
+1 Jegantha, the Wellspring
+1 Pyroblast
+2 Celestial Purge
+1 Abrade

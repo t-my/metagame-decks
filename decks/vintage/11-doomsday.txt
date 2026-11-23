@@ -1,47 +1,42 @@
-4 Street Wraith
-2 Thassa's Oracle
+1 Ancestral Recall
 1 Black Lotus
+1 Brainstorm
+1 Vampiric Tutor
+1 Daze
+1 Island
+1 Gush
+4 Doomsday
+3 Flusterstorm
+4 Psychic Frog
+3 Force of Negation
+4 Force of Will
+1 Gitaxian Probe
+1 Dig Through Time
+1 Demonic Tutor
+1 Mental Misstep
+3 Mishra's Bauble
+2 Polluted Delta
 1 Mox Jet
 1 Mox Sapphire
-1 The Fantasticar
-4 Force of Will
-1 Brainstorm
-4 Dark Ritual
-1 Demonic Consultation
-1 Dig Through Time
-1 Ancestral Recall
-1 Misdirection
-1 Gush
-1 Mental Misstep
-1 Chain of Vapor
-3 Flusterstorm
-1 Mystical Dispute
-1 Consider
-4 Doomsday
-1 Treasure Cruise
-1 Demonic Tutor
-1 Time Walk
-4 Ponder
-1 Thoughtseize
-1 Gitaxian Probe
-2 Flow State
-1 Snow-Covered Island
-2 Flooded Strand
-2 Polluted Delta
-4 Underground Sea
-2 Misty Rainforest
 2 Scalding Tarn
+2 Flooded Strand
+1 Preordain
+1 Thassa's Oracle
+1 Time Walk
+1 Treasure Cruise
 1 Undercity Sewers
+4 Underground Sea
+4 Dark Ritual
+1 Unable to Scream
+4 Ponder
+2 Misty Rainforest
 
-1 Grafdigger's Cage
-1 Necropotence
-1 The Tabernacle at Pendrell Vale
+3 Unable to Scream
+1 Consign to Memory
+1 Lurrus of the Dream-Den
+2 Mindbreak Trap
 1 Snuff Out
-1 Mindbreak Trap
-2 Null Rod
 1 Steel Sabotage
-1 Soul-Guide Lantern
-1 Dress Down
-1 Murktide Regent
-2 Long Goodbye
-2 Consign to Memory
+1 Null Rod
+1 Thoughtseize
+4 Leyline of the Void

@@ -1,28 +1,28 @@
-4 Wasteland
-4 Brainstorm
-4 Misty Rainforest
-4 Hogaak, Arisen Necropolis
-4 Force of Will
-4 Underground Sea
 3 Mockingbird
-3 Orcish Bowmasters
-4 Verdant Catacombs
-3 Ponder
-1 Swamp
-1 Undercity Sewers
-1 Dryad Arbor
-4 Moonshadow
-4 Stitcher's Supplier
-1 Brazen Borrower
-3 Daze
+4 Underground Sea
 2 Thoughtseize
 2 Kaito, Bane of Nightmares
+4 Misty Rainforest
 4 Dark Matter Manipulator
+1 Dryad Arbor
+3 Ponder
+4 Wasteland
+4 Brainstorm
+3 Orcish Bowmasters
+1 Undercity Sewers
+4 Moonshadow
+1 Brazen Borrower
+3 Daze
+4 Hogaak, Arisen Necropolis
+4 Stitcher's Supplier
+4 Force of Will
+1 Swamp
+4 Verdant Catacombs
 
 1 Brazen Borrower
 3 Dauthi Voidwalker
 4 Fatal Push
-2 Force of Negation
 2 Karakas
-1 Feed the Swarm
 2 Consign to Memory
+2 Force of Negation
+1 Feed the Swarm

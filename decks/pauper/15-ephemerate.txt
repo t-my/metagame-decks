@@ -1,28 +1,29 @@
-3 God-Pharaoh's Faithful
-4 Faerie Seer
-4 Spellstutter Sprite
-4 Sunscape Familiar
-1 Murmuring Mystic
-2 Archaeomancer
-2 Mulldrifter
-3 Ephemerate
-4 Snap
-4 Memory Lapse
-1 Ghostly Flicker
-4 Meeting of Minds
-3 Unexpected Assistance
-3 Plains
-11 Island
-1 Perilous Landscape
-1 Tranquil Landscape
-2 Tranquil Cove
-3 Azorius Chancery
-
-1 God-Pharaoh's Faithful
+3 Glacial Floodplain
+2 Behold the Multiverse
+3 Mulldrifter
 2 Murmuring Mystic
-2 Dispel
-4 Hydroblast
-2 Holy Day
+2 Ride's End
+4 Augur of Bolas
+2 Archaeomancer
+3 Ephemerate
 1 Thraben Charm
-2 Nature's Chant
-1 Standard Bearer
+4 Counterspell
+4 Skred
+4 Preordain
+6 Snow-Covered Island
+2 Snow-Covered Plains
+2 Fanged Flames
+1 Union of the Third Path
+4 Lorien Revealed
+4 Perilous Landscape
+3 Volatile Fjord
+2 Dispel
+2 Snow-Covered Mountain
+
+2 Thraben Charm
+1 Union of the Third Path
+1 Blue Elemental Blast
+4 Hydroblast
+2 Dust to Dust
+1 Stonehorn Dignitary
+4 Pyroblast

@@ -1,35 +1,32 @@
-4 Anthropological Mission
-4 Boomerang Basics
-1 Conjurer's Bauble
-4 Cori-Steel Cutter
-4 Emry, Lurker of the Loch
-1 Tormod's Crypt
-2 Steam Vents
-1 Soul-Guide Lantern
-4 Scalding Tarn
-4 Repeal
-3 Mox Amber
-4 Mox Opal
-1 Mountain
-4 Mishra's Bauble
-1 Island
-1 Skateboard
-2 Galvanic Blast
-4 Tamiyo, Inquisitive Student
-1 Thassa's Oracle
-1 Thundering Falls
-1 Fiery Islet
-4 Urza's Saga
-2 Flooded Strand
-2 Polluted Delta
-
-1 Pyroclasm
-4 Consign to Memory
-1 Fire Magic
+1 Blackcleave Cliffs
+1 Borg Cube
+4 Castle Doom
+4 Collation Trimatrix
+4 Tormod's Crypt
 1 Pithing Needle
-2 Force of Negation
-2 Metallic Rebuke
-1 Flame of Anor
-1 Aether Spellbomb
+4 Mox Opal
+4 Memnite
+4 Mishra's Bauble
+4 Kappa Cannoneer
+4 Ornithopter
+4 Pinnacle Emissary
+1 Island
+4 Ravenous Robots
 1 Shadowspear
-1 Test of Talents
+1 Skateboard
+1 Spirebluff Canal
+4 Starting Town
+1 Synthesizer Labship
+2 Darkslick Shores
+4 Urza's Saga
+1 Welding Jar
+1 Watery Grave
+
+1 Crashing Footfalls
+3 Damping Sphere
+3 Disruptor Flute
+1 Doomwake Giant
+2 Grim Bauble
+3 Thought-Knot Seer
+1 Vexing Bauble
+1 Whipflare

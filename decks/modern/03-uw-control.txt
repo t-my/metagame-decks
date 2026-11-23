@@ -1,34 +1,36 @@
 1 Supreme Verdict
-1 Get Lost
-1 Teferi, Hero of Dominaria
-2 Spell Snare
-2 Day's Undoing
-2 Lorien Revealed
-2 Path to Exile
-3 Teferi, Time Raveler
-3 Consult the Star Charts
-3 Prismatic Ending
-4 Counterspell
-4 Wrath of the Skies
-4 Narset, Parter of Veils
-4 Solitude
-1 Hall of Storm Giants
+1 Spell Snare
+4 Day's Undoing
+2 Erode
+3 Preordain
 1 Geier Reach Sanitarium
+4 Orim's Chant
+2 Island
+1 Misty Rainforest
+1 Isochron Scepter
 1 Monumental Henge
+4 Narset, Parter of Veils
+2 Hallowed Fountain
 1 Otawara, Soaring City
-1 Watery Grave
-1 Mystic Gate
+2 Wrath of the Skies
+4 Flooded Strand
+2 Prismatic Ending
+1 Razorgrass Ambush
+1 Celestial Colonnade
+1 Sink into Stupor
+4 Solitude
+4 Teferi, Time Raveler
+1 Thundering Falls
+1 Polluted Delta
+1 The Mind Stone
 2 Plains
 2 Meticulous Archive
-2 Hallowed Fountain
-4 Field of Ruin
-4 Flooded Strand
-4 Island
+3 Silence
+3 Arid Mesa
 
-2 Damping Sphere
-4 Consign to Memory
+1 Wrath of the Skies
+3 Consign to Memory
 3 Mystical Dispute
-2 Beza, the Bounding Spring
-1 Ashiok, Dream Render
-1 Celestial Purge
-2 Path to Exile
+3 Sanctifier en-Vec
+3 Sanctum Prelate
+2 The Wandering Emperor
